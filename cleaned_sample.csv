@@ -1,0 +1,501 @@
+,id,brand,categories,dateUpdated,name,sizes,sourceURLs,prices.amountMin,prices.condition,prices.currency,prices.dateSeen,prices.merchant
+0,AVpe--Dm1cnluZ0-bUfn,My1stWish,[Shoes],2015-09-10T17:10:32Z,My1stwish Ankle Buckle Strap Mid Heel Shoes Women's,,www.amazon.co.uk,24.99,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+1,AVpe--EBLJeJML43zy8r,Clarks,[Shoes],2015-09-10T17:34:45Z,Clarks Rufion Still Pumps Womens,,www.amazon.co.uk,23.99,new,EUR,2015-09-05T00:00:00Z,Crystalz
+2,AVpe--LsLJeJML43zy_j,Propet,[Shoes],2015-10-31T09:16:32Z,Morgan,"[10, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8]",www.6pm.com,25.99,New,USD,2015-10-28T00:00:00Z,6pm.com
+3,AVpe--ORLJeJML43zzAo,Keen Kids,"[Shoes, Boots]",2016-05-08T02:30:01Z,Rover Crib (infant),,www.6pm.com,30.99,New,USD,2016-04-09T00:00:00Z,6pm.com
+4,AVpe--cwLJeJML43zzFy,Born,[shoes],2015-06-01T18:02:07Z,Born Ellen Dress Sandals,,www.dillards.com,109.0,,USD,2015-05-31T18:16:46.074Z,Dillards.com
+5,AVpe--pPLJeJML43zzKY,Nike,"[Running Shoes, Girls' Shoes, Running Gear, Girls' Running Shoes]",2016-01-27T10:48:34Z,Nike Girls' Flex Run 2015 Running Shoes - Preschool,,www.sportsauthority.com,58.0,,USD,2016-01-27T00:00:00Z,
+6,AVpe--tgilAPnD_xSXhu,adidas,"[Academy, Boys' Football Cleats, Boys' Cleats, Boys' Shoes]",2016-10-15T23:27:12Z,Adidas Boys' Freak Md Wide Football Cleats,,www.academy.com,29.99,,USD,2016-10-09T00:00:00Z,
+7,AVpe--tvilAPnD_xSXh2,Kate Spade New York,"[Heels, Shoes]",2016-07-29T22:30:04Z,Cristie,"[10.5, 10, 8.5, 5.5, 7, 9.5, 6.5, 7.5, 9, 8, 11]",www.6pm.com,131.2,New,USD,2016-04-02T00:00:00Z,6pm.com
+8,AVpe-03cLJeJML43zvoM,adidas,"[Academy, Boys' Shoes, Boys' Sneakers]",2016-07-21T11:24:10Z,Adidas Kids' Neo Advantage Vs Shoes,,www.academy.com,39.99,,USD,2016-07-19T18:10:43Z,
+9,AVpe-06SLJeJML43zvo_,Naturalizer,"[Heels, Shoes]",2015-10-31T10:07:29Z,Demand,"[8.5, 10, 9.5, 7.5, 9, 8]",www.6pm.com,57.99,New,USD,2015-10-28T00:00:00Z,6pm.com
+10,AVpe-0AXilAPnD_xSTqz,Franco Sarto,"[Loafers, Shoes]",2015-10-30T16:49:36Z,Joella,"[7, 6, 6.5, 7.5, 8]",www.6pm.com,44.99,New,USD,2015-10-28T00:00:00Z,6pm.com
+11,AVpe-0Az1cnluZ0-bQ3Y,Clarks,[shoes],2015-05-19T14:02:55Z,Clarks Lucette Holly Casual Boots,,www.bergners.com,67.19,,USD,2015-05-12T22:54:19.562Z,
+12,AVpe-0C61cnluZ0-bQ4S,Generic,[Shoes],2015-09-10T16:35:50Z,Mens Koala Bay Mule Flip Flop,,www.amazon.co.uk,6.99,new,EUR,2015-09-08T00:00:00Z,Amazon.co.uk
+13,AVpe-0F4LJeJML43zvWi,Ralph Lauren,"[Women, Shoes]",2016-02-25T20:14:38Z,Janis Slip-on Sneaker,,www.ralphlauren.com,49.0,New,USD,2016-02-21T00:00:00Z,www.ralphlauren.com
+14,AVpe-0GHLJeJML43zvWq,Shoot,[Shoes],2015-09-10T17:23:51Z,Shoot Women's Sh13678 Schlupfstiefel,,www.amazon.co.uk,88.35,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+15,AVpe-0I01cnluZ0-bQ6X,Steve Madden Kids,"[Shoes, Boots]",2015-11-11T00:19:06Z,J-graced (toddler/little Kid/big Kid),,www.6pm.com,29.99,New,USD,2015-10-28T00:00:00Z,6pm.com
+16,AVpe-0IQLJeJML43zvXa,Tommy Bahama,[shoes],2015-05-21T12:33:13Z,Tommy Bahama Relaxology Cartahena Sneakers,,www.dillards.com,94.99,,USD,2015-05-19T18:53:27.389Z,Dillards.com
+17,AVpe-0PSLJeJML43zvZ4,Bed Stu,"[Oxfords, Shoes]",2015-10-19T18:59:48Z,Edison,[11.5],www.6pm.com,108.26,New,USD,2015-10-14T00:00:00Z,6pm.com
+18,AVpe-0SEilAPnD_xSTxD,Ivanka Trump,"[Heels, Shoes]",2016-05-24T08:49:12Z,Mani,"[10, 8.5, 9.5]",www.6pm.com,70.99,New,USD,2016-04-02T00:00:00Z,6pm.com
+19,AVpe-0SN1cnluZ0-bQ9q,PUMA,[shoes],2015-04-03T12:10:49Z,'suede Classic' Sneaker (women),[5.5],shop.nordstrom.com,58.95,,USD,2015-04-03T15:44:42.159Z,
+20,AVpe-0U9ilAPnD_xSTyK,Pikolinos,"[Women, Shoes, Boots]",2016-07-27T21:58:06Z,Pikolinos 801-9513f Women Boots,,www.amazon.com,199.99,,USD,2016-03-19T00:00:00Z,Amazon.com
+21,AVpe-0foilAPnD_xST2I,Harley-Davidson,"[Sandals, Shoes]",2016-07-29T22:30:05Z,Michelle,"[10, 8.5, 5.5, 7, 6, 9.5, 5, 7.5, 9, 8, 11]",www.6pm.com,70.0,New,USD,2016-05-07T00:00:00Z,6pm.com
+22,AVpe-0vy1cnluZ0-bRIB,Dr. Martens,"[Shoes, Boots]",2016-05-06T10:09:03Z,Church,,www.6pm.com,139.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+23,AVpe-0wZLJeJML43zvlh,Clarks,[Shoes],2015-09-10T17:11:38Z,Clarks Boys Pre-school Softlyrhys Fst Suede Sandals In,,www.amazon.co.uk,30.0,new,EUR,2015-09-07T00:00:00Z,McConnell Shoes
+24,AVpe-0zEilAPnD_xST9G,Laufsteg M��nchen,[Shoes],2015-09-10T17:28:27Z,Laufsteg M��nchen Womens Fs150905 Ankle Boots,,www.amazon.co.uk,26.01,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+25,AVpe-18NLJeJML43zwAn,Jack Rogers,"[Kids, Girls' Shoes]",2016-03-29T19:55:46Z,'jack' Sandal (baby),,shop.nordstrom.com,49.95,,USD,2016-03-29T00:00:00Z,
+26,AVpe-1GKilAPnD_xSUEA,Butterfly,[Shoes],2015-09-10T16:53:40Z,Butterfly Twists Women's Small Red Butterfly Satin Pumps Ballet,[Small],www.amazon.co.uk,55.0,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+27,AVpe-1JV1cnluZ0-bRRN,L.A.M.B.,"[Sandals, Shoes]",2016-04-11T17:08:16Z,Bellatrix,"[8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8]",www.6pm.com,89.99,New,USD,2016-04-10T00:00:00Z,6pm.com
+28,AVpe-1R61cnluZ0-bRUe,Dublin,[Shoes],2015-08-24T19:41:59Z,Black Horse Riding Jodhpur Boots All Sizes Adults & Kids (7uk),,www.amazon.co.uk,23.99,new,EUR,2015-08-23T00:00:00Z,Just Horse Riders
+29,AVpe-1bEilAPnD_xSULK,BeMIX,[Shoes],2015-08-24T20:09:15Z,Bemix Women's Shoes Platform Spool Heel Sandals Shoes,,www.amazon.co.uk,93.96,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+30,AVpe-1eV1cnluZ0-bRZG,Generic,"[Baby, Baby Shoes]",2016-02-14T12:30:16Z,Hot Baby Shoes Girl Toddler Non-slip Pretty Flower Soft Prewalker 0-12 Month Wk,,www.ebay.com.au,5.42,New in box,AUD,2016-02-10T00:00:00Z,
+31,AVpe-1hP1cnluZ0-bRaK,adidas Outdoor,[Shoes],2015-10-30T17:41:39Z,Response Trail 21 M,"[7, 6.5]",www.6pm.com,59.99,New,USD,2015-10-28T00:00:00Z,6pm.com
+32,AVpe-1oz1cnluZ0-bRdA,Steve Madden,"[Shoes, Boots]",2016-05-06T09:31:57Z,Deron,"[10.5, 10, 8.5, 7, 9.5, 7.5, 11.5, 9, 8, 13, 11, 12]",www.zappos.com,44.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+33,AVpe-1s-ilAPnD_xSURR,Sue Hill,[Shoes],2015-08-15T02:48:25Z,Sue Hill Hand Knitted Cashmere Picot Edge Hooded Blanket & Booties Cream/beige,,www.amazon.co.uk,139.0,new,EUR,2015-08-09T00:00:00Z,Sue Hill
+34,AVpe-20cLJeJML43zwUi,Tommy Hilfiger,[Girls' Shoes],2015-08-14T18:07:54Z,Kayleigh Studded Bow Flat Pre/grade School,"[13M, 1M, 2M, 3M, 4M, 5M]",www.shoes.com,38.95,New,USD,2015-08-13T00:00:00Z,Shoes.com
+35,AVpe-2FQLJeJML43zwD-,J M-Est-1850,[men shoes],2015-04-28T14:00:20Z,Jm Est. 1850 Men's Mcgavock Monk Strap Loafers,,www.dillards.com,198.0,,USD,2015-04-26T22:23:46.187Z,Dillards.com
+36,AVpe-2MK1cnluZ0-bRoc,NA,"[Shoes, Women's Boots]",2015-10-08T18:01:49Z,New Now Fall 2015-fur Sure 2,,www.bergners.com,38.4,,USD,2015-10-07T00:00:00Z,
+37,AVpe-2NeilAPnD_xSUbk,muk luks,"[1in - 1 3/4in, Moto, MUK LUKS, Black, Under 1in, Other, Shoes, Boots, Womens, Teens]",2016-05-20T08:15:36Z,Alana Women's Boots,"[10, 7, 6, 9, 8]",www.kohls.com,84.99,New,USD,2015-09-14T00:00:00Z,Kohls.com
+38,AVpe-2af1cnluZ0-bRtY,Oakley,[Golf Shoes],2014-02-21T04:31:27Z,Oakley Men's Servodrive Golf Shoe,,www.buy.com,69.99,,USD,2014-02-21T04:31:27Z,
+39,AVpe-2b3LJeJML43zwK-,Burton,"[Boys' Shoes, Shoes, Boots]",2016-05-03T04:32:12Z,Burton Emerald Boa Winter 2016,"[3, 6W, 5W, 9W, 40, 6.5W, 39, 38]",www.amazon.co.uk,203.63,new,EUR,2016-04-25T00:00:00Z,Amazon.co.uk
+40,AVpe-2cFilAPnD_xSUgn,Living Kitzbuhel,[Shoes],2015-09-10T16:52:52Z,Living Kitzbuhel Women's Arizona Outdoor Sole,,www.amazon.co.uk,49.0,new,EUR,2015-09-06T00:00:00Z,Amazon
+41,AVpe-2cailAPnD_xSUgx,Cobb Hill,"[women, Shoes, Flats, Comfort]",2015-11-13T12:36:44Z,'paula' Perforated Loafer (women),"[6, 8.5, 10, 7, 9.5, 6.5, 7.5, 9, 8, 11]",shop.nordstrom.com,99.95,,USD,2015-05-12T16:41:48.172Z,
+42,AVpe-2nUilAPnD_xSUkv,Ajvani,[Shoes],2015-09-10T17:29:18Z,Womens Ladies Low Heel Flat Strap Buckle Winter Gold Zip Calf Fur Biker Riding Boots Size,,www.amazon.co.uk,19.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+43,AVpe-2nsLJeJML43zwPm,Moolecole,[Shoes],2015-09-10T17:43:59Z,Moolecole Womens Casual Breathable Fashionable Low Top Leather Color-matching Moccasins,,www.amazon.co.uk,46.9,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+44,AVpe-2ot1cnluZ0-bRzF,Nina Originals,"[Shoes, Boots]",2016-05-06T09:32:14Z,Amaze,"[10, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8]",www.6pm.com,89.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+45,AVpe-2qxLJeJML43zwQ2,BCBGeneration,"[Boots Booties, Women, Shoes, Shoes Under 100]",2015-11-09T06:28:42Z,'kenan' Platform Wedge Boot (women),"[8.5, 10, 6.5, 9, 8]",shop.nordstrom.com,70.77,,USD,2015-11-05T00:00:00Z,
+46,AVpe-33U1cnluZ0-bSQT,Cole Haan,"[Shoes, Boots]",2016-05-06T10:11:58Z,Lunargrand Chelsea,"[10.5, 8.5, 9.5, 13, 11, 12, 10, 7, 7.5, 11.5, 9, 8]",www.6pm.com,125.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+47,AVpe-37GilAPnD_xSVEY,More Mile,"[Running Shoes, Trail Running Shoes, Shoes, Men's Shoes, Sports]",2016-03-09T17:50:57Z,More Mile Cheviot 2 Mens Off Road / Trail Running Shoes Trainers Mm1506-09,,www.amazon.co.uk,79.99,new,EUR,2016-01-29T00:00:00Z,Amazon.co.uk
+48,AVpe-3A71cnluZ0-bR8k,Heavenly Feet,[Shoes],2015-09-10T16:14:15Z,Heavenly Feet Womens Sandals Elise Leopard,,www.amazon.co.uk,45.0,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+49,AVpe-3DWLJeJML43zwau,iLoveSIA,[Shoes],2015-09-10T16:10:20Z,Ilovesia Men's Suede Leather Desert Boots,,www.amazon.co.uk,59.99,new,EUR,2015-09-08T00:00:00Z,Amazon.co.uk
+50,AVpe-3DjilAPnD_xSUv1,Spylovebuy,[Shoes],2015-09-10T17:24:58Z,Spy Love Buy Ancona Block Heel Stretch Zip Knee High Boots,,www.amazon.co.uk,27.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+51,AVpe-3FY1cnluZ0-bR-T,Route 21,[Shoes],2015-09-10T16:12:12Z,Route 21 Twin Gusset Ankle Boot Chelsea Style Mens Designer Smart Boots In Black Uk 9,,www.amazon.co.uk,24.99,new,EUR,2015-09-08T00:00:00Z,Shoesbyclaire
+52,AVpe-3I_ilAPnD_xSUxm,Bandolino,"[Sandals, Shoes]",2016-07-29T22:05:44Z,Heelda,"[10.5, 8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8]",www.6pm.com,69.0,New,USD,2016-04-05T00:00:00Z,6pm.com
+53,AVpe-3JuilAPnD_xSUx8,Footwear Studio,[Shoes],2015-09-10T17:15:54Z,Manfield Women's Black Knee High Boots Ladies Distressed Faux Leather Boot Size 3 4 5,,www.amazon.co.uk,21.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+54,AVpe-3PlilAPnD_xSU0I,BeMIX,[Shoes],2015-08-24T20:07:47Z,Bemix Women's Shoes Flats Comfort Pointed Toe White,,www.amazon.co.uk,30.18,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+55,AVpe-3nKilAPnD_xSU82,Trotters,"[Loafers, Shoes]",2016-05-07T00:06:39Z,Zell,"[6, 6.5]",www.6pm.com,64.38,New,USD,2016-03-30T00:00:00Z,6pm.com
+56,AVpe-3zRilAPnD_xSVBA,Sayoyo,"[Shoes, Baby Products, Gifts, Keepsakes]",2016-03-28T13:44:08Z,Sayoyo Baby Caterpillar Soft Sole Leather Infant Toddler Prewalker Shoes,,www.amazon.com,7.49,new,EUR,2015-08-09T00:00:00Z,Sayoyo baby shoes
+57,AVpe-4-lilAPnD_xSVct,5.11,[shoes],2014-11-12T17:09:31Z,5.11 Pursuit Lace Up Shoes Black,,www.amazon.com,99.99,,USD,2014-11-08T13:20:20.125Z,
+58,AVpe-4-tLJeJML43zxHQ,MissFox,"[Shoes, Golf, Accessories, Handbags, Women, Clutches]",2016-08-03T18:24:35Z,Missfox Women's Man Made Diamond Design Handbag Detachable Chain Clutch Evening Bag,,www.amazon.ca,37.12,new,CAD,2016-08-01T18:19:04Z,LianNuo E Commerce
+59,AVpe-4Bj1cnluZ0-bSUL,Miss Image UK,[Shoes],2015-09-10T17:04:59Z,Ladies Womens Gladiator Chunky Cut Out Strappy Summer Sandals Block Heel Size,,www.amazon.co.uk,9.99,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+60,AVpe-4CAilAPnD_xSVG9,Dunlop,[Shoes],2015-09-10T17:38:31Z,Dunlop Red/gold Blown Pvc Slingback Toe Post Womens Flip-flops Uk Size 7,,www.amazon.co.uk,7.99,new,EUR,2015-09-05T00:00:00Z,DMS Sportsworld
+61,AVpe-4Js1cnluZ0-bSXi,BeMIX,[Shoes],2015-08-24T20:07:49Z,Bemix Women's Shoes Comfort Pointed Toe Flat Heel Calf Hair Flats Shoes More Colors Available,,www.amazon.co.uk,76.35,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+62,AVpe-4K3LJeJML43zw1N,Lady shoes,[Shoes],2015-08-24T20:08:25Z,Klm Women's Shoes Fashion Boots Pointed Toe Chunky Heel Ankle Boots,,www.amazon.co.uk,32.0,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+63,AVpe-4KmilAPnD_xSVKl,Souked,"[Team Sports, Throwing Equipment, Shots, Shoes, Women, Boots]",2015-11-16T02:53:04Z,Women's Md Long Cow Leather Thermal Boots - Royal Blue - 36,,www.amazon.ca,212.43,new,CAD,2015-11-14T00:00:00Z,Soukedus
+64,AVpe-4NX1cnluZ0-bSY1,Frye,"[Shoes, Boots]",2016-05-03T16:29:31Z,Veronica Chelsea,"[8.5, 7, 6.5, 7.5, 9, 8]",www.6pm.com,149.99,New,USD,2016-04-28T00:00:00Z,6pm.com
+65,AVpe-4OlLJeJML43zw2i,BeMIX,[Shoes],2015-08-24T20:09:16Z,Bemix Women's Shoes Pointed Toe Chunky Heel Flats Shoes More Colors Available,,www.amazon.co.uk,76.0,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+66,AVpe-4eL1cnluZ0-bSfN,Fashiondiary,"[Snowshoeing, Boots, Shoes, Men]",2016-08-29T20:33:13Z,Fashiondiary Men's 1 Sizes Soft Autumn Mens Snowshoes,,www.amazon.ca,134.75,new,CAD,2016-01-29T00:00:00Z,fashiondiary
+67,AVpe-4eaLJeJML43zw8Q,Pleaser,[Shoes],2015-09-10T17:07:38Z,"Pleaser Ado708/c/m, Women Platform Pumps",,www.amazon.co.uk,59.84,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+68,AVpe-4pG1cnluZ0-bSjQ,Stetson,"[Shoes, Boots]",2016-06-21T14:30:05Z,Bailey,"[10.5, 10, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",www.zappos.com,209.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+69,AVpe-4pQ1cnluZ0-bSjU,Cutting-Edge PRO SPEC,[Shoes],2015-09-10T16:28:18Z,Cutting-edge Dickies Chukka Safety Boots - Min 3yr Cleva�� Warranty,,www.amazon.co.uk,41.11,new,EUR,2015-09-07T00:00:00Z,CamoOutdoor - The Sports & Camouflage Outfitters
+70,AVpe-4wrilAPnD_xSVXn,Kate Spade New York,"[Sandals, Shoes, Drama]",2016-05-08T22:27:36Z,Irvine,"[10.5, 10, 8.5, 7, 9.5, 7.5, 9, 8]",www.imdb.com,262.99,New,USD,2015-10-21T00:00:00Z,6pm.com
+71,AVpe-50kLJeJML43zxXJ,Atomic,"[Shoes, Men's Shoes, Running Shoes, Road Running Shoes]",2016-03-09T17:40:40Z,Atomic Team Running Shoes,,www.amazon.co.uk,82.09,new,EUR,2016-03-06T00:00:00Z,Amazon.co.uk
+72,AVpe-59filAPnD_xSVwX,Third Party,[Shoes],2015-08-21T22:51:22Z,On/off Pcb With Switch,,www.amazon.co.uk,71.21,new,EUR,2015-08-21T00:00:00Z,Amazon.co.uk
+73,AVpe-5CpilAPnD_xSVeI,Amiana,"[Heels, Shoes]",2016-06-21T14:31:09Z,15-a5256 (big Kid/adult),,www.zappos.com,36.99,New,USD,2016-05-22T00:00:00Z,6pm.com
+74,AVpe-5FOLJeJML43zxJb,Inc.5,[shoes],2014-10-20T14:42:29Z,Inc.5 Women's Pumps,,www.amazon.in,1074.0,,INR,2014-10-20T04:10:22.847Z,
+75,AVpe-5PtLJeJML43zxNL,GIAMBA,[shoes],2015-05-19T19:17:09Z,Velvet Crystal-heel Satin Platform Sandals,[35 5],www.saksfifthavenue.com,895.0,New,USD,2015-05-16T17:53:53.758Z,saksfifthavenue.com
+76,AVpe-5hJilAPnD_xSVof,HUF,[Shoes],2016-06-21T14:17:36Z,Classic Hi,"[10.5, 5.5, 8.5, 9.5, 13, 11, 12, 10, 7, 6, 5, 6.5, 7.5, 11.5, 9, 8]",www.zappos.com,64.99,new,USD,2016-06-19T00:00:00Z,
+77,AVpe-5iO1cnluZ0-bS2h,Mephisto,[Walking Shoes],2015-08-14T18:17:43Z,Laser Perf,"[5.5M, 8.5M, 9M, 8M, 9.5M, 10.5M, 6.5M, 7.5M, 7M, 6M, 11M, 10M, 5M]",www.shoes.com,199.95,New,USD,2015-08-13T00:00:00Z,Shoes.com
+78,AVpe-5vbLJeJML43zxVT,Christian Louboutin,"[Women, Shoes, Heels, Pump]",2016-08-12T09:39:57Z,Apostrophy Pumps,"[5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12]",www.barneys.com,675.0,new,USD,2016-05-07T00:00:00Z,http://www.barneys.com/
+79,AVpe-6-iLJeJML43zxzL,Cross,[Shoes],2015-08-14T22:30:22Z,Cross® Men's 100% Genuine Leather Global Passport Wallet,,www.amazon.ca,36.99,new,CAD,2015-08-10T00:00:00Z,Torerocorpcanada
+80,AVpe-6BgilAPnD_xSVxo,Benjamin Adams London,"[Party Evening, Women, Pumps, Shoes]",2015-11-13T12:36:18Z,Benjamin Adams 'lola' Ankle Strap Mesh Pump (women),"[10, 8.5, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8]",shop.nordstrom.com,219.95,,USD,2015-11-08T00:00:00Z,
+81,AVpe-6JKilAPnD_xSV0W,Corso Como,[Women's Shoes],2015-08-14T18:10:30Z,Lowes,"[5M, 5.5M, 6M, 6.5M, 7M, 7.5M, 8M, 8.5M, 9M, 9.5M, 10M, 11M]",www.shoes.com,98.0,New,USD,2015-08-13T00:00:00Z,Shoes.com
+82,AVpe-6L1LJeJML43zxfZ,adidas,"[Shoes, Men's Shoes, Indoor Court Shoes]",2016-04-02T05:58:17Z,Adidas F5 Indoor Footballshoe Mens,"[39 1/3, 40, 46, 45 1/3, 47 1/3]",www.amazon.co.uk,27.13,new,EUR,2016-03-31T00:00:00Z,Amazon.co.uk
+83,AVpe-6LeLJeJML43zxfJ,Ralph Lauren,"[Toddler 4-10, Shoes, Children]",2016-02-24T00:03:28Z,School T-strap Patent Leather,"[10, 5.5, 8.5, 7, 6, 5, 9.5, 4, 6.5, 7.5, 4.5, 9, 8]",www.ralphlauren.com,34.99,New,USD,2016-02-23T00:00:00Z,www.ralphlauren.com
+84,AVpe-6MYilAPnD_xSV1y,Born,"[Shoes, Boots]",2016-07-29T21:26:35Z,Davis,"[8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",www.zappos.com,64.99,New,USD,2016-05-07T00:00:00Z,6pm.com
+85,AVpe-6Vr1cnluZ0-bTHP,Generic,[Shoes],2015-09-10T17:27:50Z,Unbranded Women's Yr002 Textile Slipper Boots,,www.amazon.co.uk,8.17,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+86,AVpe-6h-LJeJML43zxoe,BTS,[Shoes],2015-08-24T19:42:23Z,"Bts 1672-6 Speedsandic Trailschuh Racing Shoes, Black / Blue / Grey, Size: 41-46",,www.amazon.co.uk,29.69,new,EUR,2015-08-23T00:00:00Z,Amazon.co.uk
+87,AVpe-71kilAPnD_xSWd3,unbranded,"[Baby, Baby Shoes]",2016-02-14T12:31:47Z,Toddler Baby Girl Classic Yellow Bowknot Crib Shoes Size 0-6 6-12 12-18 Months,,www.ebay.com.au,10.22,New in box,AUD,2016-02-10T00:00:00Z,hope15899good - Ebay.com
+88,AVpe-748LJeJML43zyJP,BOBS from SKECHERS,"[Shoes, Flats]",2016-05-21T04:36:55Z,Bobs Plush - Shimmer & Shine,"[5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11]",www.6pm.com,30.99,New,USD,2016-05-08T00:00:00Z,6pm.com
+89,AVpe-75j1cnluZ0-bTtE,Clarks,"[Loafers, Shoes]",2016-02-09T23:53:11Z,Colson Knoll,"[8.5, 10, 9.5, 14, 11]",www.6pm.com,64.99,New,USD,2016-01-31T00:00:00Z,6pm.com
+90,AVpe-75yLJeJML43zyJT,RJR.John Rocha,[Shoes],2015-09-10T16:19:06Z,Rjr.john Rocha Mens Designer Tan Leather Lace Up Shoes,,www.amazon.co.uk,85.0,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+91,AVpe-7Yg1cnluZ0-bTgd,Carol Shoes,[Shoes],2015-09-10T17:33:18Z,Carol Shoes Women's New Style Charm High Heel Stiletto Court Shoes,,www.amazon.co.uk,22.0,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+92,AVpe-7pW1cnluZ0-bTm4,DC Kids,[Shoes],2016-06-21T14:17:15Z,Trase Tx (big Kid),,www.6pm.com,32.99,new,USD,2016-06-19T00:00:00Z,
+93,AVpe-8-ILJeJML43zyic,PUMA,[Shoes],2016-07-29T22:30:04Z,76 Runner Fun,"[10.5, 8.5, 10, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",www.6pm.com,48.91,New,USD,2016-04-07T00:00:00Z,6pm.com
+94,AVpe-80rLJeJML43zyeo,Johnston Murphy,[shoes men],2015-06-01T16:29:38Z,Johnston Murphy Harding Panel Oxfords,,www.dillards.com,119.99,,USD,2015-05-30T23:10:37.804Z,Dillards.com
+95,AVpe-82eLJeJML43zyfS,Propét,[Walking Shoes],2015-08-14T18:16:10Z,Cliff Walker Strap,"[9X, 12X, 8.5M, 16X, 9M, 11.5M, 14X, 9.5M, 10.5M, 10X, 8.5X, 16M, 14M, 7.5M, 7M, 9.5X, 10M, 10.5X, 8X, 12M, 11.5X, 13X, 15X, 8M, 11X, 15M, 11M, 13M]",www.shoes.com,109.95,New,USD,2015-07-18T05:00:00Z,Shoes.com
+96,AVpe-83nilAPnD_xSW13,durango,"[Shoes, Durango, Brown, Womens, Mid-Calf]",2016-05-20T08:10:19Z,World Traveler Women's Wellington Boots,"[11 MED, 8 MED, 9 MED, 7 MED, 7.5 MED, 9.5 MED, 10 MED, 6 MED, 6.5 MED, 8.5 MED]",www.kohls.com,219.99,New,USD,2015-08-25T00:00:00Z,Kohls.com
+97,AVpe-87f1cnluZ0-bUEp,Naot Footwear,"[Sandals, Shoes]",2016-07-14T20:05:56Z,Totara,,www.6pm.com,79.99,New,USD,2016-05-22T00:00:00Z,6pm.com
+98,AVpe-89N1cnluZ0-bUFV,Lady shoes,[Shoes],2015-08-24T20:34:46Z,Klm Customized Women's Satin Upper Latin Dance Shoes Sandals With Buckie,,www.amazon.co.uk,56.0,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+99,AVpe-89lLJeJML43zyiD,BeMIX,[Shoes],2015-08-24T20:07:01Z,Bemix Leatherette Women's Chunky Heel T-strap Pumps/heels Shoes With Bowknot(more Colors),,www.amazon.co.uk,41.44,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+100,AVpe-8BJ1cnluZ0-bTv_,KLM-1123,[Shoes],2015-08-24T20:07:33Z,Klm Sneaker Women's Athletic Shoes Synthetic Shoes More Colors Available,,www.amazon.co.uk,67.0,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+101,AVpe-8FZLJeJML43zyNr,Anne Klein,"[Heels, Shoes]",2016-02-06T22:23:22Z,Isana,"[5.5, 8.5, 10, 6, 6.5, 11]",www.6pm.com,47.49,New,USD,2016-01-11T00:00:00Z,6pm.com
+102,AVpe-8JSilAPnD_xSWlC,Esprit,"[Shoes, Boots]",2015-10-31T09:28:20Z,Cahir,"[8.5, 7, 6, 6.5, 7.5, 8]",www.6pm.com,29.99,New,USD,2015-10-28T00:00:00Z,6pm.com
+103,AVpe-8Sq1cnluZ0-bT15,Fashiondiary,"[Snowshoeing, Boots, Shoes, Women]",2015-11-13T06:58:45Z,Fashiondiary Women's 7 Sizes Autumn Snowshoes,,www.amazon.ca,98.31,new,CAD,2015-11-12T00:00:00Z,Amazon.ca
+104,AVpe-8TSilAPnD_xSWow,Dunlop,[Shoes],2015-09-10T16:20:19Z,Dunlop Men's 1987 Panel Textile Trainers,,www.amazon.co.uk,21.96,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+105,AVpe-8fG1cnluZ0-bT6N,Alegria,[shoes],2015-06-01T17:23:41Z,Alegria Pesca Fisherman Clogs,,www.dillards.com,110.0,,USD,2015-05-31T18:11:16.632Z,Dillards.com
+106,AVpe-8foilAPnD_xSWtD,Gilbert,"[Netball, Shoes]",2016-04-02T05:43:17Z,Gilbert Helix Netball Shoes,,www.amazon.co.uk,39.95,new,EUR,2016-03-31T00:00:00Z,Amazon.co.uk
+107,AVpe-8lP1cnluZ0-bT8R,Hanwag,"[Shoes, Men's Shoes]",2016-03-30T06:48:02Z,Tashi,"[14, 125, 65, 7.5, 13, 115, 135]",www.amazon.co.uk,237.76,new,EUR,2016-03-28T00:00:00Z,Amazon.co.uk
+108,AVpe-8q9LJeJML43zya1,Puma Kids,[Shoes],2016-04-11T17:00:39Z,Speeder Illuminescent V (toddler/little Kid/big Kid),,www.6pm.com,29.84,New,USD,2016-04-07T00:00:00Z,6pm.com
+109,AVpe-96f1cnluZ0-bUcI,Walking Cradles,"[Loafers, Shoes]",2016-07-29T22:30:04Z,Addie,"[8.5, 5.5, 9.5, 4.5, 11, 10, 7, 6, 5, 6.5, 4, 7.5, 9, 8]",www.6pm.com,34.99,New,USD,2016-05-22T00:00:00Z,6pm.com
+110,AVpe-97jilAPnD_xSXPe,Clarks,[Shoes],2015-09-10T17:07:50Z,Womens Clarks Compass Zone Black Leather Smart Shoes,,www.amazon.co.uk,35.99,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+111,AVpe-9U_ilAPnD_xSXA5,Tommy Hilfiger,"[Show All Brands, Tommy Hilfiger, Designer Shoe Shop, Shoes]",2016-03-09T17:36:07Z,Tommy Hilfiger Women's Russel Faux-fur Duck Booties,,www1.macys.com,69.3,,USD,2016-03-03T00:00:00Z,
+112,AVpe-9VuLJeJML43zyrn,Pour La Victoire,"[Shoes, Boots]",2015-10-19T18:53:41Z,Emme,[10],www.6pm.com,174.99,New,USD,2015-10-14T00:00:00Z,6pm.com
+113,AVpe-9Yn1cnluZ0-bUQC,UGG Kids,"[Shoes, Boots]",2016-05-06T09:48:19Z,Ultimate (toddler/little Kid/big Kid),,www.6pm.com,84.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+114,AVpe-9bVilAPnD_xSXDU,SPI,"[Shoes, Men's Shoes, Cycling Shoes]",2015-11-16T04:52:28Z,Spiuk New Risko Shoes 2015,"[41, 43, 46, 39, 38, 44, 49, 42, 45, 40, 47]",www.amazon.co.uk,63.49,new,EUR,2015-11-14T00:00:00Z,Amazon.co.uk
+115,AVpe-9y71cnluZ0-bUZf,PUMA,[Shoes],2016-05-08T01:58:54Z,Ignite Xt Core,"[10.5, 5.5, 8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",www.6pm.com,64.99,New,USD,2016-05-07T00:00:00Z,6pm.com
+116,AVpe-AD5LJeJML43zc7X,Volatile,[shoes],2015-06-01T17:47:13Z,Volatile Shinebright Jeweled Sandals,,www.dillards.com,49.99,,USD,2015-05-31T18:13:57.906Z,Dillards.com
+117,AVpe-ANm1cnluZ0-a-gu,Naturalizer,"[Sandals, Shoes]",2016-05-06T10:03:29Z,Nerice,"[10.5, 8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11, 12]",www.6pm.com,26.7,New,USD,2016-05-05T00:00:00Z,6pm.com
+118,AVpe-ATjLJeJML43zdBB,soft style by hush puppies,"[Soft Style by Hush Puppies, 1in - 1 3/4in, Medium, Red, Black, Wide, Other, Dress, Comfort, Womens, Blue, Prom, Shoes]",2016-05-20T08:20:54Z,Sharyl Women's Bow Dress Heels,,www.kohls.com,49.0,New,USD,2015-09-15T00:00:00Z,Kohls.com
+119,AVpe-AXYilAPnD_xSBUV,Roughneck Clothing,[Shoes],2015-09-10T16:31:38Z,Roughneck Clothing Stealth Trainer Composite Midsole Size 7,,www.amazon.co.uk,45.02,new,EUR,2015-09-07T00:00:00Z,Big Red Toolbox
+120,AVpe-A_bLJeJML43zdRU,Nike,"[Academy, Men's Sports Slides, Men's Cleats, Sport Slides, Men's Shoes, Shops]",2016-10-15T10:47:31Z,Nike Men's Flex Motion Sport Slides,,www.academy.com,34.99,,USD,2016-10-15T10:47:31Z,
+121,AVpe-Aa8ilAPnD_xSBV3,Steven,"[Sandals, Shoes]",2016-07-29T22:30:40Z,Roburta,"[8.5, 10, 7, 9.5, 7.5, 8]",www.6pm.com,30.99,New,USD,2016-04-02T00:00:00Z,6pm.com
+122,AVpe-AahLJeJML43zdEL,AIU Beautifull life,"[Shoes, Women, Athletic, Running Shoes]",2016-08-23T18:34:03Z,Aiu Women's Shoes Flat Heel Round Toe Fashion Sneakers Casual Black/white,,www.amazon.ca,46.0,new,CAD,2016-05-05T15:04:30Z,Amazon.ca
+123,AVpe-BA8LJeJML43zdSK,Rieker,[Shoes],2016-05-06T10:07:39Z,Z4213,,www.6pm.com,100.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+124,AVpe-BFFilAPnD_xSBkn,Tamaris,"[Shoes, Boots]",2016-05-06T10:04:26Z,Amour 1-1-24304-25,"[36, 39, 37, 38, 42, 41, 40]",www.zappos.com,71.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+125,AVpe-BHgilAPnD_xSBlm,Nike,"[Shoes, Men's Shoes, Running Shoes, Road Running Shoes]",2016-03-09T17:56:00Z,Nike Mens Downshifter 6 Leather Running Shoes White/orange Uk 11 (46),,www.amazon.co.uk,54.0,new,EUR,2016-03-07T00:00:00Z,brandhoppa
+126,AVpe-Bb51cnluZ0-a-8W,Spring Step,[Shoes],2016-03-25T14:05:00Z,Valeria,,www.6pm.com,30.0,New,USD,2016-03-24T00:00:00Z,6pm.com
+127,AVpe-Bi71cnluZ0-a--t,Rieker,"[Heels, Shoes]",2016-05-06T10:12:23Z,43700 Mirjam 00,,www.6pm.com,64.99,New,USD,2016-04-01T00:00:00Z,6pm.com
+128,AVpe-Bij1cnluZ0-a--e,DC,[Shoes],2015-10-31T09:10:23Z,Course Xe,[11.5],www.6pm.com,51.84,New,USD,2015-10-14T00:00:00Z,6pm.com
+129,AVpe-BoWilAPnD_xSBw6,New Balance,"[Academy, Women's Shoes, Women's Running Shoes]",2016-07-19T15:46:17Z,New Balance Women's 980 Running Shoes,,www.academy.com,49.99,,USD,2016-07-13T00:00:00Z,
+130,AVpe-By81cnluZ0-a_Ee,P.W. Minor,[Walking Shoes],2015-08-14T18:09:18Z,Triumph,"[122E, 7B, 5D, 5B, 52E, 7D, 12D, 12B, 10D, 10B, 9B, 9D, 112E, 102E, 72E, 6B, 6D, 11D, 13B, 8D, 13D, 8B, 62E, 11B, 132E, 92E, 82E]",www.shoes.com,154.95,New,USD,2015-08-13T00:00:00Z,Shoes.com
+131,AVpe-CIZLJeJML43zdq-,East Majik,"[Shoes, Men, Athletic]",2016-08-29T21:03:27Z,Sandals Suit For Bathroom and Beach Blue Stripe Flip Flops,,www.amazon.ca,22.82,new,CAD,2016-08-29T00:00:00Z,East Majik
+132,AVpe-CJ31cnluZ0-a_NN,Comfortiva,"[Heels, Shoes]",2016-05-06T09:47:22Z,Stephanie Ii,"[8.5, 9.5, 11, 12, 10, 7, 6, 5, 6.5, 7.5, 9, 8]",www.6pm.com,79.95,New,USD,2016-04-05T00:00:00Z,6pm.com
+133,AVpe-ChjLJeJML43zd0f,Saucony,"[Running, Shoes]",2016-03-09T17:51:23Z,Saucony Men's Ride 8 M Running Shoes,,www.amazon.co.uk,175.98,new,EUR,2016-03-06T00:00:00Z,Amazon.co.uk
+134,AVpe-CnLLJeJML43zd2g,Dunlop,[Shoes],2015-09-10T16:32:28Z,#n/a,,www.amazon.co.uk,54.0,new,EUR,2015-09-07T00:00:00Z,Big Red Toolbox
+135,AVpe-Cxf1cnluZ0-a_cH,Lilly Pulitzer,"[Sandals, Shoes]",2016-05-03T17:22:17Z,Jackie Sandal,"[8.5, 7, 6, 9.5, 6.5, 9, 8]",www.6pm.com,49.99,New,USD,2016-04-29T00:00:00Z,6pm.com
+136,AVpe-DA_ilAPnD_xSCSw,Barbie,[shoes],2015-01-10T19:27:00Z,Barbie Girl's Fuschia Sports Shoes - 9 Uk,,www.amazon.in,849.0,,INR,2015-01-04T06:33:45.996Z,
+137,AVpe-D_x1cnluZ0-a_23,Bordello,[Shoes],2015-09-10T17:31:11Z,Bordello Tee07l/hp 5 Femmes,,www.amazon.co.uk,89.94,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+138,AVpe-E-dLJeJML43zerd,Lowa,[Shoes],2016-02-06T19:35:58Z,Lowa Renegade Gtx Mid Ws Pflaume Mint,,www.amazon.co.uk,166.91,new,EUR,2016-02-05T00:00:00Z,Amazon.co.uk
+139,AVpe-E08LJeJML43zeoI,Rockport,"[Shoes, Boots]",2016-05-08T01:23:15Z,Total Motion 45mm Tall Boot ��� Wide Calf,"[10.5, 10, 8.5, 5.5, 7, 6, 5, 9.5, 6.5, 7.5, 9, 8, 11]",www.6pm.com,96.0,New,USD,2016-04-05T00:00:00Z,6pm.com
+140,AVpe-E3XLJeJML43zeoz,David Tate,"[Loafers, Shoes]",2016-05-24T08:37:15Z,Lido,"[10.5, 5.5, 8.5, 9.5, 4.5, 13, 11, 12, 10, 7, 6, 5, 6.5, 4, 7.5, 9, 8]",www.6pm.com,69.99,New,USD,2016-05-22T00:00:00Z,6pm.com
+141,AVpe-EBlLJeJML43zeV5,KLM-1123,[Shoes],2015-08-24T20:10:16Z,Klm Women's Shoes Chunky Heel Pointed Toe Flats Dress Shoes More Colors Available,,www.amazon.co.uk,36.0,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+142,AVpe-EHIilAPnD_xSCp7,Pleaser,[Shoes],2015-09-10T17:33:17Z,Pleaser Allure-660 - Sexy Platform High Heels Sandals With Rhinestones Sizes 2-10,,www.amazon.co.uk,77.95,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+143,AVpe-EJBilAPnD_xSCq0,Bloch,[shoes],2014-10-21T23:47:05Z,Girl's Student Tap Shoe,"[8.5, 9.0, 11.0, 8.0, 1.5, 12.5, 13.0, 9.5, 13.5, 12.0, 10.5, 11.5, 1.0]",www.amazon.com,19.15,,USD,2014-10-21T18:34:59.049Z,
+144,AVpe-EKG1cnluZ0-a_6e,Converse Kids,[Shoes],2016-05-06T09:45:30Z,Chuck Taylor�� All Star�� Easy Hi - Camo Fur (little Kid/big Kid),,www.6pm.com,24.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+145,AVpe-EUELJeJML43zecV,Mavic,[Cycling Shoes],2014-02-21T04:30:08Z,Mavic 2012 Giova Women's Road Cycling Shoe,,www.buy.com,129.95,,USD,2014-02-21T04:30:08Z,
+146,AVpe-EWo1cnluZ0-a__S,Dickies,[shoes],2015-04-29T09:27:38Z,Men's Dickies Raider Genuine Leather Steel Toe Work Boots - Black,[7],tws.target.com,89.99,,USD,2015-04-23T20:43:42.374Z,
+147,AVpe-Ea7LJeJML43zeel,iPretty,[Shoes],2015-09-10T16:41:23Z,Womens Ladies Bridal Stiletto White Ivory Satin Ladies High Heels Flowers Lace Rhinestones Satin Wedding Bridal Shoes Wedding Bridesmaid Sandal Party Classic Pumps Court Shoes Size 3 4 5 6 7 8 9,,www.amazon.co.uk,39.65,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+148,AVpe-EdELJeJML43zefS,Slipbuster Footwear,[Shoes],2015-09-10T16:47:46Z,Slipbuster Safety Trainer / Boot Black - Size: Euro - 42 / Uk - 8 - Great For Everyday Use In A Commercial Kitchen,,www.amazon.co.uk,41.99,new,EUR,2015-09-06T00:00:00Z,Rinkit Ltd
+149,AVpe-Ekb1cnluZ0-bADb,Carolbar,[Shoes],2015-09-10T17:32:08Z,Carolbar Women's Fashion Sweet High Heel Ankle-strap Court Shoes,,www.amazon.co.uk,18.0,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+150,AVpe-EptLJeJML43zekG,Lowa,[Shoes],2016-03-30T06:26:20Z,Lowa Diego Gtx Lo Blau/limone,,www.amazon.co.uk,69.69,new,EUR,2016-03-29T00:00:00Z,Amazon.co.uk
+151,AVpe-ErnLJeJML43zekf,Cherokee,"[shoes, toddler boys' shoes]",2015-12-17T15:23:50Z,Toddler Boys' Haywood High Top Sneakers Cherokee - Brown,"[10, 7, 6, 5, 9, 8, 11, 12]",tws.target.com,21.99,,USD,2015-12-15T00:00:00Z,
+152,AVpe-F28LJeJML43ze_u,Ralph Lauren,"[Women, Shoes]",2016-02-25T20:54:21Z,Striped Canvas Espadrille,"[40.5, 38, 37.5, 41, 39.5, 35, 38.5, 36.5, 36, 40, 39, 37, 35.5]",www.ralphlauren.com,114.99,New,USD,2016-02-21T00:00:00Z,www.ralphlauren.com
+153,AVpe-F7PLJeJML43zfBI,Mark Lemp Classics,[Women's Shoes],2015-07-15T11:35:02Z,Erica,"[9N, 9W]",www.shoes.com,52.97,New,USD,2015-07-15T05:00:00Z,Shoes.com
+154,AVpe-FORilAPnD_xSDC8,Jambu,"[Sandals, Shoes]",2016-05-03T16:46:12Z,Ronnie,"[10, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",www.6pm.com,72.7,New,USD,2016-04-28T00:00:00Z,6pm.com
+155,AVpe-FSWLJeJML43zeyM,Western Chief,[Girls' Shoes],2015-08-14T18:14:48Z,Wings,"[3M, 2M, 1M, 11M, 9M, 10M, 8M, 13M, 4M, 12M]",www.shoes.com,29.95,New,USD,2015-08-13T00:00:00Z,Shoes.com
+156,AVpe-FdIilAPnD_xSDIZ,Shimano,"[Cycling, Shoes]",2016-03-30T03:26:21Z,Shimano Spares Srpe C/fit Insole 38-39,,www.amazon.co.uk,43.81,new,EUR,2016-03-28T00:00:00Z,Adventure Northumberland
+157,AVpe-FdT1cnluZ0-bAX5,Polo Ralph Lauren,"[Shoes, Boots]",2016-01-14T11:49:12Z,Barrot,"[10.5, 10, 8.5, 7, 9.5, 7.5, 11.5, 9, 8, 13, 11, 12]",www.6pm.com,69.99,New,USD,2016-01-11T00:00:00Z,6pm.com
+158,AVpe-FiSLJeJML43ze4L,Converse,[shoes],2015-04-23T11:51:13Z,Converse Chuck Taylor Street Slip (kids),,www.amazon.com,34.99,,USD,2015-04-19T13:22:51.708Z,
+159,AVpe-Fs4LJeJML43ze7-,Chloe,[shoes],2015-05-19T19:58:37Z,Scalloped Leather Ankle-strap Flats,[35 5],www.saksfifthavenue.com,525.0,New,USD,2015-05-16T17:56:25.249Z,saksfifthavenue.com
+160,AVpe-FxcilAPnD_xSDQP,adidas Outdoor,"[Shoes, Boots]",2016-05-06T09:38:26Z,Daroga Chukka Boot,"[10, 7.5, 11.5, 8, 11, 12]",www.6pm.com,82.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+161,AVpe-G-2LJeJML43zfZE,Cambrass,[Shoes],2015-08-15T02:22:11Z,"Cambrass Velour Winter Baby Shoes (blue, 1 - 3 Months, Size 15)",,www.amazon.co.uk,5.93,new,EUR,2015-08-09T00:00:00Z,Amazon
+162,AVpe-G6N1cnluZ0-bA4u,Db Shoes,[Shoes],2015-09-10T17:37:08Z,Db Shoes Womens Eunice Easy Fastening Slipper (burgundy/red) V Fit,,www.amazon.co.uk,35.0,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+163,AVpe-G9FLJeJML43zfYc,Earthies,"[Sandals, Shoes]",2016-05-06T10:13:22Z,Casella,"[8.5, 10, 5.5, 9.5, 9, 8, 11, 12]",www.6pm.com,76.5,New,USD,2016-05-05T00:00:00Z,6pm.com
+164,AVpe-GIH1cnluZ0-bAnX,FLY,"[Driving Shoes, Shoes Boots]",2016-11-05T11:20:43Z,Fly 360-5065 Strap Kit Youth 4/6 White 3/pc,,autoplicity.com,9.95,New,USD,2016-11-01T00:00:00Z,autoplicity.com
+165,AVpe-GLwLJeJML43zfHF,adidas,[Boys' Shoes],2016-07-21T03:20:12Z,Adidas Kids' Samba Indoor Soccer Shoes,,www.sportsauthority.com,55.0,,USD,2016-01-26T00:00:00Z,
+166,AVpe-GMkLJeJML43zfHf,wee kids,"[White, Baby, Boys, Girls, Shoes, Dress, Wee Kids, Flats, Walker]",2016-05-03T15:46:25Z,Satin Oxford Christening Shoes - Baby,,www.kohls.com,12.0,New,USD,2015-08-13T00:00:00Z,Kohls.com
+167,AVpe-GRGLJeJML43zfJG,Sperry Top-Sider,[Shoes],2015-09-10T16:10:25Z,"Sperry Top-sider A/o Lug Wp, Men's Chukka Boots",,www.amazon.co.uk,160.46,new,EUR,2015-09-08T00:00:00Z,Amazon.co.uk
+168,AVpe-GRO1cnluZ0-bAqu,Puma,"[Shoes, Boys' Shoes, Indoor Court Shoes, Running Shoes, Road Running Shoes]",2016-03-09T17:40:02Z,Puma Unisex Kids' Axis 2 Mesh V Kids'running Shoes,,www.amazon.co.uk,31.08,new,EUR,2016-03-06T00:00:00Z,Amazon.co.uk
+169,AVpe-Gf5LJeJML43zfOT,Carol Shoes,[Shoes],2015-09-10T17:33:37Z,Carol Shoes Women's New Style Fashion High Heel Stiletto Buckles Dress Shoes,,www.amazon.co.uk,22.0,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+170,AVpe-GhdilAPnD_xSDhW,Mojo Moxy,"[Heels, Shoes]",2015-10-30T16:28:09Z,Bunny,"[8.5, 7, 9, 8]",www.6pm.com,49.38,New,USD,2015-10-19T00:00:00Z,6pm.com
+171,AVpe-GpGLJeJML43zfRg,Hush Puppies,[shoes],2014-11-12T15:45:53Z,Hush Puppies Women's Epic Clog,,www.amazon.com,26.99,,USD,2015-11-05T00:00:00Z,
+172,AVpe-GsHilAPnD_xSDk8,CARLOS by Carlos Santana,"[Sandals, Shoes]",2016-05-06T10:11:12Z,Malor,"[5.5, 10, 8.5, 7, 6, 9.5, 7.5, 8, 11]",www.6pm.com,45.89,New,USD,2016-05-05T00:00:00Z,6pm.com
+173,AVpe-GudLJeJML43zfTI,Puma,[shoes],2014-09-03T06:06:23Z,Puma Women's Techno Wn S Ind. Fashion Sandals,,www.amazon.in,839.0,,INR,2014-09-01T11:47:08.932Z,
+174,AVpe-GvcLJeJML43zfTo,Earthies,[shoes],2015-05-02T15:28:57Z,Earthies Malina Casual Sandals,,www.bergners.com,41.99,,USD,2015-04-30T19:26:47.701Z,
+175,AVpe-H251cnluZ0-bBOo,New Balance,"[Women, Low-Top, Shoes, Sneakers Athletic]",2015-11-09T09:32:14Z,'696' Sneaker (women),"[8.5, 10, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8]",shop.nordstrom.com,79.95,,USD,2015-11-05T00:00:00Z,
+176,AVpe-HGL1cnluZ0-bA8n,VOLATILE,"[Shoes, Boots]",2016-05-08T02:40:46Z,Coldrush,"[10, 8.5, 7, 6, 6.5, 7.5, 9, 8]",www.6pm.com,23.8,New,USD,2016-02-08T00:00:00Z,6pm.com
+177,AVpe-HJb1cnluZ0-bA-B,Merrell Kids,[Shoes],2016-07-29T21:25:36Z,Chameleon Low A/c Waterproof (big Kid),"[W, M]",www.6pm.com,42.99,New,USD,2016-05-22T00:00:00Z,6pm.com
+178,AVpe-HOoLJeJML43zfet,Call it SPRING,"[Heels, Shoes]",2016-04-11T16:39:16Z,Vigowen,,www.6pm.com,44.99,New,USD,2016-02-05T00:00:00Z,6pm.com
+179,AVpe-HQo1cnluZ0-bBAt,Shoreside,[Shoes],2015-09-10T16:12:27Z,Mens Roamers 2 Eyelet Suede Leather Desert Boots Tan Size 10 Uk,,www.amazon.co.uk,27.99,new,EUR,2015-09-08T00:00:00Z,Shoesbyclaire
+180,AVpe-HVz1cnluZ0-bBCG,Ipanema,[Shoes],2015-09-10T16:47:51Z,Ipanema Temas Womens Flip Flops / Sandals - White Black,,www.amazon.co.uk,11.61,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+181,AVpe-Hc9LJeJML43zfj-,Souked,"[Team Sports, Baseball, Footwear, Shoes, Women, Boots]",2015-11-16T02:40:19Z,Clorts 2015 New Brand Women Waterproof Mountain Climbing Boots Athletic Breathable Outdoor Hiking Shoes 3d007c - Coffee - 39,,www.amazon.ca,286.62,new,CAD,2015-11-14T00:00:00Z,Soukedus
+182,AVpe-HhHilAPnD_xSD4S,Vineyard Vines,"[Sandals, Shoes]",2016-05-24T08:48:43Z,Batik Printed Flip Flop,"[10, 9, 8, 13, 11, 12]",www.6pm.com,18.17,New,USD,2016-05-06T00:00:00Z,6pm.com
+183,AVpe-HkY1cnluZ0-bBIA,AKU,"[Shoes, Men's Shoes]",2016-03-30T07:07:16Z,"Aku Bellamont Suede Gtx, Unisex Adults' Multisport Outdoor Shoes",,www.amazon.co.uk,139.91,new,EUR,2016-03-28T00:00:00Z,Amazon.co.uk
+184,AVpe-I22ilAPnD_xSEXN,lamo,"[Medium, Black, Casual, LAMO, Shoes, Contemporary, Flats, Moccasins, Brown, Teens, Womens]",2016-05-04T05:33:30Z,Britain Moc Ii Women's Fleece Moccasins,"[10, 7, 6, 5, 9, 8, 11]",www.kohls.com,35.0,New,USD,2015-09-14T00:00:00Z,Kohls.com
+185,AVpe-I2rLJeJML43zgEK,Salomon,"[Shoes, Men's Shoes, Running Shoes, Road Running Shoes]",2016-03-09T17:43:12Z,Salomon Men's Sense Pulse Low-top Sneakers,,www.amazon.co.uk,101.27,new,EUR,2016-03-06T00:00:00Z,Amazon.co.uk
+186,AVpe-IEEilAPnD_xSEFE,Highlander,"[Shoes, Tent Tarps, Tent Accessories]",2016-05-08T02:08:09Z,Highlander Pe Groundsheet 180 X 120cm (6 X 4) Tarpaulin,,www.amazon.co.uk,5.75,new,EUR,2016-05-06T00:00:00Z,Kit Master Supplies
+187,AVpe-IQv1cnluZ0-bBYU,Nike,"[Finish Line Athletic Shoes, Shoes]",2016-03-09T16:50:54Z,Nike Women's Benassi Duo Ultra Slide Sandals From Finish Line,,www1.macys.com,39.99,,USD,2016-03-03T00:00:00Z,
+188,AVpe-Iit1cnluZ0-bBe8,Proenza Schouler,"[Heels, Women, Pump, Shoes]",2016-05-25T05:49:22Z,Double-grommet Mules,"[10.5, 8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",www.barneys.com,995.0,new,USD,2016-05-24T00:00:00Z,http://www.barneys.com/
+189,AVpe-IpL1cnluZ0-bBgx,LKJD,[shoes],2015-06-01T12:27:50Z,Index Women's Design With Rivet Low-heels Closure Lace-up Shoes,,www.amazon.com,67.32,,USD,2015-05-31T18:05:16.999Z,
+190,AVpe-IrBilAPnD_xSETD,Shoebou,[Shoes],2015-09-10T17:32:03Z,Ladies Black Leather Look Pointed Toe Zip Detail Flats Slip On Skater Pump Shoes,,www.amazon.co.uk,14.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+191,AVpe-IrqilAPnD_xSETT,J Hayber,[Shoes],2015-08-24T19:55:00Z,J-hayber New Olimpo 65638-891 Size 8.5 Uk Trainers Black Man,,www.amazon.co.uk,37.52,new,EUR,2015-08-23T00:00:00Z,DeportesTITAN
+192,AVpe-Iwc1cnluZ0-bBjI,adidas Outdoor,"[Shoes, Boots]",2016-05-06T09:38:08Z,Zappan Ii Winter Mid,"[10.5, 8.5, 7, 9.5, 6.5, 11.5, 11, 12]",www.6pm.com,84.99,New,USD,2016-04-02T00:00:00Z,6pm.com
+193,AVpe-J-PLJeJML43zge5,McQ,"[Oxfords, Shoes]",2016-02-09T03:04:31Z,Kim Derby,,www.6pm.com,160.99,New,USD,2016-01-11T00:00:00Z,6pm.com
+194,AVpe-J7oLJeJML43zgeK,Lobo Solo,[Shoes],2015-09-11T22:09:55Z,Mel,"[8.5, 9.5, 12]",www.6pm.com,35.99,New,USD,2015-08-20T00:00:00Z,6pm.com
+195,AVpe-JE6LJeJML43zgJ2,AARZ LONDON,[Shoes],2015-09-10T16:18:05Z,"Aarz Mens Leather Traditional Open Back Indian Khussa Pumps Shoes For Wedding and Party Events Size(silver,gold)g178",,www.amazon.co.uk,24.99,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+196,AVpe-JY21cnluZ0-bByo,Buxa,[Shoes],2015-09-10T16:44:53Z,Ladies Leather/wooden Clogs With Double Stitching & Buckle In Light Blue,,www.amazon.co.uk,29.99,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+197,AVpe-JbSilAPnD_xSElJ,KLM-1123,[Shoes],2015-08-24T20:12:02Z,Klm Fitness & Cross Training Women's Shoes Fashion Sneakers Shoes More Colors Available,,www.amazon.co.uk,60.0,new,EUR,2015-08-23T00:00:00Z,Amazon.co.uk
+198,AVpe-Jo1LJeJML43zgXE,Luxury Slippers,[Shoes],2015-09-10T17:26:14Z,Ladies Knitted Festive Warm Slippers With Cosy Faux Fur Lining Size 3 To 8 Uk - Winter Machine Washable Slippers,,www.amazon.co.uk,3.95,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+199,AVpe-JpTLJeJML43zgXW,KEEN,[Girls' Shoes],2015-08-14T18:12:04Z,Harper,"[3M, 2M, 1M, 6M, 11M, 10M, 9M, 13M, 8M, 4M, 5M, 12M]",www.shoes.com,49.95,New,USD,2015-07-18T05:00:00Z,Shoes.com
+200,AVpe-Jt2LJeJML43zgZU,Converse,"[Academy, Girls' Shoes, Girls' Sneakers]",2016-10-15T22:57:28Z,Converse Girls' Chuck Taylor All Star Stingray Metallic Low-top Shoes,,www.academy.com,108006160.0,,USD,2016-10-09T00:00:00Z,
+201,AVpe-JwE1cnluZ0-bB7B,Tahari,"[Heels, Shoes]",2016-05-08T02:32:37Z,Naila,"[8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8]",www.6pm.com,59.17,New,USD,2016-05-07T00:00:00Z,6pm.com
+202,AVpe-JxI1cnluZ0-bB7t,nike,"[Active, Medium, Black, Under 1in, Other, Nike, Cross Training, Shoes, Performance, Lightweight, Womens]",2016-05-20T08:12:49Z,Air Sculpt Tr 2 Women's Cross-trainers,"[10.5, 10, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11, 12]",www.kohls.com,75.0,New,USD,2015-08-20T00:00:00Z,Kohls.com
+203,AVpe-K1R1cnluZ0-bCUQ,Tigerlilykitten,[Shoes],2015-08-15T02:18:37Z,"Ivory Satin Baby Girls Christening Shoes, Diamante Heart Trim,crystal Cross, (3-6 Months) - Alicia",,www.amazon.co.uk,29.99,new,EUR,2015-08-09T00:00:00Z,Love This Shop
+204,AVpe-K1oilAPnD_xSFFO,Donald J Pliner,"[Loafers, Shoes]",2016-05-06T23:14:13Z,Noris,"[10.5, 10, 9.5, 7.5, 11, 12]",www.6pm.com,134.42,New,USD,2016-04-29T00:00:00Z,6pm.com
+205,AVpe-K35ilAPnD_xSFGF,Calvin Klein,"[Sandals, Shoes]",2016-05-08T01:46:40Z,Tora,"[8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8]",www.6pm.com,70.99,New,USD,2016-05-06T00:00:00Z,6pm.com
+206,AVpe-K63ilAPnD_xSFHO,Platino,[Shoes],2015-09-10T17:06:46Z,New Ladies/womens Black Open Toe Single Strap Flat Mule Sandals. - Black - Uk Sizes 3-8,,www.amazon.co.uk,10.0,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+207,AVpe-K8IilAPnD_xSFHc,New Balance,[shoes],2015-05-21T12:29:43Z,New Balance Womens 501 Sneakers,,www.dillards.com,64.99,,USD,2015-05-19T18:45:28.267Z,Dillards.com
+208,AVpe-KETLJeJML43zghm,Fashy,[Shoes],2015-08-24T19:39:49Z,Fashy Kinnder Sport Pantolette Shower & Bath Shoes Unisex-child Blue Blau (marine-wei�� 54) Size: 33,[29],www.amazon.co.uk,8.4,new,EUR,2015-08-23T00:00:00Z,Amazon
+209,AVpe-KL8LJeJML43zgkN,Timberland,"[Shoes, Boots]",2016-05-06T09:45:24Z,Earthkeepers�� Revenia Chukka,"[10.5, 10, 8.5, 7, 9.5, 7.5, 15, 11.5, 9, 8, 13, 11, 12]",www.6pm.com,49.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+210,AVpe-KRvLJeJML43zgmj,Born,"[Sandals, Shoes]",2016-05-05T04:39:40Z,Filip,"[10, 9, 8, 13, 11, 12]",www.6pm.com,28.8,New,USD,2016-04-29T00:00:00Z,6pm.com
+211,AVpe-KUY1cnluZ0-bCJD,Clarks,"[Sandals, Shoes]",2016-04-11T17:04:32Z,Perri Coast,"[8.5, 7, 6, 5, 6.5, 7.5]",www.6pm.com,37.99,New,USD,2016-04-01T00:00:00Z,6pm.com
+212,AVpe-KVZilAPnD_xSE6e,Giuseppe Zanotti,"[Shoes, Flats]",2015-10-18T22:15:00Z,I46152,,www.6pm.com,295.99,New,USD,2015-10-14T00:00:00Z,6pm.com
+213,AVpe-KqrLJeJML43zgv9,Start-rite,[Shoes],2015-08-15T02:17:44Z,Startrite Girls Flexy Soft Flower Purple Leather Velcro First Walking Shoes,,www.amazon.co.uk,16.99,new,EUR,2015-08-09T00:00:00Z,KCMODE
+214,AVpe-KscilAPnD_xSFCi,Cotswold,"[Shoes, Women's Shoes, Running Shoes]",2016-03-09T17:43:50Z,Cotswold Women's Hayley Boot Rubber Wellington Boots,,www.amazon.co.uk,6.69,new,EUR,2016-03-06T00:00:00Z,Amazon.co.uk
+215,AVpe-LUa1cnluZ0-bCgW,Nike,"[Neutral, Running, Women, Shoes, Sneakers Athletic]",2015-11-11T20:37:01Z,'air Zoom Structure 19' Running Shoe (women),"[10.5, 5.5, 8.5, 9.5, 11, 12, 10, 7, 6, 5, 6.5, 7.5, 11.5, 9, 8]",shop.nordstrom.com,135.0,,USD,2015-11-05T00:00:00Z,
+216,AVpe-LVh1cnluZ0-bCg6,Spylovebuy,[Shoes],2015-09-10T17:44:07Z,Spy Love Buy Darwin Stiletto Heel Diamante Pee Toe Court Shoes,,www.amazon.co.uk,9.95,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+217,AVpe-LXdLJeJML43zhAO,PUMA,"[Baby Walker Shoes, Kids, Shoes, Walker (size 4.5-7)]",2015-11-13T12:40:07Z,"'whirlwind' Glitter Sneaker (baby, Walker Toddler)",[5 M],shop.nordstrom.com,44.95,,USD,2015-11-08T00:00:00Z,
+218,AVpe-LYnLJeJML43zhAb,Reebok,"[Shoes, Men's Shoes, Indoor Court Shoes]",2016-04-02T06:47:19Z,Reebok Traintone Code Fitnessshoe Men,[40 1/2],www.amazon.co.uk,53.08,new,EUR,2016-04-01T00:00:00Z,2DaRa
+219,AVpe-LbzilAPnD_xSFTK,SKECHERS,"[Academy, Footwear, Girls' Shoes, Girls' Sneakers]",2015-11-07T19:01:34Z,Skechers Girls' Skech Appeal Align Athletic Lifestyle Shoes,,www.academy.com,35.98,,USD,2015-11-07T00:00:00Z,
+220,AVpe-LlvilAPnD_xSFWM,ShuWish UK,[Shoes],2015-09-10T17:34:17Z,Eve White Patent Pu Leather Stiletto High Heel Platform Court Shoes,,www.amazon.co.uk,20.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+221,AVpe-Lxb1cnluZ0-bCpr,New Rock,[Shoes],2015-09-10T17:22:59Z,New Rock Vip White Shoes M.2246-s11,,www.amazon.co.uk,153.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+222,AVpe-M291cnluZ0-bDDg,Passionow,"[Athletic, Water Shoes, Men, Shoes]",2016-07-27T14:47:18Z,Passionow Mens Spring New Style Suede Low Top Breathable Mesh Fabric Casual Shoes,,www.amazon.com,58.61,,USD,2015-12-16T00:00:00Z,
+223,AVpe-MJsLJeJML43zhR4,SKECHERS,"[Academy, Women's Active Shoes, Women's Athletic Shoes, Women's Shoes]",2016-10-18T00:31:55Z,Skechers Women's Skech Air 2.0 Cyclones Running Shoes,,www.academy.com,64.99,,USD,2016-07-13T00:00:00Z,
+224,AVpe-MO_ilAPnD_xSFlm,Primigi,"[Kids, Girls' Shoes]",2016-03-31T01:05:16Z,'morine 1-e' Mary Jane (toddler & Little Kid),,shop.nordstrom.com,69.95,,USD,2016-03-30T00:00:00Z,
+225,AVpe-MXy1cnluZ0-bC3u,SNEED,"[Shoes, Women, Athletic]",2016-08-27T18:34:37Z,"Sneed- Customizable Women's Dance Shoes Latin/salsa Satin Customized Heel Black/blue/yellow/pink/purple/red/white/fuchsia , Pink-us6.5-7 / Eu37 / Uk4.5-5 / Cn37 , Pink-us6.5-7 / Eu37 / Uk4.5-5 / Cn37",,www.amazon.ca,86.0,new,CAD,2016-08-26T00:00:00Z,YuTin Jia
+226,AVpe-Ma41cnluZ0-bC4x,Under Armour,[Boys' Shoes],2016-07-21T10:41:05Z,Under Armour Boys' Micro G Spine Disrupt Running Shoes - Grade School,,www.sportsauthority.com,69.99,,USD,2016-07-13T17:23:19Z,
+227,AVpe-MaO1cnluZ0-bC4c,Qianyuyu,"[Athletic, Women, Shoes]",2016-05-06T16:32:46Z,Yu&yu Women's Flat Heel Comfort Fashion Sneakers With Lace-up Shoes(more Colors),,www.amazon.ca,77.46,new,CAD,2015-11-14T00:00:00Z,Amazon.ca
+228,AVpe-MbrilAPnD_xSFqW,Carol Shoes,[Shoes],2015-09-10T16:12:12Z,Carol Shoes Women's Elegant Charm Mid Heel Ankle-strap Bows Sandals,,www.amazon.co.uk,17.0,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+229,AVpe-MeyilAPnD_xSFrp,Rockport,[Shoes],2015-08-14T22:33:42Z,Rockport Women's Daya Print Ballet Flat,,www.amazon.ca,77.94,new,CAD,2015-08-10T00:00:00Z,Amazon.ca
+230,AVpe-Mg8ilAPnD_xSFsJ,BeMIX,[Shoes],2015-09-10T16:13:16Z,Bemix Women's Shoes Platform Stiletto Heel Sandals Shoes More Colors Available,,www.amazon.co.uk,76.35,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+231,AVpe-Mla1cnluZ0-bC9D,Pearl Izumi,[Cycling Shoes],2015-09-10T17:11:46Z,2015 Pearl Izumi Womens Em Trail N 1 Running Shoes Dazzling Blue / Black Eu 45,,www.amazon.co.uk,58.42,new,EUR,2015-09-07T00:00:00Z,Koo Bikes
+232,AVpe-MmBLJeJML43zhcn,Ryka,[Shoes],2016-05-08T01:26:51Z,Elated,"[8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",www.6pm.com,24.99,New,USD,2016-04-29T00:00:00Z,6pm.com
+233,AVpe-MoAilAPnD_xSFu5,Mythique,"[Shoes, Women]",2016-02-02T23:10:47Z,Mythique Women's Tango Ballroom Salsa Latin Leather Dance Shoes Karenina,"[10.5, 10, 8.5, 5.5, 7, 6, 5, 9.5, 4, 6.5, 7.5, 4.5, 9, 8, 11]",www.amazon.ca,159.95,new,CAD,2016-01-29T00:00:00Z,Amazon.ca
+234,AVpe-MyJ1cnluZ0-bDBz,BeMIX,[Shoes],2015-08-24T20:08:53Z,Bemix Girls' Shoes Comfort Flat Heel Satin Flats With Rhinestone Wedding Shoes More Colors Available,,www.amazon.co.uk,52.9,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+235,AVpe-N2oilAPnD_xSGNI,Stella McCartney Kids,"[Shoes, Boots]",2016-05-21T04:09:40Z,Bommer Snow Boots (little Kid/big Kid),,www.6pm.com,100.99,New,USD,2016-05-07T00:00:00Z,6pm.com
+236,AVpe-N3VLJeJML43zh8Q,KangaROOS Kids,[Shoes],2016-05-03T16:00:22Z,Combat (little Kid),,www.6pm.com,17.99,New,USD,2016-04-05T00:00:00Z,6pm.com
+237,AVpe-N8_ilAPnD_xSGPZ,Nike,"[Boys' Cleats, Outlet, Shoes Outlet, Boys' Shoes, Cleats]",2016-01-26T08:26:43Z,Nike Kids' Jr. Mercurial Vortex Ii Fg-r Soccer Cleats,,www.sportsauthority.com,29.98,,USD,2016-01-21T00:00:00Z,
+238,AVpe-NIRilAPnD_xSF7H,Mel by Melissa,"[Sandals, Shoes]",2016-05-05T04:25:10Z,Mel Lilly Pilly Iii,"[10, 7, 6, 5, 9, 8]",www.6pm.com,17.99,New,USD,2016-04-29T00:00:00Z,6pm.com
+239,AVpe-NMVilAPnD_xSF83,Converse,"[Academy, Women's Shoes, Women's Sneakers]",2016-10-15T23:25:44Z,Converse Women's Chuck Taylor All-star Shoes,,www.academy.com,104456600.0,,USD,2016-10-09T00:00:00Z,
+240,AVpe-NPpilAPnD_xSF91,Little Blue Lamb,[Shoes],2015-08-15T02:21:28Z,Little Blue Lamb- Baby Girls First Steps Soft Leather Shoes | White Babies Pink Velcro,,www.amazon.co.uk,24.57,new,EUR,2015-08-09T00:00:00Z,Amazon.co.uk
+241,AVpe-NRTilAPnD_xSF-x,Carhartt,"[Shoes, Boots]",2016-05-03T17:04:01Z,"11\"" Non-safety Square Toe Wellington","[10.5, 10, 8.5, 9.5, 11.5, 9, 8, 13, 14, 11, 12]",www.zappos.com,82.5,New,USD,2016-04-29T00:00:00Z,6pm.com
+242,AVpe-NWwLJeJML43zhvb,Roamer,[Shoes],2015-09-10T16:12:26Z,Roamers Triple Touch Fastening Adjustable Men's Comfort Sandal With Deluxe Padded Suede Sock,,www.amazon.co.uk,29.99,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+243,AVpe-NXdLJeJML43zhv3,Roch Valley,[Shoes],2015-08-24T20:06:41Z,Roch Valley Ss/s Regular Fit Satin Ballet Shoes Pale Pink 11 Uk / 29 Eu,,www.amazon.co.uk,9.99,new,EUR,2015-08-22T00:00:00Z,Wisdens Sports
+244,AVpe-NZcLJeJML43zhwy,Vaneli,"[Sandals, Shoes]",2016-05-06T23:43:00Z,Wander,"[5.5, 8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8]",www.6pm.com,48.8,New,USD,2016-05-06T00:00:00Z,6pm.com
+245,AVpe-NZuLJeJML43zhw6,Old Soles,"[Shoes, Boots]",2016-05-24T08:44:07Z,Gatsby (infant/toddler),,www.zappos.com,24.99,New,USD,2016-05-22T00:00:00Z,6pm.com
+246,AVpe-NaZ1cnluZ0-bDQ-,FRILLY LILY,[Shoes],2015-08-24T20:26:57Z,Sale! Ballet Shoes Red Polka Dot Satin Child Size 8 Full Sole,,www.amazon.co.uk,8.0,new,EUR,2015-08-22T00:00:00Z,Frilly Lily
+247,AVpe-NfpLJeJML43zhzN,Justin Boots,"[Shoes, Men's Shoes, Men's Boots]",2016-03-16T00:22:39Z,Justin Boots Work Boots Mens Premium Light Duty Round Toe Western Tan Wk4905,"[6.5, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 13]",www.sears.com,104.95,,USD,2016-03-14T00:00:00Z,Sears.com
+248,AVpe-NfuilAPnD_xSGEG,French Connection,"[Sandals, Shoes]",2016-02-09T03:01:50Z,Ulie,,www.6pm.com,64.99,New,USD,2016-01-11T00:00:00Z,6pm.com
+249,AVpe-NmAilAPnD_xSGGN,Old Gringo,"[Shoes, Boots]",2016-07-29T21:25:34Z,Sharpei,"[10, 5.5, 7.5]",www.6pm.com,300.7,New,USD,2016-05-22T00:00:00Z,6pm.com
+250,AVpe-NszilAPnD_xSGJR,KLM-1123,[Shoes],2015-08-24T20:10:23Z,Klm Women's Shoes Pointed To Chunky Heel Oxfords With Lace-up Shoes More Colors Available,,www.amazon.co.uk,53.0,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+251,AVpe-O5wLJeJML43ziUp,Feud,[Shoes],2015-09-10T17:19:20Z,Feud Women's Wicked Ankle Boots,,www.amazon.co.uk,110.0,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+252,AVpe-OEn1cnluZ0-bDgx,Bass,"[Loafers, Shoes]",2016-03-17T20:05:40Z,Wayfarer,"[8.5, 6, 9.5, 11]",www1.macys.com,64.99,New,USD,2015-10-20T00:00:00Z,6pm.com
+253,AVpe-OKSLJeJML43ziC7,Fila,[Shoes],2016-02-09T23:59:04Z,Memory Cloak 2,"[7, 8]",www.6pm.com,34.04,New,USD,2016-01-11T00:00:00Z,6pm.com
+254,AVpe-Oht1cnluZ0-bDra,Dolcis,[Shoes],2015-09-10T16:12:59Z,New Ladies Dolcis Cork Wedge Womens Heel Platform Floral Ankle Strappy Sandals Shoes,,www.amazon.co.uk,25.8,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+255,AVpe-OmoilAPnD_xSGet,Abroo,"[Shoes, Women, Athletic]",2016-08-27T18:36:13Z,Abby Q-6227 Womens Latin Tango Rumba Cha-cha Ballroom Party Mid Heel Round-toe Fabric Dance-shoes,,www.amazon.ca,32.0,new,CAD,2016-08-26T00:00:00Z,Amazon.ca
+256,AVpe-OqQLJeJML43ziPN,Pablosky Kids,"[Shoes, Boots, Adult]",2016-03-29T05:52:41Z,413119 (toddler/little Kid/big Kid),,www.imdb.com,36.99,New,USD,2015-10-21T00:00:00Z,6pm.com
+257,AVpe-OvsilAPnD_xSGiB,Converse,[shoes],2015-04-23T11:31:10Z,Converse Chuck Taylor All Star Low Shoes,,www.amazon.com,50.0,,USD,2015-04-21T12:04:38.894Z,
+258,AVpe-P4LilAPnD_xSG9X,BeMIX,[Shoes],2015-08-24T20:09:33Z,Bemix Women's Shoes Round Toe Chunky Heel Pumps Shoes More Colors Available,,www.amazon.co.uk,31.76,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+259,AVpe-PDc1cnluZ0-bD4M,Keds,[Boat Shoes],2015-08-14T18:13:51Z,Glimmer Boat,"[5.5M, 6.5M, 7.5M, 7M, 8.5M, 6M, 11M, 10M, 9M, 8M, 9.5M, 5M]",www.shoes.com,38.99,New,USD,2015-08-13T00:00:00Z,Shoes.com
+260,AVpe-PFCLJeJML43ziZb,Melissa Shoes,"[Sandals, Shoes]",2016-02-11T01:24:47Z,Peace Iii,"[10, 9, 8]",www.6pm.com,48.99,New,USD,2016-02-05T00:00:00Z,6pm.com
+261,AVpe-PI31cnluZ0-bD5o,United Golfers,"[Golf Shoes, Shoes, Women's Shoes]",2016-03-28T05:45:23Z,United Golfers Women's Golf Shoes Black Noir - V.6 6,,www.amazon.co.uk,209.74,new,EUR,2016-03-26T00:00:00Z,Schuhling GmbH
+262,AVpe-PLI1cnluZ0-bD60,Nina,[shoes],2015-06-01T18:19:15Z,Nina Nolga Glitter Sandals,,www.dillards.com,69.0,,USD,2015-05-31T18:21:34.422Z,Dillards.com
+263,AVpe-PPVilAPnD_xSGt8,BeMIX,[Shoes],2015-08-24T20:10:26Z,Bemix Satin Uppermedium Heel Peep-toes With Rhinestone Wedding Bridal Shoes (mm002),"[37, 41, 36, 42, 38, 39, 35, 40]",www.amazon.co.uk,72.32,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+264,AVpe-PX81cnluZ0-bD_q,Rieker,[Shoes],2015-09-20T23:59:10Z,50260 Rebecca 60,,www.6pm.com,67.99,New,USD,2015-09-19T00:00:00Z,6pm.com
+265,AVpe-PXc1cnluZ0-bD_Y,Spot On,[Shoes],2015-09-10T17:18:21Z,Spot On Flat Shoe / Tassel Trim Vamp,,www.amazon.co.uk,9.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+266,AVpe-PZz1cnluZ0-bEAg,FCF,[Shoes],2015-09-10T17:21:17Z,"Womens Fur Lined Winter Boots Ladies High Top Ankle Shoe Girls Grip Sole Trainer (uk 7 Eu 40, Black)",,www.amazon.co.uk,17.99,new,EUR,2015-09-05T00:00:00Z,Miss Attitude UK
+267,AVpe-Pfx1cnluZ0-bECz,Naturalizer,[shoes],2015-06-01T17:28:44Z,Naturalizer Patricia Flats,,www.dillards.com,79.99,,USD,2015-05-31T18:11:49.997Z,Dillards.com
+268,AVpe-Q191cnluZ0-bEhD,Naturalizer,"[Shoes, Boots]",2016-05-06T09:38:53Z,Bromstad Bridgette,"[10.5, 10, 8.5, 7, 6, 5, 9.5, 6.5, 4, 7.5, 8]",www.6pm.com,54.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+269,AVpe-Q3N1cnluZ0-bEhR,Red Tape,[Shoes],2015-09-10T16:37:32Z,Red Tape Maglin Rtx Burnished Brown Mens Gel Soft Lightweight Lace Brogue Real Leather Shoes,,www.amazon.co.uk,36.0,new,EUR,2015-09-08T00:00:00Z,Foot Box
+270,AVpe-Q4QilAPnD_xSHUJ,Bass,"[Oxfords, Shoes]",2015-10-31T09:10:57Z,Carson,"[10.5, 8.5, 10, 7, 9.5, 7.5, 9, 11.5, 8]",www.6pm.com,44.99,New,USD,2015-10-28T00:00:00Z,6pm.com
+271,AVpe-Q5vilAPnD_xSHVB,BeMIX,[Shoes],2015-08-24T20:08:03Z,Bemix Women's Chunky Heel Pointed Toe Sandals Shoes With Rhinestone (more Colors),,www.amazon.co.uk,48.36,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+272,AVpe-QE51cnluZ0-bEPB,Dek,[Shoes],2015-09-10T16:21:55Z,Dek Venus Iii Black Mens Trainers,,www.amazon.co.uk,15.18,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+273,AVpe-QFVilAPnD_xSHBX,Cole Haan,"[Shoes, Boots]",2016-05-24T07:30:09Z,Ridley Chukka,"[10.5, 10, 8.5, 7, 9.5, 7.5, 11.5, 9, 8, 13, 11, 12]",www.6pm.com,112.99,New,USD,2016-04-09T00:00:00Z,6pm.com
+274,AVpe-QQi1cnluZ0-bETH,Isola,"[Shoes, Boots]",2016-05-03T17:04:07Z,Corbin,"[10, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",www.6pm.com,34.49,New,USD,2016-04-29T00:00:00Z,6pm.com
+275,AVpe-QW_1cnluZ0-bEVV,Puma,"[Men, Shoes, Sneakers]",2016-02-02T23:18:44Z,Ignite Fast Forward Trainers,,fr.puma.com,55.0,,EUR,2016-01-29T00:00:00Z,
+276,AVpe-QYYilAPnD_xSHIa,Happy Feet,[Shoes],2015-09-10T17:22:37Z,Happy Feet - Washington Redskins - Plain Design Slippers,[Large],www.amazon.co.uk,17.99,new,EUR,2015-09-05T00:00:00Z,Happy Feet Slippers USA
+277,AVpe-Q_sLJeJML43zjE2,Asics,"[Shoes, Men's Shoes, Cross Trainers, Women's Shoes]",2016-03-09T17:45:41Z,"Asics Pre-atlanis Gs, Unisex Kids Multisport Outdoor Shoes",,www.amazon.co.uk,31.48,new,EUR,2016-03-06T00:00:00Z,Amazon.co.uk
+278,AVpe-QdMilAPnD_xSHJv,Nike,"[Shoes, Men's Shoes, Running Shoes, Road Running Shoes]",2016-03-09T17:55:47Z,Nike Mens Fit Sole Lite 2 Running Shoes Dk Grey/black Uk 10 (45),,www.amazon.co.uk,185.73,new,EUR,2016-03-06T00:00:00Z,Dragon Apparel
+279,AVpe-QlfLJeJML43zi7k,Ralph Lauren,"[Women, Shoes, Pumps]",2016-02-25T20:27:51Z,Celia Nappa Pump,"[38, 38.5, 37.5, 39.5, 36.5, 36, 39, 37, 35.5, 40, 41]",www.ralphlauren.com,525.0,New,USD,2016-02-21T00:00:00Z,www.ralphlauren.com
+280,AVpe-QouilAPnD_xSHPE,Amblers,[Shoes],2015-09-10T16:22:08Z,Amblers Safety Fs77 Safety Trainer / Mens Trainers,,www.amazon.co.uk,33.99,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+281,AVpe-R-silAPnD_xSHu4,Essentials,[Shoes],2015-08-15T02:19:46Z,Baby Girls Navy Blue Polka Dot Bows Party Shoes 3-6 Months,,www.amazon.co.uk,7.49,new,EUR,2015-08-09T00:00:00Z,Itzagift
+282,AVpe-R8xLJeJML43zjcR,G4GADGET®,"[Golf Shoes, Shoes, Women's Shoes]",2016-03-29T07:36:13Z,Prime Quality Iphone 6/6s Silicon Bumper Red By G4gadget®,,www.amazon.co.uk,1.99,new,EUR,2015-11-15T00:00:00Z,G4GADGET
+283,AVpe-RAvilAPnD_xSHXV,ESSEX GLAM,[Shoes],2015-09-10T17:34:05Z,Womens Bridal Diamante Ladies Wedding Bridesmaid Prom Party Platform Stiletto Heel Shoe Size 3 4 5 6 7 8,,www.amazon.co.uk,14.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+284,AVpe-RHdLJeJML43zjH0,Vintage,"[Luggage, Bags, Men's Shoes, Martial Arts Shoes, Shoes, Reusable Shopper Bags]",2016-03-29T10:41:31Z,The Fist of Vengeance Tote Bag,,www.amazon.co.uk,6.99,new,EUR,2016-02-05T00:00:00Z,Vintage Magazine Company
+285,AVpe-RNf1cnluZ0-bEpU,Camper,"[Shoes, Boots]",2016-05-08T02:35:04Z,Hardwood Gore-tex�� - K300029,,www.zappos.com,149.99,New,USD,2016-05-07T00:00:00Z,6pm.com
+286,AVpe-RNs1cnluZ0-bEpZ,Grinders,[Shoes],2015-09-10T16:10:45Z,Grinders Renegade Hi Black Unisex Leather Boot Cowboy Western Bikers High Boots,,www.amazon.co.uk,109.97,new,EUR,2015-09-08T00:00:00Z,Amazon.co.uk
+287,AVpe-RSULJeJML43zjLy,Clarks,[Shoes],2015-09-10T16:09:59Z,Mens Clarks Original Desert Boot Truffle Suede Crepe Sole Casual Smart Shoe,,www.amazon.co.uk,77.99,new,EUR,2015-09-08T00:00:00Z,Amazon.co.uk
+288,AVpe-RdKilAPnD_xSHiE,Giuseppe Zanotti,"[Women, Shoes, Heels, Sandals]",2016-08-23T10:11:35Z,Cruel Sandals,"[5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11]",www.barneys.com,1595.0,new,USD,2016-04-29T10:22:45Z,http://www.barneys.com/
+289,AVpe-Rg51cnluZ0-bExG,Generic,[Shoes],2015-09-10T16:20:30Z,Mens Boys Ladies Girls Novelty Fur Tiger Animal Slippers Brown White Grey Adults or Childs Sizes 10-11,,www.amazon.co.uk,9.99,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+290,AVpe-RgPilAPnD_xSHjY,Man Friday,"[Shoes, Boys' Shoes, Cycling Shoes]",2015-11-16T04:55:35Z,Man Friday Weshoe Unisex Running/cycling/leisure Sports Closed Toe/sneakers/ Casual Shoes Summer,,www.amazon.co.uk,113.86,new,EUR,2015-11-15T00:00:00Z,ManFridayUK
+291,AVpe-RhbilAPnD_xSHkC,Dance Shoes,"[Shoes, Women, Athletic]",2016-08-27T18:47:16Z,Adult Latin Shoes/ballroom Dancing Square/ballroom Dance Shoes/soft Bottom Dancing Shoes,,www.amazon.ca,82.0,new,CAD,2016-08-27T00:00:00Z,Amazon.ca
+292,AVpe-Rs51cnluZ0-bE14,Under Armour Kids,[Shoes],2016-05-31T13:57:51Z,Ua Bgs Micro G Pulse Ii Grit (big Kid),,www.zappos.com,64.99,new,USD,2016-05-29T00:00:00Z,
+293,AVpe-S6D1cnluZ0-bFRy,iAuctionShop,[Shoes],2015-08-15T02:18:17Z,Black Leather Toddler Shoe Liangdian Velcro Fastener Size 140 or Uk Size 2 (approx 3-6 Months),,www.amazon.co.uk,13.99,new,EUR,2015-08-09T00:00:00Z,iAuctionShop Ltd
+294,AVpe-S6zLJeJML43zjxp,Dolcis,[Shoes],2015-09-10T17:36:06Z,Dolcis Black Snake Print Island Platform Womens Peep Toe Heels,,www.amazon.co.uk,39.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+295,AVpe-SDl1cnluZ0-bE-F,DELTA NOIRE,"[Shoes, Reusable Shopper Bags]",2016-03-30T03:15:17Z,Keep Calm I'm An Oboist Tote Bag,,www.amazon.co.uk,10.99,new,EUR,2016-03-28T00:00:00Z,Delta Noire
+296,AVpe-SEo1cnluZ0-bE-r,SKECHERS,[Shoes],2016-07-29T22:06:27Z,Spartan - Snuggly,"[5.5, 8.5, 10, 7, 6, 5, 9.5, 6.5, 7.5, 9, 8, 11]",www.6pm.com,35.99,New,USD,2016-05-20T00:00:00Z,6pm.com
+297,AVpe-SNvilAPnD_xSH0G,Muk Luks,"[shoes, women's shoes]",2015-12-17T14:28:23Z,Women's Muk Luks Darlene Thong Slippers,"[S, L, M, Small]",tws.target.com,19.99,,USD,2015-11-08T00:00:00Z,
+298,AVpe-SOJilAPnD_xSH0O,BeMIX,[Shoes],2015-08-24T20:09:57Z,Bemix Women's Shoes Flat Heel Slingback Sandals Casual Yellow/green/pink/white,,www.amazon.co.uk,52.5,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+299,AVpe-SSdLJeJML43zjjC,Sanjo,[Shoes],2015-09-10T17:34:21Z,Sanjo Unisex-adult Kf1000 Low-top Trainers,,www.amazon.co.uk,27.6,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+300,AVpe-STILJeJML43zjjb,by swan,[Shoes],2015-09-10T16:40:12Z,By Swan Womens Court Shoes,,www.amazon.co.uk,31.12,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+301,AVpe-Sj11cnluZ0-bFI0,Cesare Paciotti,"[Heels, Shoes]",2016-05-06T09:35:32Z,H531210,,www.6pm.com,310.99,New,USD,2016-04-05T00:00:00Z,6pm.com
+302,AVpe-SkJilAPnD_xSH7T,Lady shoes,[Shoes],2015-08-24T20:06:56Z,Klm Women's Shoes Fashion Boots Round Toe Chunky Heel Mid-calf Boots More Colors Available,,www.amazon.co.uk,69.0,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+303,AVpe-SkjLJeJML43zjpT,Lacoste,[shoes],2015-05-23T01:47:06Z,Lacoste Sherbrooke 10 Srm Leather Canvas Mens,[8.5M],www.amazon.com,89.99,,USD,2015-05-16T08:19:36.433Z,
+304,AVpe-Sl2ilAPnD_xSH8M,Belle by Sigerson Morrison,"[Loafers, Shoes]",2016-05-06T09:28:40Z,Maga,"[7, 6]",www.6pm.com,117.99,New,USD,2016-04-09T00:00:00Z,6pm.com
+305,AVpe-SsoLJeJML43zjsc,Lady shoes,[Shoes],2015-08-24T20:07:13Z,Klm Women's Flat Heel Fashion Boots Ankle Boots Shoes (more Colors),,www.amazon.co.uk,28.0,new,EUR,2015-08-22T00:00:00Z,QiYue Shop
+306,AVpe-StULJeJML43zjsv,Barneys New York,"[Sneakers, Men, Shoes]",2016-07-11T01:09:00Z,Suede Hiking Sneakers,"[10, 7, 12.5, 9, 8, 13, 11, 12]",www.barneys.com,109.0,new,USD,2016-07-10T00:00:00Z,http://www.barneys.com/
+307,AVpe-St_ilAPnD_xSH_1,Via Spiga,"[Heels, Shoes]",2016-05-08T01:35:25Z,Tarot,"[10, 8.5, 7, 6, 9.5, 6.5, 8]",www.6pm.com,109.99,New,USD,2016-05-06T00:00:00Z,6pm.com
+308,AVpe-SzZ1cnluZ0-bFPV,Antonio Zengara,[Shoes],2016-05-06T09:53:49Z,Sea-view,"[10.5, 10, 8.5, 7, 9.5, 7.5, 11.5, 9, 8, 13, 11, 12]",www.6pm.com,19.99,New,USD,2016-04-09T00:00:00Z,6pm.com
+309,AVpe-T6w1cnluZ0-bFnF,Tod's,"[Men, Shoes, Drivers]",2016-08-23T10:15:07Z,Perforated Tie Drivers,"[6, 7, 8, 9, 10, 11, 12, 13, 6.5, 7.5, 8.5, 9.5, 10.5, 11.5]",www.barneys.com,249.0,new,USD,2016-08-22T00:00:00Z,http://www.barneys.com/
+310,AVpe-T8IilAPnD_xSIaX,Z-CoiL,[shoes],2016-07-27T01:42:32Z,Z-coil Men's Cruiser Tennis Shoes,,www.amazon.com,195.95,,USD,2015-09-16T00:00:00Z,
+311,AVpe-TAeilAPnD_xSIG-,Nike,"[Sneakers, New Arrivals, Shoes]",2015-11-13T12:36:21Z,'internationalist' Print Sneaker (women),"[8.5, 10, 7, 6, 6.5, 7.5, 9, 8]",shop.nordstrom.com,120.0,,USD,2015-11-08T00:00:00Z,
+312,AVpe-TAjLJeJML43zjz_,Superfit,[Shoes],2016-02-09T02:59:51Z,Tibo (toddler),,www.6pm.com,39.99,New,USD,2016-01-11T00:00:00Z,6pm.com
+313,AVpe-TAwLJeJML43zj0D,Katya,[Shoes],2015-09-10T16:46:53Z,Katya Gorgeous Electric Blue Suede Effect Bow Fronted Flat Ballerina Style Pumps ~ Available All Sizes,,www.amazon.co.uk,14.99,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+314,AVpe-TWg1cnluZ0-bFao,JONAK,[Shoes],2015-09-10T17:19:14Z,"Jonak 088 11118cu Tej, Women's Boots",,www.amazon.co.uk,98.75,new,EUR,2015-09-05T00:00:00Z,Amazon
+315,AVpe-TbWilAPnD_xSIOg,Clarks,[Shoes],2016-05-21T04:12:26Z,Trigenic Veldt,"[10.5, 8.5, 10, 7, 9.5, 7.5, 9, 11.5, 8, 13, 11, 12]",www.6pm.com,109.99,New,USD,2016-05-07T00:00:00Z,6pm.com
+316,AVpe-Tbd1cnluZ0-bFcR,Jomos,[Dance Shoes],2015-09-10T17:03:54Z,"Jomos Activa, Men's Wedge Heels Sandals",,www.amazon.co.uk,61.97,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+317,AVpe-TcnilAPnD_xSIOv,Barneys New York,"[Sandals, Women, Shoes, Flats]",2016-06-19T23:43:39Z,Double-band Slide Sandals,"[10.5, 5.5, 8.5, 9.5, 11, 12, 10, 7, 6, 5, 6.5, 7.5, 11.5, 9, 8]",www.barneys.com,195.0,new,USD,2016-06-19T00:00:00Z,http://www.barneys.com/
+318,AVpe-TtqLJeJML43zkCU,Topshop,"[Women, Shoes, Sandals]",2015-11-07T17:34:08Z,'rebecca' Ankle Strap Sandal (women),,shop.nordstrom.com,80.0,,USD,2015-11-05T00:00:00Z,
+319,AVpe-U-2LJeJML43zkfX,See Kai Run Kids,[Shoes],2016-02-09T23:51:14Z,Corbin (infant/toddler),,www.6pm.com,29.53,New,USD,2016-02-09T00:00:00Z,6pm.com
+320,AVpe-U-aLJeJML43zkfE,Marni,"[Women, Shoes, Sneakers]",2016-08-12T09:38:51Z,Double-strap Sneakers,"[5, 6, 7, 8, 9, 10, 11]",www.barneys.com,229.0,new,USD,2015-12-23T00:00:00Z,http://www.barneys.com/
+321,AVpe-UHfLJeJML43zkLq,Dune London,"[Oxfords, Shoes]",2016-06-21T14:14:44Z,Renshaw,,www.zappos.com,125.99,new,USD,2016-06-19T00:00:00Z,
+322,AVpe-UKy1cnluZ0-bFsG,VogueZone009,[Shoes],2015-09-10T17:09:05Z,Voguezone009 Womens Open Toe Low Heel Cow Leather Soft Material Solid Sandals With Buckle,,www.amazon.co.uk,33.99,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+323,AVpe-UMKilAPnD_xSIf3,Reebok Lifestyle,[Shoes],2016-05-08T02:37:23Z,Ventilator Cg,"[10, 8.5, 5.5, 7, 9.5, 7.5, 9, 8]",www.6pm.com,64.99,New,USD,2016-03-22T00:00:00Z,6pm.com
+324,AVpe-UMjLJeJML43zkNu,Lauren Ralph Lauren,[Shoes],2015-09-10T17:44:00Z,Lauren Ralph Lauren Tatum Loafers Shoes Womens,,www.amazon.co.uk,32.99,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+325,AVpe-UP1LJeJML43zkPE,Loud Look,[Shoes],2015-09-10T17:33:23Z,Loudlook Sale!! New Womens Ladies Peeptoe High Stiletto Heels Faux Suede Shoes Size 3-8 Uk,,www.amazon.co.uk,8.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+326,AVpe-UUe1cnluZ0-bFv2,columbia,"[Narrow, Active, Medium, Mens, Black, Columbia, Shoes, Ankle, Boots, Comfort]",2016-05-04T05:36:49Z,Peakfreak Xcrsn Xcel Men's Hiking Shoes,,www.kohls.com,85.0,New,USD,2015-09-15T00:00:00Z,Kohls.com
+327,AVpe-UhXilAPnD_xSInH,Florentine,[Shoes],2015-09-10T17:19:40Z,Ladies Fashion Faux Leather Ankle Wedge Boots Side Zip Black Size Uk 3-8,,www.amazon.co.uk,12.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+328,AVpe-UiiLJeJML43zkU9,Tilly London,[Shoes],2015-09-10T17:24:03Z,New Womans Camel Brown Fleece Wide Fur Zips Collar Cuff Knee High Calf Boots Sizes 3 4 5 6 7 8,,www.amazon.co.uk,19.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+329,AVpe-Ul0ilAPnD_xSIo0,Venettini Kids,"[Shoes, Flats]",2016-05-06T23:13:50Z,55-dale (little Kid/big Kid),,www.6pm.com,52.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+330,AVpe-Ul4ilAPnD_xSIo3,Vaneli,"[Sandals, Shoes]",2016-05-17T21:39:11Z,Berenice,"[10.5, 10, 8.5, 5.5, 7, 9.5, 7.5, 9, 8]",www1.macys.com,39.99,New,USD,2015-10-21T00:00:00Z,6pm.com
+331,AVpe-UyW1cnluZ0-bF61,Skechers,"[Shoes, Girls, Sneakers, Women, Athletic, Tennis]",2016-08-29T21:07:24Z,Skechers Streetsmarts Buckle Up Girls Sneakers - Denim & Pink,,www.amazon.ca,35.7,new,CAD,2015-08-14T22:30:54Z,Galaxy Sports UK
+332,AVpe-VJ0LJeJML43zkjl,Lady shoes,[Shoes],2015-08-24T20:10:45Z,Klm Women's Shoes Fashion High Chunky Heel Suede Ankle Boots More Colors Available,,www.amazon.co.uk,46.0,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+333,AVpe-VLbLJeJML43zkkK,Blundstone,[Shoes],2015-09-10T16:12:11Z,Blundstone 1320 Grazy Horse Gaucho / Brown,,www.amazon.co.uk,128.48,new,EUR,2015-09-08T00:00:00Z,Amazon.co.uk
+334,AVpe-VSPLJeJML43zkm-,Qianyuyu,"[Athletic, Men, Shoes]",2016-05-06T16:24:13Z,Yu&yu Hiking Shoes Men's Shoes Fashion Sneakers Faux Shoes More Colors Available,,www.amazon.ca,92.52,new,CAD,2015-11-14T00:00:00Z,Amazon.ca
+335,AVpe-V_j1cnluZ0-bGW9,Dr. Martens,"[Loafers, Shoes]",2016-05-06T09:35:54Z,Louis Gusset Slip On,,www.6pm.com,120.0,New,USD,2016-04-05T00:00:00Z,6pm.com
+336,AVpe-VaNLJeJML43zkp_,Gray-Nicolls,[Shoes],2015-09-10T17:11:28Z,Gray-nicolls Optimum All Rounder Adult Cricket Shoes,,www.amazon.co.uk,54.99,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+337,AVpe-VfsilAPnD_xSI-s,Burberry,[shoes],2015-05-19T20:07:05Z,Danning Shearling-cuff Lace-up Boots,[35 5],www.saksfifthavenue.com,485.0,New,USD,2015-05-16T17:56:59.794Z,saksfifthavenue.com
+338,AVpe-VwFLJeJML43zkyf,Born,[men shoes],2015-04-28T13:58:20Z,Born Men's Paulo Wingtip Oxfords,,www.dillards.com,140.0,,USD,2015-04-26T22:20:04.205Z,Dillards.com
+339,AVpe-W-2ilAPnD_xSJgz,Scarpa,[Shoes],2015-08-21T22:41:16Z,Scarpa Instinct Vs - Black - Eu 40.5 / Uk 6 2/3 / Us M 7 2/3 / Us W 8 2/3 - Technical High-performance Climbing and Bouldering Shoe,,www.amazon.co.uk,85.43,new,EUR,2015-08-21T00:00:00Z,MOUNTAINSHOP
+340,AVpe-W5ALJeJML43zlML,Qianyuyu,"[Athletic, Women, Shoes]",2016-05-06T16:31:39Z,Yu&yu Women's Shoes Komanic Open Toe Wedge Heel Leather Sandals Shoes More Colors Available,,www.amazon.ca,266.4,new,CAD,2015-11-14T00:00:00Z,Amazon.ca
+341,AVpe-W6ZLJeJML43zlNC,Lady shoes,[Shoes],2015-08-24T20:10:46Z,Klm Women's Shoes Tianl Fashion Boots Wedge Heel Knee High Boots More Colors Available,,www.amazon.co.uk,49.0,new,EUR,2015-08-22T00:00:00Z,QiYue Shop
+342,AVpe-WRYLJeJML43zk-H,Carol Shoes,[Shoes],2015-09-10T17:16:56Z,Carol Shoes Women's Fashion Buckles Wedges Mid-calf Snow Boots,,www.amazon.co.uk,24.0,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+343,AVpe-WYbilAPnD_xSJTI,Elegantpark,[Shoes],2015-09-10T16:40:32Z,Elegantpark 100114 Women's Round Toe Pearl Rhinestone Bow Low Heel Satin Prom Shoes,,www.amazon.co.uk,52.99,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+344,AVpe-WyGLJeJML43zlJ1,Dollybird,[Shoes],2015-09-10T17:44:06Z,Dollybird Women's Speck Platforms Heels,,www.amazon.co.uk,100.8,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+345,AVpe-WypLJeJML43zlKO,ara,"[Heels, Shoes]",2016-05-24T07:44:55Z,Naveen,,www.6pm.com,150.99,New,USD,2016-05-22T00:00:00Z,6pm.com
+346,AVpe-X4gilAPnD_xSJ2I,Freds,[Shoes],2015-08-21T23:53:31Z,Hunter Bullseye Full Knee Farming Wellies,,www.amazon.co.uk,58.99,new,EUR,2015-08-21T00:00:00Z,Amazon.co.uk
+347,AVpe-XPiLJeJML43zlUT,Puma,"[Shoes, Men's Shoes, Football Boots]",2016-03-09T17:39:39Z,Puma Mens Universal R Hg Football Shoes,,www.amazon.co.uk,46.52,new,EUR,2016-03-06T00:00:00Z,Amazon.co.uk
+348,AVpe-XQO1cnluZ0-bG1f,Bogs Kids,"[Shoes, Boots]",2015-10-31T09:33:28Z,Rainboot Snakes (toddler/little Kid/big Kid),,www.6pm.com,29.99,New,USD,2015-10-28T00:00:00Z,6pm.com
+349,AVpe-XZ6ilAPnD_xSJqw,Nike,"[Shoes, Men's Shoes, Running Shoes, Road Running Shoes]",2016-03-30T03:43:31Z,"Nike Air Force 1, Men's Low-top Sneakers",,www.amazon.co.uk,207.07,new,EUR,2016-03-28T00:00:00Z,Amazon.co.uk
+350,AVpe-Xbt1cnluZ0-bG5Y,BOBS from SKECHERS,"[Shoes, Loafers]",2016-07-29T22:06:27Z,Bobs Flexy,"[5, 5.5, 6]",www.6pm.com,30.99,New,USD,2016-05-08T00:00:00Z,6pm.com
+351,AVpe-Xc01cnluZ0-bG5o,Dance Shoes,"[Shoes, Girls]",2016-08-27T18:43:50Z,"Children's Latin Shoes/soft Bottom Dance Shoes/low-heeled Shoes, Practice",,www.amazon.ca,52.0,new,CAD,2016-08-26T00:00:00Z,Amazon.ca
+352,AVpe-XdlLJeJML43zlZa,Naturino,"[Sandals, Shoes]",2016-05-06T09:35:55Z,Nat. 3339 Sp14 (little Kid/big Kid),,www.6pm.com,19.93,New,USD,2016-05-05T00:00:00Z,6pm.com
+353,AVpe-Xhp1cnluZ0-bG7d,Paul Smith,"[Oxfords, Shoes]",2016-05-06T10:04:56Z,Amalfi Grand Wingtip Oxford,,www.6pm.com,280.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+354,AVpe-Xl01cnluZ0-bG9W,TIBHAR,[Shoes],2015-08-24T20:05:33Z,"Tibhar Schuh Progress Gold, 42, Wei��/rot",,www.amazon.co.uk,68.28,new,EUR,2015-08-22T00:00:00Z,Gray Fox Europe
+355,AVpe-Xp1LJeJML43zleC,Nine West,"[Women, Shoes, Flats, Pointed Toe]",2015-11-13T12:33:03Z,'onika' Flat (women),"[10.5, 5.5, 8.5, 9.5, 4.5, 11, 12, 10, 7, 6, 5, 4, 6.5, 7.5, 9, 8]",shop.nordstrom.com,78.95,,USD,2015-11-05T00:00:00Z,
+356,AVpe-Y-MLJeJML43zl9V,Portwest,[Shoes],2015-09-10T16:17:33Z,Portwest S1p Safety Shoes Steel Toecap Buffalo Leather Energy-absorbant Heel Size 7 Ref Fw14size7,,www.amazon.co.uk,18.9,new,EUR,2015-09-07T00:00:00Z,Office Specialties Online Ltd
+357,AVpe-Y03LJeJML43zl5q,BeMIX,[Shoes],2015-08-24T20:10:13Z,Women's Shoes Round Toe Flat Heel Slippers Shoes More Colors Available,,www.amazon.co.uk,23.83,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+358,AVpe-Y7pLJeJML43zl8X,Dunlop,[Shoes],2015-09-10T16:19:33Z,Mens Dunlop Black Leather Suede Moccasin Fleecy Lined Slippers Sizes 7 To 12,,www.amazon.co.uk,23.95,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+359,AVpe-Y87ilAPnD_xSKQI,MI.IM,"[Shoes, Women's Shoes]",2016-03-19T01:07:40Z,Mi.im Jude-04 Women's Glitter Lace Up Slip On Running Shoes,[8],www.sears.com,33.99,,USD,2016-03-17T00:00:00Z,Sears.com
+360,AVpe-YBYilAPnD_xSJ5b,Saint Laurent,"[Women, Shoes, Heels, Sandals]",2016-08-23T10:12:23Z,Suede Candy Platform Sandals,"[5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11]",www.barneys.com,539.0,new,USD,2016-06-10T00:00:00Z,http://www.barneys.com/
+361,AVpe-YGU1cnluZ0-bHI_,KLM-1123,[Shoes],2015-08-24T20:06:34Z,Klm Women's Shoes Round Toe Chunky Heel Oxfords Shoes More Colors Available,,www.amazon.co.uk,57.0,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+362,AVpe-YUB1cnluZ0-bHOF,Sebastian Professional,[Shoes],2015-09-10T17:02:42Z,Sebastian Women's Francesina Lace-up Flats,,www.amazon.co.uk,475.0,new,EUR,2015-09-06T00:00:00Z,Amazon
+363,AVpe-YWbilAPnD_xSKBK,Prada,"[Sneakers, Men, Shoes]",2016-07-11T01:13:18Z,High-top Sneakers,"[10.5, 8.5, 10, 7, 9.5, 7.5, 11.5, 9, 8, 13, 11, 12]",www.barneys.com,670.0,new,USD,2016-07-10T00:00:00Z,http://www.barneys.com/
+364,AVpe-YYtilAPnD_xSKBq,Salomon,"[Shoes, Boys' Shoes, Running Shoes, Road Running Shoes, Men's Shoes, Trail Running Shoes]",2016-03-09T17:44:07Z,Salomon Unisex Kids' Xa Pro 3d K Trail Running Shoes,,www.amazon.co.uk,51.05,new,EUR,2016-03-06T00:00:00Z,Amazon.co.uk
+365,AVpe-YfpilAPnD_xSKEd,Giro,[Cycling Shoes],2014-02-20T04:46:37Z,Giro 2012 Mens Gauge Hv Wide Mountain Bike Shoes,,www.buy.com,225.0,,USD,2014-02-20T04:46:37Z,
+366,AVpe-YfvilAPnD_xSKEh,Crown Comfort,[Shoes],2015-09-10T17:39:59Z,Ladies Navy Floral Cottontouch Fastening V Throat Slipper - Wilma,,www.amazon.co.uk,18.95,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+367,AVpe-Ys5LJeJML43zl2A,adidas,[Shoes],2015-08-15T02:20:05Z,Adidas Baby Girls' First Walking Shoes,"[21, 9]",www.amazon.co.uk,28.05,new,EUR,2015-08-09T00:00:00Z,Amazon.co.uk
+368,AVpe-YsD1cnluZ0-bHW4,Tommy Bahama,"[Sandals, Shoes]",2016-05-08T01:34:20Z,Waves Surf,"[7, 9, 8, 14, 12]",www.6pm.com,17.76,New,USD,2016-05-06T00:00:00Z,6pm.com
+369,AVpe-YvL1cnluZ0-bHYT,Qianyuyu,[Shoes],2015-08-24T20:08:34Z,Yu&yu Satin Women's Wedding Stiletto Heel Heels Sandals With Rhinestone Shoes(more Colors),,www.amazon.co.uk,72.18,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+370,AVpe-Z7L1cnluZ0-bH0s,Stuart Weitzman,"[Shoes, Flats]",2016-05-06T09:40:41Z,Marlow,[7],www.6pm.com,176.74,New,USD,2016-05-05T00:00:00Z,6pm.com
+371,AVpe-ZJC1cnluZ0-bHie,Nine West,"[Shoes, Boots]",2016-05-04T21:07:19Z,Conroy,[9.5],www1.macys.com,54.99,New,USD,2015-10-21T00:00:00Z,6pm.com
+372,AVpe-ZT-1cnluZ0-bHmX,ALDO,"[Heels, Shoes]",2016-02-07T23:51:16Z,Lindsay,,www.6pm.com,49.99,New,USD,2016-02-01T00:00:00Z,6pm.com
+373,AVpe-ZX4ilAPnD_xSKan,Mizuno,[Shoes],2015-08-14T22:32:47Z,Mizuno 9 Spike Advanced Swagger Low Mens Baseball Cleats,"[15, 16, 11, 8.5, 9, 7, 12.5, 11.5, 10.5, 9.5, 7.5, 8, 13, 10, 14, 12]",www.amazon.ca,156.67,new,CAD,2015-08-10T00:00:00Z,Amazon.ca
+374,AVpe-ZhpLJeJML43zmKX,L'amour,"[Shoes, Girls' Shoes]",2016-03-19T01:42:52Z,L'amour Girls Black Flower Slip On Dress Shoes Toddler 5-little Girl 4,,www.sears.com,45.99,,USD,2016-03-17T00:00:00Z,Sears.com
+375,AVpe-Zj7ilAPnD_xSKfO,Calvin Klein,"[Shoes, Boots]",2016-05-08T02:52:45Z,Charlaine,"[5.5, 8.5, 10, 7, 6, 5, 9.5, 6.5, 7.5, 9, 8, 11]",www.6pm.com,149.0,New,USD,2016-04-10T00:00:00Z,6pm.com
+376,AVpe-ZzYilAPnD_xSKkh,Anne Michelle,[Shoes],2015-09-10T17:30:31Z,Ladies L2249 Satin Lace Trim Low Heel Court Shoe,,www.amazon.co.uk,22.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+377,AVpe-_BALJeJML43zzTt,Clarks,[Shoes],2015-09-10T17:31:31Z,Clarks Womens Seasonal Clar Whiskey Soda Textile Slippers In Navy,,www.amazon.co.uk,20.0,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+378,AVpe-_ClLJeJML43zzUK,Naturalizer,[Shoes],2015-09-10T16:40:08Z,Naturalizer Women's Commerce Flat,,www.amazon.co.uk,49.99,new,EUR,2015-09-06T00:00:00Z,Alna Vi Shoes
+379,AVpe-_EnLJeJML43zzU3,Converse,"[Shoes, Men, Fashion Sneakers]",2015-08-22T07:29:07Z,Converse Chuck Taylor All Star Hi Unisex Shoes Black Monochrome M3310,,www.amazon.com,42.75,,USD,2015-04-16T17:06:10.067Z,
+380,AVpe-_RGLJeJML43zzYw,Man Friday,"[Team Sports, Throwing Equipment, Shots, Shoes, Women, Boots]",2015-11-16T02:53:16Z,Man Friday Women's Insulated Winter Fur Ankle Boots,,www.amazon.ca,122.6,new,CAD,2015-11-14T00:00:00Z,Manfridayus
+381,AVpe-_RXilAPnD_xSXum,adidas,[Shoes],2015-08-22T00:42:55Z,Adidas Adizero Women's Handballschuhe Counterbl Orange / Wei�� / Grau Size:4.5 Uk - 37.1/3 Eu,,www.amazon.co.uk,59.56,new,EUR,2015-08-20T00:00:00Z,Sportposition
+382,AVpe-_eF1cnluZ0-bVBU,adidas,"[Boys' Shoes, Shoes]",2016-03-30T05:14:13Z,"Adidas Adisnow Boots Children Cf, Cp, Ch Black Size 33 2015",,www.amazon.co.uk,46.97,new,EUR,2016-02-05T00:00:00Z,BIKESTER
+383,AVpe-_fOilAPnD_xSXzr,Paramount,[Shoes],2015-09-10T17:42:54Z,Concealed Platform Stiletto Heel Court Party Shoes,,www.amazon.co.uk,16.99,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+384,AVpe-_gdilAPnD_xSX0Q,Robeez,"[Shoes, Slippers, sandals]",2016-02-11T01:28:56Z,Rugged Rob (infant/toddler),,www.6pm.com,17.99,New,USD,2016-02-01T00:00:00Z,6pm.com
+385,AVpe-_gx1cnluZ0-bVCi,Qianyuyu,[Shoes],2015-08-24T20:09:38Z,Yu&yu Women's Shoes Bluefish Comfort Flat Heel Canvas Fashion Sneakers With Pure Pattem Shoes,,www.amazon.co.uk,88.0,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+386,AVpe-_m81cnluZ0-bVEk,UGG Australia,[shoes women extended sizes],2015-06-02T07:46:48Z,Ugg Australia Classic Short Rosette Boots,,www.dillards.com,155.0,,USD,2015-06-01T06:58:25.478Z,Dillards.com
+387,AVpe-_my1cnluZ0-bVEf,Northwest Territory,"[Shoes, Women's Shoes]",2016-03-30T08:43:42Z,Northwest Territory Ladies Beige / Purple Montana Hiking Trainers Waterproof Walking Shoes (uk 6),,www.amazon.co.uk,36.95,new,EUR,2016-03-29T00:00:00Z,CLB Retail Shopping
+388,AVpe-_nB1cnluZ0-bVEq,Manolo Blahnik,"[Women, Shoes, Evening]",2016-04-09T08:38:34Z,Suede Bb Pumps,"[10.5, 5.5, 8.5, 10, 7, 6, 5, 9.5, 6.5, 7.5, 9, 8, 11, 12]",www.barneys.com,595.0,new,USD,2016-03-17T00:00:00Z,http://www.barneys.com/
+389,AVpe-_udLJeJML43zzkM,Converse,[Shoes],2016-05-06T09:30:50Z,Weapon Skate Ox,"[10.5, 10, 9.5, 11.5, 9, 13, 11, 12]",www.6pm.com,34.99,New,USD,2016-04-05T00:00:00Z,6pm.com
+390,AVpe-_xhilAPnD_xSX6C,Sleepers,[Shoes],2015-09-10T17:31:10Z,Sleepers Womens/ladies Theresa Embroidered Mule Slippers,,www.amazon.co.uk,11.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+391,AVpe-a0h1cnluZ0-bIHL,Nike Kids,[Shoes],2016-05-04T20:05:06Z,Free 5.0 (big Kid),,www.6pm.com,46.99,New,USD,2015-10-21T00:00:00Z,6pm.com
+392,AVpe-a3u1cnluZ0-bIIL,South Eastern Horticultural,[Shoes],2015-09-10T16:44:38Z,Briers Ladies Ankle Boots Stardust Size 4 Garden Shoes / Outdoor Boots,,www.amazon.co.uk,13.99,new,EUR,2015-09-06T00:00:00Z,South Eastern Horticultural
+393,AVpe-aAVLJeJML43zmVf,Spot On,[Shoes],2015-09-10T17:38:39Z,Spot On Ballerina Slippers With Bow Detail,,www.amazon.co.uk,9.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+394,AVpe-aBuLJeJML43zmVv,Dance Shoes,"[Shoes, Women, Athletic]",2016-08-27T18:42:28Z,Latin Shoes Soft Bottom/tango Shoes/just Shoes/friendship Dance Shoes/exercise Shoes,,www.amazon.ca,91.0,new,CAD,2016-08-26T00:00:00Z,Amazon.ca
+395,AVpe-aLZLJeJML43zmZm,Vionic with Orthaheel Technology,[Walking Shoes],2015-08-14T18:17:27Z,Rhythm,"[6.5M, 7.5M, 7M, 8.5M, 6M, 11M, 10M, 9M, 8M, 9.5M, 5M, 12M]",www.shoes.com,119.95,New,USD,2015-07-18T05:00:00Z,Shoes.com
+396,AVpe-aMtilAPnD_xSKtH,BeMIX,[Shoes],2015-08-24T20:11:31Z,Bemix Women's Shoes Stiletto Heel Heels/peep Toe/platform Sandals Office & Career/dress Black/green/red/beige,,www.amazon.co.uk,55.26,new,EUR,2015-08-23T00:00:00Z,Amazon.co.uk
+397,AVpe-aUC1cnluZ0-bH9D,KLM-1123,[Shoes],2015-08-24T20:08:23Z,Klm Women's Shoes Round Toe Low Heel Oxfords Shoes More Colors Available,,www.amazon.co.uk,57.0,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+398,AVpe-aYPLJeJML43zmek,Converse,[Men's Shoes],2015-07-15T11:42:37Z,Chuck Taylor Axel Mid Leather Sneaker,"[6M, 6.5M, 7M]",www.shoes.com,47.97,New,USD,2015-07-15T05:00:00Z,Shoes.com
+399,AVpe-ao6ilAPnD_xSK3t,Bheema,"[Shoes, Men's Shoes, Cycling Shoes]",2016-03-30T05:50:02Z,Bheema Double Water Bottle Cage Extend Frame Holder For Bike Bicycle Mtb,,www.amazon.co.uk,14.59,new,EUR,2016-03-28T00:00:00Z,Amazon.co.uk
+400,AVpe-b2X1cnluZ0-bIeo,Munich,"[Futsal Shoes, Boys' Shoes, Shoes, Indoor Court Shoes]",2016-04-02T05:29:18Z,Munich - G 3 Kid - 151535 - Footwear - Boy,,www.amazon.co.uk,53.95,new,EUR,2016-03-31T00:00:00Z,Amazon
+401,AVpe-bWBilAPnD_xSLEb,Tsubo,[men shoes],2015-04-28T13:55:09Z,Tsubo Men's Beale Moc-toe Boots,,www.dillards.com,99.99,,USD,2015-04-26T22:16:49.427Z,Dillards.com
+402,AVpe-bXnLJeJML43zmx1,inov-8,[Shoes],2016-02-09T23:59:17Z,Road-xtreme��� 188,,www.6pm.com,61.45,New,USD,2016-01-11T00:00:00Z,6pm.com
+403,AVpe-bbV1cnluZ0-bIUM,StarlightKhussaShoes,[Shoes],2015-09-10T16:53:59Z,Womens Blue Velvet Casual Leather Indian Khussa Shoes Pumps,,www.amazon.co.uk,13.99,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+404,AVpe-bk-1cnluZ0-bIXy,Nike,[shoes children],2015-06-02T06:46:34Z,Nike Girls' Fusion Run 3 Tdv Running Shoes,,www.dillards.com,34.99,,USD,2015-06-01T06:11:31.766Z,Dillards.com
+405,AVpe-blXLJeJML43zm3G,Nike,"[Shoes, Sneakers]",2016-03-03T16:54:20Z,Nike Women's Kaishi Casual Sneakers From Finish Line,,www1.macys.com,49.98,,USD,2016-03-03T00:00:00Z,
+406,AVpe-bui1cnluZ0-bIba,Iron Fist,[Shoes],2015-09-10T17:43:06Z,Iron Fist Women's Manslayer Synthetic Peep Toes,,www.amazon.co.uk,64.84,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+407,AVpe-bxILJeJML43zm7f,Wear & Walk UK,[Shoes],2015-09-10T17:07:51Z,W&w Women Ladies Casual Flat Sandal Indian Handmade Embroidered Kolapuri Uk Size(zora),,www.amazon.co.uk,18.99,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+408,AVpe-c3E1cnluZ0-bI1u,Prada,"[Sneakers, shoes]",2015-07-22T18:13:33Z,Metallic Wing-tip Platform Loafer,,www.bergdorfgoodman.com,950.0,new,USD,2015-07-10T05:00:00Z,bergdorfgoodman.com
+409,AVpe-cAm1cnluZ0-bIiC,Rag & Bone,[Shoes],2015-07-22T18:09:17Z,Shaw Leather Wedge Mule,,www.bergdorfgoodman.com,222.0,new,USD,2015-07-18T05:00:00Z,bergdorfgoodman.com
+410,AVpe-cZ-1cnluZ0-bIqz,dickies,"[Dickies, Shoes]",2016-03-26T11:15:19Z,Slip-on Athletic Work Shoes - Men,"[10.5 MED, 11 MED, 9 MED, 7 MED, 9.5 MED, 10 MED, 8.5 MED]",www.kohls.com,54.99,New,USD,2015-09-14T00:00:00Z,Kohls.com
+411,AVpe-cn1LJeJML43znO4,Arctic Cat,"[shoes, women's shoes]",2015-12-17T15:23:49Z,Arctic Cat Women's Winter Boots - Black,"[10, 7, 6, 9, 8, 11]",tws.target.com,48.0,,USD,2015-11-08T00:00:00Z,
+412,AVpe-cxY1cnluZ0-bIzo,AKU,"[Shoes, Women's Shoes]",2016-03-30T03:32:54Z,Aku Ultra Light Micro Gtx W 's Trekking & Hiking Shoes Women,"[40, 39]",www.amazon.co.uk,130.36,new,EUR,2016-03-28T00:00:00Z,LATINI SPORT
+413,AVpe-d0c1cnluZ0-bJMG,Diamant,[Shoes],2015-08-24T20:34:16Z,Diamant Dance Shoes 001-103-040 5,,www.amazon.co.uk,57.64,new,EUR,2015-08-22T00:00:00Z,Shoes4Dancers
+414,AVpe-d70LJeJML43zntW,Intaglia Designs,"[Women's Casual Shoes, Shoes, Women's Boots, Women's Shoes]",2016-03-19T01:08:10Z,Intaglia Designs Women's Nashville Black Extended-calf Knee-high Fashion Riding Boot - Wide Width Available,"[10, 8.5, 7, 9.5, 7.5, 9, 8, 11]",www.sears.com,40.0,,USD,2016-03-17T00:00:00Z,Sears.com
+415,AVpe-dBQLJeJML43znYB,Beach Essentials,[Shoes],2015-09-10T16:52:22Z,Beach Essentials Ladies Blue Plain Clog Sandal,,www.amazon.co.uk,8.0,new,EUR,2015-09-06T00:00:00Z,Brantano Footwear
+416,AVpe-dC6ilAPnD_xSLrz,Puma,"[Shoes, Men's Shoes, Indoor Court Shoes, Women's Shoes]",2016-04-02T06:43:38Z,Puma Puma Speed Star Fade Sports Shoes - Indoors Unisex-adult,,www.amazon.co.uk,39.95,new,EUR,2016-04-01T00:00:00Z,Amazon.co.uk
+417,AVpe-dRe1cnluZ0-bI_O,Pierre Balmain,"[Sandals, Shoes]",2016-05-08T01:46:12Z,Cono Sandal,"[38.5, 37.5, 40, 36, 39, 37, 38]",www.6pm.com,139.0,New,USD,2016-05-06T00:00:00Z,6pm.com
+418,AVpe-dVQilAPnD_xSLyq,Prada,[shoes],2015-05-19T18:57:35Z,Suede Square-toe Pumps,[35 5],www.saksfifthavenue.com,620.0,New,USD,2015-05-15T18:11:55.289Z,saksfifthavenue.com
+419,AVpe-dfPilAPnD_xSL25,UGG,"[Shoes, Boots]",2016-05-06T09:35:51Z,Maaverik,"[5.5, 8.5, 10, 7, 6, 5, 9.5, 6.5, 7.5, 9, 8, 11, 12]",www.6pm.com,129.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+420,AVpe-dlyLJeJML43znlz,Just Cavalli,[Shoes],2015-09-10T16:16:34Z,Just Cavalli Black Leather Snake Skin Print Fashion Sneakers Shoes,,www.amazon.co.uk,89.99,new,EUR,2015-09-07T00:00:00Z,VIPCOUTURE
+421,AVpe-dnLLJeJML43znmk,Roxy,"[Sandals, Shoes]",2016-02-09T23:59:37Z,Lanai,"[7, 8]",www.6pm.com,17.27,New,USD,2016-01-12T00:00:00Z,6pm.com
+422,AVpe-drJLJeJML43znno,Pikolinos,[shoes],2015-04-16T16:02:21Z,Pikolinos Mens Pamplona 03q-6467 Boot,,www.amazon.com,99.99,,USD,2015-04-02T10:30:21.460Z,
+423,AVpe-dvY1cnluZ0-bJKG,Pelle Moda,[shoes],2015-05-21T12:15:31Z,Pelle Moda Jett Dress Sandals,,www.dillards.com,195.0,,USD,2015-05-19T18:19:12.847Z,Dillards.com
+424,AVpe-e4j1cnluZ0-bJk_,Merrell,[shoes],2015-01-10T19:34:11Z,Merrell Men's Running Shoes,,www.amazon.in,3039.6,,INR,2015-01-06T02:25:40.422Z,
+425,AVpe-eBP1cnluZ0-bJQs,B.O.C.,[Girls' Shoes],2015-08-14T18:11:23Z,Kinley Sandal Toddler/preschool,"[1M, 11M, 10M, 9M, 12M]",www.shoes.com,34.95,New,USD,2015-07-18T05:00:00Z,Shoes.com
+426,AVpe-eQMLJeJML43zn00,Mizuno,"[Court Shoes, Shoes, Indoor Court Shoes, Women's Shoes]",2016-04-02T06:10:22Z,Mizuno Wave Rally 5 Women's Indoor Court Shoes - Aw15,,www.amazon.co.uk,61.22,new,EUR,2016-03-31T00:00:00Z,Amazon.co.uk
+427,AVpe-eRq1cnluZ0-bJXD,John Lobb,"[Men, Shoes, Boots]",2016-07-31T22:41:24Z,Ankle-wrap Jodhpur Boots,"[8, 9, 10, 11, 12, 8.5, 9.5, 10.5, 11.5]",www.barneys.com,1795.0,new,USD,2016-05-20T23:09:58Z,http://www.barneys.com/
+428,AVpe-eZcilAPnD_xSML-,Lora Dora,[Shoes],2015-09-10T17:16:15Z,Girls Kids Flat Fur Lined Army Ankle Combat Military Faux Fur Lined Worker Snowboots Faux Suede Leather Lace Up Childrens Size Uk 10-2.5,,www.amazon.co.uk,11.99,new,EUR,2015-09-05T00:00:00Z,Lora Dora
+429,AVpe-edHLJeJML43zn5H,JNTworld,"[Shoes, Cycling, Accessories, Bike Backpacks]",2016-04-04T03:38:55Z,Jntworld Unisex Mens Womens Kids Shoulder Bag Sling Messenger Bag Backpack Rucksack For Hiking Travelling,,www.amazon.co.uk,18.99,new,EUR,2016-04-02T00:00:00Z,jntworld
+430,AVpe-efp1cnluZ0-bJbc,Inch Blue,[Shoes],2015-08-15T02:17:55Z,Inch Blue Navy Hippo 0-6m,,www.amazon.co.uk,11.95,new,EUR,2015-08-09T00:00:00Z,AdventureBaby
+431,AVpe-esg1cnluZ0-bJga,adidas,"[Shoes, Men's Shoes, Indoor Court Shoes]",2016-04-02T07:38:47Z,Adidas Snice Cf I - orange/blue/byello,,www.amazon.co.uk,21.72,new,EUR,2016-04-01T00:00:00Z,worldofsport
+432,AVpe-esuLJeJML43zn-z,Fly Flot,[Shoes],2015-09-10T17:43:49Z,Fly Flot Womens Slippers,,www.amazon.co.uk,19.55,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+433,AVpe-evuLJeJML43zn_u,Fashionback,"[Women, Snowshoeing, Shoes, Boots]",2016-02-02T23:22:26Z,Fashionback Women's Autumn Leather Fashion Boots 7 Sizes 7 Sizes,,www.amazon.ca,251.98,new,CAD,2016-01-29T00:00:00Z,Amazon.ca
+434,AVpe-f4ZilAPnD_xSMuv,Chloe,[shoes],2015-05-19T19:43:46Z,Pat Studded Leather Loafers,[35 5],www.saksfifthavenue.com,1150.0,New,USD,2015-05-16T17:55:49.026Z,saksfifthavenue.com
+435,AVpe-fGEilAPnD_xSMby,Bobux,"[Baby, Baby Shoes]",2016-02-14T12:28:25Z,Bobux Baby Soft Sole Shoes In Pretty Paris Navy Size Large (15 To 21months),,www.ebay.com.au,44.95,New in box,AUD,2016-02-10T00:00:00Z,
+436,AVpe-fOEilAPnD_xSMfD,Makino,"[Sports, Women, Shoes, Outdoor, Hiking Shoes]",2016-07-28T07:15:27Z,Makino Women's Outdoor Sport Hiking Shoe,,www.amazon.com,65.0,,USD,2016-01-12T00:00:00Z,
+437,AVpe-fRDLJeJML43zoMT,SKECHERS KIDS,[Shoes],2016-05-03T16:58:15Z,Chit Chat 10533l Lights (little Kid/big Kid),,www.6pm.com,29.99,New,USD,2016-03-22T00:00:00Z,6pm.com
+438,AVpe-fVu1cnluZ0-bJvi,Lady shoes,[Shoes],2015-08-24T20:34:09Z,Klm Latin Customizable Women's Sandals Leather Dance Shoes,,www.amazon.co.uk,56.0,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+439,AVpe-fYX1cnluZ0-bJwi,Teva,[Shoes],2016-06-21T14:34:10Z,Freewheel Washed Canvas,"[8.5, 10, 5.5, 6, 5, 6.5, 7.5, 8, 11, 12]",www.zappos.com,70.0,new,USD,2016-06-20T00:00:00Z,
+440,AVpe-ffiLJeJML43zoR0,Nine West,"[Loafers, Shoes]",2016-05-06T23:48:08Z,Lobster,"[10.5, 10, 8.5, 5.5, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8, 11]",www.6pm.com,47.74,New,USD,2016-04-10T00:00:00Z,6pm.com
+441,AVpe-fgwilAPnD_xSMmI,Hi-Tec,"[Sports, Shoes, Men's Shoes, Trainers]",2016-03-09T18:02:33Z,Hi-tec Alto Waterproof Mens Sports Trainers Outdoor Walking Shoe Footwear Boot,"[12, 10, 7]",www.amazon.co.uk,61.95,new,EUR,2016-03-07T00:00:00Z,Amazon.co.uk
+442,AVpe-fhxilAPnD_xSMmT,Gianvito Rossi,"[Heels, Women, Sandals, Shoes]",2016-01-25T18:09:35Z,Strappy Lace-up Sandals,"[10.5, 5.5, 8.5, 9.5, 11, 12, 10, 7, 6, 5, 6.5, 7.5, 9, 11.5, 8]",www.barneys.com,995.0,new,USD,2016-01-12T00:00:00Z,http://www.barneys.com/
+443,AVpe-fkz1cnluZ0-bJ1G,Trend,[Shoes],2015-08-15T02:52:19Z,Parental Advisory Unisex Sweatshirt (medium),,www.amazon.co.uk,9.99,new,EUR,2015-08-08T00:00:00Z,SEE_BUY_WEAR
+444,AVpe-fnE1cnluZ0-bJ1_,Dunlop,[Shoes],2015-09-10T16:13:28Z,"Men's Ladies Waterproof Footwear Dunlop Bedget Wellingtons Snow Boot Wellies Rubber Shoe Boots (uk Size 6, Green)",,www.amazon.co.uk,12.99,new,EUR,2015-09-08T00:00:00Z,My Shoe Store
+445,AVpe-fnF1cnluZ0-bJ2A,Report,"[Oxfords, Shoes]",2016-05-08T02:05:54Z,Eliyot,"[10.5, 8.5, 10, 9.5, 9, 8, 13, 11, 12]",www.6pm.com,24.99,New,USD,2016-04-29T00:00:00Z,6pm.com
+446,AVpe-fxfLJeJML43zoXd,Gibra,[Shoes],2015-09-10T17:40:35Z,Gibra Slippers With White Soles,,www.amazon.co.uk,17.59,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+447,AVpe-g51ilAPnD_xSNGt,K-Swiss Kids,[Shoes],2016-06-21T14:17:29Z,Classic Vn (infant/toddler),,www.zappos.com,35.0,new,USD,2016-06-19T00:00:00Z,
+448,AVpe-g6xilAPnD_xSNG1,Lady shoes,[Shoes],2015-08-24T20:12:21Z,Klm Women's Shoes Round Toe Chunky Heel Flocking Ankle Boots With Zipper More Colors Available,,www.amazon.co.uk,49.0,new,EUR,2015-08-23T00:00:00Z,QiYue Shop
+449,AVpe-gAHLJeJML43zoc4,Intrepid International,"[Horse Care Equipment, Equestrian Sports, Women, Shoes, Boots]",2016-05-05T16:24:22Z,Ankle Boot W/fleece,"[Small, Large]",www.amazon.ca,48.45,new,CAD,2016-01-31T00:00:00Z,UrbanInspirations
+450,AVpe-gEALJeJML43zoeF,Call it SPRING,"[Sandals, Shoes]",2016-05-06T23:52:16Z,Bellana,,www.6pm.com,21.59,New,USD,2016-05-06T00:00:00Z,6pm.com
+451,AVpe-gLJilAPnD_xSM11,Boxfresh,[Shoes],2015-09-10T16:22:36Z,Boxfresh Bxfl Lo Trainers Brown,,www.amazon.co.uk,39.99,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+452,AVpe-gPA1cnluZ0-bKDa,Snoboot,[Shoes],2015-09-10T17:18:37Z,"Snoboot Tattoo High, Women's Snow Boots",,www.amazon.co.uk,52.65,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+453,AVpe-gQk1cnluZ0-bKD2,HeelzSoHigh,[Shoes],2015-09-10T17:17:11Z,Ladies Black Ex-designer Lace-up Brogue Heeled Boots Work Shoes Pumps Size 3-8,,www.amazon.co.uk,9.99,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+454,AVpe-gVJilAPnD_xSM5R,adidas,"[Shoes, Boys' Shoes, Indoor Court Shoes]",2016-01-17T11:05:40Z,Adidas - Snice 4 Shoes - Eqt Pink S16 - 6k,,www.amazon.co.uk,22.74,new,EUR,2016-01-13T00:00:00Z,Mosfashion
+455,AVpe-gVgLJeJML43zokZ,Vaneli,"[Sandals, Shoes]",2016-05-06T23:43:39Z,Melea,"[8.5, 7, 6, 9.5, 6.5, 7.5, 9]",www.6pm.com,44.99,New,USD,2016-05-06T00:00:00Z,6pm.com
+456,AVpe-gYrilAPnD_xSM6S,Sigerson Morrison,"[Shoes, Sandals]",2015-10-08T18:09:43Z,Hadiya,[8.5],www.6pm.com,160.99,New,USD,2015-10-07T00:00:00Z,6pm.com
+457,AVpe-g_m1cnluZ0-bKVH,Clarks,[Shoes],2015-09-10T17:01:56Z,Clarks Womens Smart Clarks Compass Point Suede Shoes In Black,,www.amazon.co.uk,34.99,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+458,AVpe-gxl1cnluZ0-bKQA,Jessica Simpson,"[Heels, Shoes]",2016-05-18T08:59:39Z,Jasmint,"[10, 8.5, 9.5, 9]",www1.macys.com,31.99,New,USD,2015-10-21T00:00:00Z,6pm.com
+459,AVpe-h-oLJeJML43zpJD,Dolcis,[Shoes],2015-09-10T17:02:58Z,New Ladies Dolcis Flat Brogues Lace Up Pumps Shoes Flats,,www.amazon.co.uk,25.0,new,EUR,2015-09-06T00:00:00Z,Footwear Sensation
+460,AVpe-h1N1cnluZ0-bKnU,Rachel Kids,"[Shoes, Boots]",2016-07-29T22:30:04Z,Khloe (toddler/little Kid),,www.6pm.com,22.99,New,USD,2016-02-05T00:00:00Z,6pm.com
+461,AVpe-hAn1cnluZ0-bKVt,Naturalizer,"[Sandals, Shoes]",2016-05-06T23:34:19Z,Wyonna,"[10.5, 5.5, 8.5, 9.5, 11, 10, 7, 6, 6.5, 7.5, 9, 8]",www.6pm.com,24.15,New,USD,2016-05-05T00:00:00Z,6pm.com
+462,AVpe-hLALJeJML43zo3c,ARMANI JEANS,[Shoes],2015-08-24T19:42:39Z,Armani Jeans Suede Runner Trainers Blue,,www.amazon.co.uk,101.9,new,EUR,2015-08-23T00:00:00Z,experya
+463,AVpe-hSm1cnluZ0-bKb2,Toe Guard,[Shoes],2015-09-10T16:25:48Z,Safety Hiker Work Boot Breathable Steel Toe Cap and Midsole Comfort Fit,,www.amazon.co.uk,20.0,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+464,AVpe-hazilAPnD_xSNSn,Roper Kids,"[Shoes, Boots]",2016-07-29T22:30:04Z,Daisy Glitter Chunk (toddler/little Kid),,www.zappos.com,39.99,New,USD,2016-05-22T00:00:00Z,6pm.com
+465,AVpe-hcULJeJML43zo91,Diamant,"[Shoes, Women's Shoes, Dance Shoes]",2016-03-09T18:27:39Z,Diamant Women's Diamant Damen Latein Tanzschuhe 035-077-040 Ballroom Dance Shoes,[33 1/3],www.amazon.co.uk,67.79,new,EUR,2016-03-06T00:00:00Z,Amazon.co.uk
+466,AVpe-hpAilAPnD_xSNXN,Teva,"[Women, Shoes, Shoes Under 100, Sandals]",2015-10-30T22:01:44Z,X Honestlywtf 'universal' Flatform Sandal (women),"[5, 6, 7, 8, 9, 10, 11]",shop.nordstrom.com,99.95,,USD,2015-10-29T00:00:00Z,
+467,AVpe-i0AilAPnD_xSNu3,Roxy,"[Shoes, Boots]",2016-02-11T01:24:17Z,Concord,"[8.5, 10, 7, 6, 6.5, 7.5, 9, 8]",www.6pm.com,25.99,New,USD,2016-02-06T00:00:00Z,6pm.com
+468,AVpe-i0c1cnluZ0-bK7v,Frye,[shoes],2015-04-03T12:10:40Z,'gavin' Slip-on Sneaker (women),[6],shop.nordstrom.com,167.95,,USD,2015-04-03T15:44:28.846Z,
+469,AVpe-i24ilAPnD_xSNwb,Qianyuyu,[Shoes],2015-08-24T20:10:26Z,Yu&yu Women's Shoes Closed Toe Flat Heel Loafers Shoes More Colors Available,,www.amazon.co.uk,82.47,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+470,AVpe-i66LJeJML43zpcp,Gucinari,[Shoes],2015-09-10T16:29:35Z,Gucinari Parma Mens Leather Brogue Shoes Black,,www.amazon.co.uk,64.99,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+471,AVpe-i7SLJeJML43zpc6,Frye,"[Shoes, Boots]",2016-01-13T17:11:41Z,Jackie Tall Riding,[5.5],www.6pm.com,263.89,New,USD,2016-01-12T00:00:00Z,6pm.com
+472,AVpe-i7lLJeJML43zpdG,Barneys New York,"[Women, Shoes, Flats, Ballet Flats]",2016-08-12T09:39:25Z,Rita Flats,"[5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11]",www.barneys.com,89.0,new,USD,2016-01-13T00:00:00Z,http://www.barneys.com/
+473,AVpe-iRT1cnluZ0-bKwv,Matisse,"[Shoes, Boots]",2016-05-06T09:48:52Z,Kate Bosworth I Matisse,"[8.5, 7, 6, 6.5, 7.5, 9, 8]",www.6pm.com,274.99,New,USD,2016-05-05T00:00:00Z,6pm.com
+474,AVpe-iRV1cnluZ0-bKwx,BeMIX,[Shoes],2015-08-24T20:08:54Z,Bemix Women's Shoes Chunky Heel Peep Toe Sandals Dress Shoes More Colors Available,,www.amazon.co.uk,69.08,new,EUR,2015-08-22T00:00:00Z,Amazon.co.uk
+475,AVpe-i_gilAPnD_xSNzZ,Rialto,"[Sandals, Shoes]",2016-07-29T21:25:40Z,Candid,"[8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",www.6pm.com,19.99,New,USD,2016-05-22T00:00:00Z,6pm.com
+476,AVpe-i_nilAPnD_xSNze,Kenneth Cole Reaction,[Boys' Shoes],2015-08-14T18:09:40Z,Take Fair,[6M],www.shoes.com,49.95,New,USD,2015-08-14T00:00:00Z,Shoes.com
+477,AVpe-i_yLJeJML43zpe1,Gianvito Rossi,"[Women, Shoes, Heels, Sandals]",2016-08-23T10:11:27Z,Crochet Ankle-tie Sandals,"[5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12]",www.barneys.com,679.0,new,USD,2016-06-09T00:00:00Z,http://www.barneys.com/
+478,AVpe-ifd1cnluZ0-bK03,Naot Footwear,"[Sandals, Shoes]",2016-07-29T22:30:01Z,Fancy,,www.6pm.com,84.99,New,USD,2016-05-22T00:00:00Z,6pm.com
+479,AVpe-ijnilAPnD_xSNpQ,O\'Neill,"[Shoes, Slippers]",2016-07-29T22:04:33Z,Surf Turkey Low Suede,,www.6pm.com,33.61,New,USD,2016-05-20T00:00:00Z,6pm.com
+480,AVpe-ioyilAPnD_xSNq0,Unbranded,"[Baby, Baby Shoes]",2016-02-14T12:30:35Z,New Girls Boys Soft Sole Animal Pattern Toddler Infant Prewalker Shoes 6-12m,,www.ebay.com.au,13.86,New in box,AUD,2016-02-10T00:00:00Z,
+481,AVpe-ivXilAPnD_xSNtH,ByPublicDemand,[Shoes],2015-09-10T17:05:29Z,H4f Womens Ladies Toe-post Strappy Buckle Flower Flat Summer Sandals Shoes Size,,www.amazon.co.uk,5.49,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+482,AVpe-j341cnluZ0-bLUa,Ermenegildo Zegna,"[All Men's Shoes, Men]",2016-03-30T18:10:42Z,'newport' Boat Shoe (men),,shop.nordstrom.com,540.0,,USD,2016-03-30T00:00:00Z,
+483,AVpe-jB2LJeJML43zpfJ,Michael Antonioreg,"[Women's Casual Shoes, Women's Sandals, Shoes, Women's Shoes]",2016-03-19T01:06:20Z,Michael Antonioreg Women's Debbie Gold Gladiator Sandal,"[10, 8.5, 5.5, 7, 6, 6.5, 7.5, 9, 8]",www.sears.com,35.0,,USD,2016-03-17T00:00:00Z,Sears.com
+484,AVpe-jDbilAPnD_xSN0s,Vans,"[Women, Shoes Under $100, Sneakers]",2016-03-30T15:08:14Z,'dazie-hi' Sneaker (women),,shop.nordstrom.com,69.95,,USD,2016-03-30T00:00:00Z,
+485,AVpe-jDr1cnluZ0-bLBF,Slazenger,"[Sandals, Shoes, Women's Shoes]",2016-02-06T19:43:46Z,Slazenger Womens Wave Sandal Ladies Walking Shoes Fashion Footwear Brand New,,www.amazon.co.uk,5.99,new,EUR,2016-02-06T00:00:00Z,Amazon.co.uk
+486,AVpe-jEC1cnluZ0-bLBS,Scarpa,[Shoes],2015-08-21T22:40:21Z,Scarpa Reflex Rock Shoe (43),,www.amazon.co.uk,125.06,new,EUR,2015-08-21T00:00:00Z,Vanilla Bean Kings UK
+487,AVpe-jJX1cnluZ0-bLC6,Annie,"[Shoes, Flats]",2016-02-11T01:23:57Z,Elga,"[8.5, 7, 7.5, 9, 8]",www.6pm.com,16.49,New,USD,2016-01-11T00:00:00Z,6pm.com
+488,AVpe-jL4ilAPnD_xSN3W,Not Rated,[shoes],2015-03-28T12:44:30Z,Naughty Monkey Jolt Knee-high Boots,,www.bergners.com,29.6,,USD,2015-03-27T18:47:46.349Z,
+489,AVpe-jSKilAPnD_xSN5y,Skechers,[Shoes],2015-08-14T22:32:55Z,Skechers Women's Go Vulc Ventura Fashion Sneaker,,www.amazon.ca,45.49,new,CAD,2015-08-10T00:00:00Z,Amazon.ca
+490,AVpe-jYDLJeJML43zpnd,Belle by Sigerson Morrison,"[Sandals, Shoes]",2016-05-06T09:28:40Z,Almas,"[10, 9.5, 9]",www.6pm.com,136.5,New,USD,2016-05-05T00:00:00Z,6pm.com
+491,AVpe-jl-LJeJML43zpsD,POP,[Shoes],2015-09-10T17:16:14Z,Womens Winter Fur Lined Quilted Low Flat Heel Snow Calf Boots Size 3-8,,www.amazon.co.uk,14.95,new,EUR,2015-09-05T00:00:00Z,Amazon.co.uk
+492,AVpe-k1M1cnluZ0-bLpa,Man Friday,"[Team Sports, Throwing Equipment, Shots, Shoes, Men, Boots]",2015-11-16T02:52:29Z,Man Friday Bgobbworld Qiu Dong Thickening Coral Fleece Baby Cotton Shoes Soft Bottom Boot,,www.amazon.ca,91.94,new,CAD,2015-11-14T00:00:00Z,Manfridayus
+493,AVpe-kDsLJeJML43zp3G,Sperry Top-Sider,[Shoes],2015-09-20T23:45:40Z,Bahama Washable,[8.5],www.6pm.com,44.99,New,USD,2015-09-19T00:00:00Z,6pm.com
+494,AVpe-kPailAPnD_xSOPJ,Mezlan,"[Oxfords, Shoes]",2016-04-01T15:36:16Z,Lombardo,"[10, 8.5, 9.5, 9, 8, 11, 12]",www.6pm.com,138.25,New,USD,2016-03-31T00:00:00Z,6pm.com
+495,AVpe-kXJLJeJML43zp9x,Shoes,[Shoes],2015-09-10T16:40:06Z,Oasap Women's Lovely Bear Closed Toe Woman Terry Slippers,"[Large, Small, Medium]",www.amazon.co.uk,4.99,new,EUR,2015-09-06T00:00:00Z,Amazon.co.uk
+496,AVpe-kiyilAPnD_xSOVh,LianSan,[Shoes],2015-08-17T19:34:39Z,Liansan Brand Polarized Rhinestone Oversized Sunglasses For Women Designer Elegant Sunglasses 1434 1425,,www.amazon.co.uk,11.99,new,EUR,2015-08-16T00:00:00Z,LianSan Glasses Store
+497,AVpe-kkjLJeJML43zqCa,Kalso Earth,"[Women, Shoes, Comfort, Flats]",2015-10-01T18:31:54Z,'solar Too' Mary Jane,"[5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11, 12]",shop.nordstrom.com,144.95,,USD,2015-09-19T00:00:00Z,
+498,AVpe-kmmLJeJML43zqC7,LEXUS,[Shoes],2015-09-10T17:11:04Z,Ladies Closed Toe Shoe With Diamante Trim,,www.amazon.co.uk,9.99,new,EUR,2015-09-07T00:00:00Z,Amazon.co.uk
+499,AVpe-ksxLJeJML43zqFD,Boulevard,[Shoes],2015-09-10T17:07:38Z,Boulevard Womens/ladies Toe Post Super Comfort Padded Sandals,,www.amazon.co.uk,16.37,new,EUR,2015-09-06T00:00:00Z,Universal Textiles & Footwear

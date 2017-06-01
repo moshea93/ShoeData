@@ -1,0 +1,501 @@
+,index,brand,categories,id,name,price,currency,dateSeen,sizes,gender
+0,10,franco sarto,"[Loafers, Shoes]",AVpe-0AXilAPnD_xSTqz,Joella,44.99,USD,2015-10-28T00:00:00Z,"[7, 6, 6.5, 7.5, 8]",IDK
+1,10000,khombu,"[Shoes, Boots]",AVpfHbI51cnluZ0-ePxP,Nora,59.99,USD,2016-05-05T00:00:00Z,"[10, 7, 6, 9, 8, 11]",IDK
+2,100000,lifestride,"[Sci-Fi, Shoes, Drama, Adventure, Boots, Action, Crime, Mystery]",AVpe43KL1cnluZ0-ZFhS,Xylans,49.99,USD,2015-10-22T00:00:00Z,"[5.5, 8.5, 9.5, 11, 10, 7, 6, 5, 6.5, 7.5, 9, 8]",IDK
+3,100004,nina,[Girls' Shoes],AVpe43qZ1cnluZ0-ZFuh,Pippa Sandal Pre/grade School,29.95,USD,2015-07-18T05:00:00Z,"[3M, 2M, 1M, 11M, 13M, 4M, 5M, 12M]",W
+4,100005,stuart weitzman,"[Shoes, Boots]",AVpe43sqilAPnD_xQIz9,Manlow,217.99,USD,2015-10-28T00:00:00Z,"[10, 9.5]",IDK
+5,100006,fizik,"[Athletic, Cycling, Men, Shoes, Sports]",AVpe43x3ilAPnD_xQI1w,Fizik Men's R1 Uomo Road Cycling Shoes,254.37,USD,2016-03-20T00:00:00Z,"[43.5, 44.5, 41.5, 43, 42, 42.5, 45, 44, 46, 40.5, 45.5, 41, 47, 48, 46.5]",M
+6,100012,maison margiela,"[Women, Shoes, Flats, Lace-Ups]",AVpe45h-ilAPnD_xQJhW,Mixed-leather Derbys,1395.0,USD,2016-06-05T21:26:10Z,"[6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11]",W
+7,100013,tommy hilfiger kids,"[Shoes, Boots]",AVpe45iY1cnluZ0-ZGc_,Andrea Rider (toddler/little Kid/big Kid),29.99,USD,2016-05-06T00:00:00Z,,IDK
+8,100017,kenneth cole unlisted,"[Shoes, Boots]",AVpe46Xr1cnluZ0-ZGvq,File Type,17.99,USD,2016-03-21T00:00:00Z,"[8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8]",IDK
+9,100019,nine west,"[Shoes, Boots]",AVpe46kzLJeJML43xlVp,Charnel,76.12,USD,2016-01-11T00:00:00Z,"[10.5, 10, 9.5, 7.5, 8, 11]",IDK
+10,10002,dr. martens,"[Shoes, Boots]",AVpfHbXi1cnluZ0-eP03,Tower,47.5,USD,2016-05-05T00:00:00Z,,IDK
+11,100023,see kai run kids,"[Shoes, Flats]",AVpe48GWilAPnD_xQKef,Marnie (toddler/little Kid),32.99,USD,2015-10-28T00:00:00Z,,IDK
+12,100025,alexander mcqueen,"[Heels, Shoes]",AVpe48PqilAPnD_xQKiW,Layered Zip Sexy Sandal,298.75,USD,2016-03-24T00:00:00Z,,IDK
+13,100026,antonio melani,[shoes],AVpe48QH1cnluZ0-ZHeA,Antonio Melani Mellana Dress Sandals,66.0,USD,2015-05-31T18:16:01.831Z,,IDK
+14,100028,ugg collection,"[Shoes, Boots]",AVpe48ROLJeJML43xmB3,Karisa Stingray,148.75,USD,2015-10-19T00:00:00Z,"[10, 7, 6, 9, 8]",IDK
+15,100029,gentle souls,"[Heels, Shoes]",AVpe48ZZLJeJML43xmEO,Rem Gem,79.99,USD,2015-10-28T00:00:00Z,"[8.5, 10, 7, 6, 9.5, 6.5, 7.5]",IDK
+16,10003,shoekeeper,[Shoes],AVpfHbY0ilAPnD_xVSDn,Shoekeeper Wooden Shoe Stretcher and Stretch Spray Combo - Natural,29.95,USD,2015-11-07T00:00:00Z,,IDK
+17,100030,lifestride,"[Shoes, Boots]",AVpe48kQLJeJML43xmIk,Yana (wide Shaft),25.0,USD,2016-04-01T00:00:00Z,"[5.5, 8.5, 10, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8, 11]",IDK
+18,100031,native kids shoes,"[Shoes, Flats]",AVpe49-qLJeJML43xmrZ,Venice Embroidered (little Kid),22.99,USD,2016-05-06T00:00:00Z,,IDK
+19,100036,stetson,"[Shoes, Boots]",AVpe49hZilAPnD_xQLBK,Kai,209.99,USD,2016-05-05T00:00:00Z,"[10.5, 8.5, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8, 11]",IDK
+20,100037,stuart weitzman,"[Sandals, Shoes]",AVpe49ln1cnluZ0-ZH9c,Nunaked,127.5,USD,2016-05-22T00:00:00Z,"[10.5, 8.5, 5.5, 9.5, 4.5, 11, 12, 10, 7, 6, 5, 6.5, 4, 7.5, 11.5, 9, 8]",IDK
+21,100038,timberland,"[Shoes, Boots]",AVpe49o81cnluZ0-ZH-1,Whittemore Fabric and Leather Lace-up,88.0,USD,2016-05-05T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+22,100042,nike,"[Kids, Boys' Shoes, Shoes, Sneakers Athletic]",AVpe4AAn1cnluZ0-Yvnz,'stefan Janoski' Skate Shoe (big Kid),65.0,USD,2015-11-05T00:00:00Z,"[7 M, 5 M, 6 M, 5.5 M]",M
+23,100043,christian louboutin,[shoes],AVpe4AGL1cnluZ0-YvqV,'pigalle' Pointy Toe Pump,795.0,USD,2015-06-27T05:00:00Z,,IDK
+24,100044,dolce & gabbana kids,"[Shoes, Flats]",AVpe4AQjLJeJML43xOVj,Lace Ballerina (little Kid/big Kid),212.99,USD,2016-05-22T00:00:00Z,,IDK
+25,100046,propet,"[Sandals, Drama, Short, Shoes]",AVpe4AcqilAPnD_xPy95,Carlee Xt,41.99,USD,2015-10-22T00:00:00Z,"[6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 11]",IDK
+26,100048,northside,"[Shoes, Boots]",AVpe4Ay5ilAPnD_xPzHp,Rock Hill,44.99,USD,2016-05-07T00:00:00Z,"[10, 9, 8, 13, 11, 12]",IDK
+27,100049,cole haan,"[Sandals, Shoes]",AVpe4B-O1cnluZ0-YwbS,Shayla Slide,83.06,USD,2016-04-08T00:00:00Z,"[10.5, 10, 6, 9.5, 11]",IDK
+28,100051,aldo,"[Shoes, Flats]",AVpe4BbNilAPnD_xPzXh,Cirelian,47.99,USD,2016-05-22T00:00:00Z,,IDK
+29,100053,roxy,"[Shoes, Boots]",AVpe4BljilAPnD_xPzbp,Caballero,42.99,USD,2016-05-08T00:00:00Z,"[10, 8.5, 7, 6, 6.5, 7.5, 9, 8]",IDK
+30,100056,mossimo supply co,"[shoes, women's shoes]",AVpe4C0G1cnluZ0-Ywxx,Women's Katherine Leather Engineer Boot - Mossimo Supply Co.,64.0,USD,2015-11-08T00:00:00Z,"[5.5, 8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",W
+31,100060,carter's,"[Medium, Little Kids, Toddlers, Carter's, Boys, Grey, Green, Kids, Waterproof, Shoes, Boots, Winter]",AVpe4CQp1cnluZ0-Ywi3,Dunes Toddler Boys' Winter Boots,29.99,USD,2015-09-15T00:00:00Z,[11],M
+32,100064,easy street,[Shoes],AVpe4C__LJeJML43xPeh,Easy Street Glacier Hidden Wedge Slip-ons,11.6,USD,2015-06-19T05:00:00Z,,IDK
+33,100067,love moschino,"[Sandals, Shoes]",AVpe4D1r1cnluZ0-YxNY,Colorblock Platform Sandal,112.99,USD,2015-10-14T00:00:00Z,,IDK
+34,100068,avia,[Shoes],AVpe4D8UilAPnD_xP0aV,Avi-execute,27.99,USD,2016-05-06T00:00:00Z,"[10.5, 8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+35,100069,nine west,[Shoes],AVpe4DCELJeJML43xPfF,Roba,57.93,USD,2015-08-20T00:00:00Z,"[8.5, 6.5, 11]",IDK
+36,10007,dc,[Shoes],AVpfHbiailAPnD_xVSGu,Maddo,54.98,USD,2016-05-22T00:00:00Z,"[10.5, 8.5, 9.5, 13, 14, 11, 12, 10, 7, 6, 6.5, 7.5, 11.5, 9, 8]",IDK
+37,100070,sole society,"[Women, Shoes, Shoes Under $100, Sandals]",AVpe4DEPLJeJML43xPf2,'sabina' Block Heel Sandal (women),89.95,USD,2016-07-26T00:00:00Z,,W
+38,100071,aquatalia,"[Shoes, Boots]",AVpe4DIR1cnluZ0-Yw6J,Yannicka,575.0,USD,2016-04-02T00:00:00Z,"[10, 5.5, 6]",IDK
+39,100074,m.a.p.,"[shoes, girls' shoes]",AVpe4Dfh1cnluZ0-YxEb,Girls' Sequoia Performance Winter Boots - Assorted Colors,49.99,USD,2015-11-26T00:00:00Z,"[11, 12, 13, 1, 2, 3, 4, 5]",W
+40,100076,sam edelman,[Shoes],AVpe4E0-ilAPnD_xP0uP,Fara,74.99,USD,2015-08-20T00:00:00Z,,IDK
+41,100077,aldo,"[Heels, Shoes]",AVpe4E5k1cnluZ0-YxmC,Forquer-u,72.99,USD,2016-05-22T00:00:00Z,,IDK
+42,100079,frye,"[Shoes, Boots]",AVpe4ETRilAPnD_xP0jR,Bruce Pull On,139.99,USD,2016-05-22T00:00:00Z,"[5.5, 8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+43,10008,geox kids,"[Shoes, Flats]",AVpfHblIilAPnD_xVSHr,Jr Piuma 38 (toddler/little Kid),29.99,USD,2016-01-11T00:00:00Z,,IDK
+44,100081,domani shoes,[shoes men],AVpe4EcgLJeJML43xQDQ,Domani Mens Ballard Woven Penny Loafers,134.99,USD,2015-05-30T23:17:29.486Z,,IDK
+45,100082,athena alexander,"[Heels, Shoes]",AVpe4FClLJeJML43xQPx,Roz,51.41,USD,2016-04-02T00:00:00Z,"[10, 7, 9, 8]",IDK
+46,100084,converse,[shoes],AVpe4FTQilAPnD_xP04Z,Converse Chuck Taylor All Star Ox Shoes Size Men's 6/women's 8,46.99,USD,2015-04-19T20:19:48.385Z,,IDK
+47,100085,k-swiss kids,[Shoes],AVpe4Fh21cnluZ0-YxzX,Court Pro��� (infant/toddler),25.44,USD,2016-02-02T00:00:00Z,,IDK
+48,100087,ralph lauren,"[Women, Shoes]",AVpe4G4VLJeJML43xQ76,Janis Slip-on Sneaker,49.0,USD,2016-02-21T00:00:00Z,,W
+49,100088,rockport,"[Loafers, Shoes]",AVpe4GNqilAPnD_xP1Pc,Eberdon,65.52,USD,2015-10-28T00:00:00Z,,IDK
+50,100090,old west kids boots,"[Shoes, Boots]",AVpe4Gw11cnluZ0-YyR3,Lacer Boot (toddler/little Kid/big Kid),17.99,USD,2016-05-20T00:00:00Z,,IDK
+51,100091,sanuk,"[Loafers, Shoes]",AVpe4HPP1cnluZ0-YyeE,Dotty,38.46,USD,2015-10-23T00:00:00Z,"[10, 7, 5, 9, 8]",IDK
+52,100094,sperry top-sider,"[Boat Shoes, Shoes]",AVpe4HgB1cnluZ0-YylA,Bluefish Holiday,72.99,USD,2016-05-07T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8]",IDK
+53,100095,vasque,[Shoes],AVpe4Ht61cnluZ0-Yyqp,Inhaler Low Gtx,104.99,USD,2016-05-05T00:00:00Z,"[10, 8.5, 7, 7.5, 9, 8]",IDK
+54,100096,ugg,"[Shoes, Boots]",AVpe4I-DLJeJML43xR0z,Uptown Ii,154.99,USD,2016-05-22T00:00:00Z,"[7, 6, 5, 8]",IDK
+55,100098,fitflop,"[Women, Shoes, Comfort, Sandals]",AVpe4IDs1cnluZ0-Yyz0,'surfa' Thong Sandal (women),58.95,USD,2015-11-05T00:00:00Z,"[5, 6, 7, 8, 11]",W
+56,1001,lacoste,"[Kids, Girls' Shoes]",AVpe4Svz1cnluZ0-Y3OD,'snug' Crib Shoe (baby),34.95,USD,2016-03-30T00:00:00Z,,W
+57,100101,polo ralph-lauren,[men shoes],AVpe4IOTilAPnD_xP2C-,Polo Ralph Lauren Men's Woodley Casual Drivers,99.0,USD,2015-05-30T23:40:09.081Z,,IDK
+58,100103,ugg,[Shoes],AVpe4IkRilAPnD_xP2Lw,Kolman,64.99,USD,2016-04-02T00:00:00Z,"[10.5, 10, 8.5, 7, 9.5, 7.5, 9, 15, 8, 14, 11]",IDK
+59,100104,adidas,"[Thriller, Shoes, Crime, Horror]",AVpe4IqH1cnluZ0-YzEQ,Se Daily Vulc,42.99,USD,2015-10-21T00:00:00Z,,IDK
+60,100105,skechers,[shoes],AVpe4J3K1cnluZ0-Yzkt,Skechers Relaxed Fit Endeavor Bungee Sneakers,54.99,USD,2015-05-19T18:57:23.113Z,,IDK
+61,100106,dansko,[shoes women extended sizes],AVpe4J9nilAPnD_xP2ye,Dansko Bess Mary Jane Loafer Pumps,82.5,USD,2015-04-22T01:03:52.037Z,,W
+62,100107,mark nason,[Shoes],AVpe4JBnLJeJML43xR2X,Langport,49.99,USD,2016-02-01T00:00:00Z,"[10.5, 8.5, 10, 7, 9.5, 6.5, 7.5, 9, 11.5, 8, 13, 14, 11, 12]",IDK
+63,100108,ecco sport,"[Shoes, Boots]",AVpe4JFWLJeJML43xR4M,Trace Zip,109.99,USD,2015-10-21T00:00:00Z,,IDK
+64,100109,ted baker,"[Shoes, Boots]",AVpe4JIWLJeJML43xR5C,Elanera,83.03,USD,2015-10-21T00:00:00Z,[10],IDK
+65,100111,frye,"[Shoes, Boots]",AVpe4JUvLJeJML43xR-w,Jenna Disc Lace,143.2,USD,2016-04-28T00:00:00Z,"[5.5, 8.5, 7, 6, 7.5, 8]",IDK
+66,100113,havaianas,"[Sandals Under $50, Sandals, Shoes]",AVpe4JpjLJeJML43xSIS,'slim Hardware' Flip Flop (women),44.0,USD,2016-03-30T00:00:00Z,,IDK
+67,100114,stride rite,[Girls' Shoes],AVpe4Jy61cnluZ0-YzjV,Naiya Srt Sandal Toddler,43.95,USD,2015-07-18T05:00:00Z,[6.5W],W
+68,10012,vince camuto,"[Women, Shoes, Sandals, Vince Camuto]",AVpfHcB9ilAPnD_xVSQi,'janil' Sandal (women),99.9,USD,2016-07-25T00:00:00Z,,W
+69,100125,manolo blahnik,"[Women, Shoes, Boots, Over the Knee Boots]",AVpe4LSZilAPnD_xP3Uq,Pascalarehi Over-the-knee Boots,1695.0,USD,2016-04-29T10:23:00Z,"[5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11]",W
+70,100126,reebok,[Shoes],AVpe4LVuLJeJML43xSz3,Twistform Blaze Mt,39.99,USD,2016-04-28T00:00:00Z,"[10.5, 7, 9.5, 12.5, 11.5, 8, 14]",IDK
+71,100128,ecco,[Shoes],AVpe4LiKLJeJML43xS4_,Bluma Toggle,62.78,USD,2015-10-21T00:00:00Z,,IDK
+72,100129,madden girl,[Shoes],AVpe4Lrk1cnluZ0-Y0Uh,Alvinn,14.99,USD,2015-10-28T00:00:00Z,"[8.5, 10, 7, 6.5, 7.5, 9, 8]",IDK
+73,100130,munro,"[Women, Shoes, Comfort, Pumps]",AVpe4LsNLJeJML43xS8l,'cindi' Pump,184.95,USD,2015-11-09T00:00:00Z,"[4.5, 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 13]",W
+74,100133,unionbay kids,"[Sandals, Shoes]",AVpe4MALilAPnD_xP3mQ,Leslie-g (little Kid/big Kid),19.99,USD,2016-05-07T00:00:00Z,,IDK
+75,100135,vaneli,"[Heels, Shoes]",AVpe4MI_1cnluZ0-Y0e2,Sherye,92.99,USD,2016-05-05T00:00:00Z,"[10, 8.5, 9.5, 6.5, 7.5, 9, 8]",IDK
+76,100139,sergio rossi,"[Shoes, Boots]",AVpe4Mvd1cnluZ0-Y0qQ,Ascot,1115.99,USD,2016-05-07T00:00:00Z,,IDK
+77,100140,kenneth cole reaction,"[Heels, Shoes]",AVpe4NEaLJeJML43xTcU,Art-ful,39.99,USD,2016-05-06T00:00:00Z,"[10, 8.5, 9.5, 7.5, 9, 8]",IDK
+78,100141,rose petals,"[Heels, Shoes]",AVpe4NNzLJeJML43xTge,Jayci,69.99,USD,2016-01-11T00:00:00Z,"[10.5, 8.5, 9.5, 13, 12, 10, 7, 6, 6.5, 7.5, 9, 8]",IDK
+79,100142,pleaser,[Shoes],AVpe4Nf0LJeJML43xTn_,Pleaser Women's Torment-703 Ankle Boot,74.95,USD,2015-07-14T05:00:00Z,,IDK
+80,100143,hoka one one,[Shoes],AVpe4NnvLJeJML43xTrn,Clifton,70.99,USD,2015-10-18T00:00:00Z,[8],IDK
+81,100144,nike,"[Outlet, Shoes Outlet, Women's Shoes]",AVpe4Nzu1cnluZ0-Y1HF,Nike Women's Printed Kaishi Running Shoes,59.98,USD,2016-01-25T00:00:00Z,,W
+82,100146,hush puppies slippers,"[Shoes, Slippers]",AVpe4OI7LJeJML43xT3_,Mayflower,27.81,USD,2016-04-05T00:00:00Z,"[10, 7, 11]",IDK
+83,100147,cover girl,"[shoes, girls' shoes]",AVpe4OIw1cnluZ0-Y1O0,Girl's Fashion Ankle Boots - Black,34.99,USD,2015-11-08T00:00:00Z,"[3, 2, 1, 5, 4, 13]",W
+84,100149,munro american,"[Animation, Sandals, Shoes, Comedy]",AVpe4OS-LJeJML43xT8b,Libra,69.99,USD,2015-10-21T00:00:00Z,"[5.5, 7, 6, 5, 6.5, 7.5, 11]",IDK
+85,10015,rag & bone,[Shoes],AVpfHcrB1cnluZ0-eQQB,Trainer Low,234.99,USD,2016-05-05T00:00:00Z,"[10, 9, 13, 11, 12]",IDK
+86,100150,givenchy,[shoes],AVpe4OThLJeJML43xT8w,Baby's Breath Printed Leather Slide Sandals,995.0,USD,2015-05-10T18:03:38.783Z,[35 5],IDK
+87,100152,keen,[Women's Shoes],AVpe4OraLJeJML43xUGc,Mercer Ballerina Cnx,39.97,USD,2015-07-15T05:00:00Z,[5.5M],W
+88,100153,puma,"[New Arrivals, Boys, Kids, Shoes]",AVpe4OrhilAPnD_xP4nc,"'cabana Racer' Mesh Suede Sneaker (toddler, Little Kid Big Kid)",44.95,USD,2015-11-05T00:00:00Z,"[1.5 M, 2.5 M, 13 M, 7 M, 12 M, 11 M, 13.5 M, 5 M, 11.5 M, 1 M, 5.5 M, 3 M, 12.5 M, 4 M, 2 M, 6.5 M, 4.5 M, 6 M, 3.5 M]",M
+89,100154,bobux kids,"[Shoes, Flats]",AVpe4Ow2ilAPnD_xP4pZ,I-walk Jiffy Pop Ballet (toddler/little Kid),36.99,USD,2016-01-11T00:00:00Z,,IDK
+90,100155,ash,[shoes],AVpe4PL3ilAPnD_xP41M,Julie Suede Wedge Ankle Boots,265.0,USD,2015-04-21T18:08:23.037Z,[35 5],IDK
+91,100156,easy street,"[Medium, Black, Wide, Sandals, Other, Comfort, Womens, Narrow, Extra Wide, Grey, 2in - 2 3/4in, Shoes, Easy Street]",AVpe4PV01cnluZ0-Y1ww,Glitz Glitter Dress Sandals - Women,59.99,USD,2015-07-05T05:00:00Z,,W
+92,100157,nine west,"[Shoes, Flats]",AVpe4PaqilAPnD_xP47W,Aleksander,34.99,USD,2015-10-14T00:00:00Z,[10],IDK
+93,100159,native,[shoes],AVpe4PliilAPnD_xP5AQ,Native Eyewear Grind Polarized Sunglasses,51.58,USD,2015-02-24T20:26:33.335Z,,IDK
+94,10016,ecco,"[Men, Shoes]",AVpfHdL71cnluZ0-eQao,Ecco Seattle Apron Toe Oxfords,119.99,USD,2016-03-07T00:00:00Z,,M
+95,100161,calden,[shoes],AVpe4PxPLJeJML43xUk-,Calden - K61302 - 2.6 Inches Taller - Height Increasing Shoes For Men (brown Crackled Leather Lace Up Casual Shoes),48.0,USD,2014-08-28T03:01:37Z,,IDK
+96,100162,stride rite,[Shoes],AVpe4PxsLJeJML43xUlL,Srt Greta (toddler),37.99,USD,2015-08-24T00:00:00Z,"[W, M]",IDK
+97,100165,volcom,"[Shoes, Flats]",AVpe4R-C1cnluZ0-Y230,Chill Out,22.99,USD,2016-01-11T00:00:00Z,[7],IDK
+98,100169,jordan,[shoes],AVpe4RMEilAPnD_xP5pQ,Jordan Jordan Hydro 2 Mens 312527-026,54.8,USD,2015-04-19T21:45:57.768Z,,IDK
+99,100170,givenchy,[shoes],AVpe4RRHLJeJML43xVMh,Studded Leather Lace-up Booties,1490.0,USD,2015-05-16T17:58:32.820Z,[35.5 5.5],IDK
+100,100172,oscar de la renta,"[Shoes, Boots]",AVpe4S7p1cnluZ0-Y3So,Elkin 100mm,544.99,USD,2016-05-05T00:00:00Z,"[40, 36, 39, 37, 38]",IDK
+101,100173,asics,[Shoes],AVpe4S7xilAPnD_xP6Z6,Gel-craze��� Tr 2,50.99,USD,2016-05-07T00:00:00Z,"[10.5, 5.5, 8.5, 10, 6, 5, 9.5, 6.5, 9, 11.5, 11, 12]",IDK
+102,100174,l'amour,"[Shoes, Girls, Flats, Girls' Shoes]",AVpe4SJtilAPnD_xP6D-,Toddler Little Girl Silver T Strap Buckle Flower Dress Shoe 5-2,41.99,USD,2016-03-17T00:00:00Z,,W
+103,100175,via spiga,"[Sandals, Shoes]",AVpe4SPbilAPnD_xP6GY,Wallia 2,50.0,USD,2016-05-06T00:00:00Z,"[5.5, 8.5, 10, 7, 6, 5, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+104,100177,rachel zoe,"[Heels, Shoes]",AVpe4SUx1cnluZ0-Y3CG,Eloise,73.75,USD,2016-05-22T00:00:00Z,"[8.5, 6, 9.5, 6.5, 7.5, 9, 8]",IDK
+105,10018,seychelles,"[Heels, Shoes]",AVpfHdSUilAPnD_xVSqK,Frequency,59.99,USD,2016-04-01T00:00:00Z,"[10, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+106,100180,sorel,"[Shoes, Boots]",AVpe4SsSLJeJML43xV0L,Alpha Pac Ii,119.99,USD,2016-05-05T00:00:00Z,"[10, 7, 6, 5, 8, 11, 12]",IDK
+107,100186,michael michael kors,"[Heels, Shoes]",AVpe4UCVilAPnD_xP61Q,Yvonne Bootie,124.99,USD,2016-02-07T00:00:00Z,[7.5],IDK
+108,100189,freebird,"[Shoes, Boots]",AVpe4UQB1cnluZ0-Y3zJ,Fiona,137.99,USD,2016-05-05T00:00:00Z,"[10, 7, 6, 9, 8]",IDK
+109,100190,penny loves kenny,"[Heels, Shoes]",AVpe4UYKLJeJML43xWcx,Jan,34.99,USD,2016-04-05T00:00:00Z,"[8.5, 6, 7.5, 8]",IDK
+110,100191,converse,[Shoes],AVpe4UpYilAPnD_xP7EN,Chuck Taylor�� Fresh Hi,39.99,USD,2015-10-28T00:00:00Z,,IDK
+111,100194,esprit,"[Shoes, Boots]",AVpe4W-5LJeJML43xXff,Forest,32.99,USD,2015-10-28T00:00:00Z,"[8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8]",IDK
+112,100196,sperry,"[Academy, Men's Boat Shoes, Men's Casual Shoes, Men's Shoes]",AVpe4WoU1cnluZ0-Y4vU,Sperry Men's Sea Kite Sport Moccasins,109.99,USD,2016-10-11T00:00:00Z,,M
+113,100198,converse by john varvatos,[Shoes],AVpe4XXQLJeJML43xXpX,Chuck Taylor All Star Artisan Stitch Hi,125.99,USD,2016-05-05T00:00:00Z,,IDK
+114,100199,skechers,"[Academy, Footwear, Women's Walking Shoes, Women's Shoes]",AVpe4XZ91cnluZ0-Y5D_,Skechers Women's Go Walk Rival Walking Shoes,37.98,USD,2015-11-07T00:00:00Z,,W
+115,1002,l.a.m.b.,"[Women, Pumps, Shoes]",AVpe4SxRLJeJML43xV2Z,L.a.m.b. Women's Enforce Dress Pump,170.98,USD,2015-11-08T00:00:00Z,,W
+116,100200,michael michael kors kids,"[Shoes, Boots]",AVpe4XdFilAPnD_xP8ND,Ivy Acer (little Kid/big Kid),44.99,USD,2016-02-07T00:00:00Z,,IDK
+117,100201,minnetonka kids,"[Shoes, Sandals]",AVpe4Xq51cnluZ0-Y5LQ,Maya (little Kid/big Kid),14.99,USD,2015-10-21T00:00:00Z,,IDK
+118,100202,under armour,[Shoes],AVpe4Xxa1cnluZ0-Y5Nz,Ua Zone,59.99,USD,2016-03-17T00:00:00Z,"[10.5, 10, 5.5, 8.5, 7, 6, 5, 9.5, 6.5, 7.5, 9, 8, 11, 12]",IDK
+119,100203,pearl izumi,[Shoes],AVpe4YF8LJeJML43xX8y,Em Trail M 2,125.0,USD,2016-06-15T00:00:00Z,"[8.5, 9.5, 7.5, 8, 11]",IDK
+120,100205,columbia,[Shoes],AVpe4YUbilAPnD_xP8ke,Peakfreak™ Xcrsn Xcel,58.12,USD,2016-05-07T00:00:00Z,"[10.5, 8.5, 9.5, 15, 13, 14, 11, 12, 10, 7, 7.5, 9, 11.5, 8]",IDK
+121,100206,sanuk,[shoes],AVpe4YeFLJeJML43xYGb,Sanuk Women's Pick Pocket Tee Slip-on Shoes,60.0,USD,2015-05-31T18:12:35.627Z,,IDK
+122,100207,life is good,"[Shoes, Slippers]",AVpe4Yp1ilAPnD_xP8tD,Slide Slipper,11.2,USD,2016-05-22T00:00:00Z,,IDK
+123,100209,brieten,[shoes],AVpe4Zgf1cnluZ0-Y55n,Brand New Lady Rhinestone Strappy Kitten Heel Slingbacks P5035 Gold,51.99,USD,2015-04-30T09:55:38.269Z,,IDK
+124,10021,puma,[Shoes],AVpfHe99LJeJML432vVX,Gv Special Coastal,35.99,USD,2016-02-01T00:00:00Z,"[10.5, 5.5, 8.5, 9.5, 13, 14, 11, 10, 7, 6, 6.5, 7.5, 9, 11.5, 8]",IDK
+125,100210,rose petals,"[Heels, Shoes]",AVpe4ZjsilAPnD_xP9C3,Jive 2,39.99,USD,2016-05-22T00:00:00Z,"[10.5, 5.5, 8.5, 9.5, 13, 11, 12, 10, 7, 6, 6.5, 7.5, 9, 8]",IDK
+126,100211,kiwi,[shoes],AVpe4ZlJilAPnD_xP9DP,Kiwi Express Wipes 15ct,5.69,USD,2015-04-23T20:43:44.431Z,,IDK
+127,100214,jack rogers,"[Sandals, Shoes]",AVpe4_-wLJeJML43xngD,Camilla,74.99,USD,2016-01-11T00:00:00Z,"[8.5, 6, 6.5, 7.5, 8, 11]",IDK
+128,100215,reef,"[Sandals, Shoes]",AVpe4_5nilAPnD_xQL9S,Grom Stuyak (infant/toddler/youth),17.74,USD,2016-04-07T00:00:00Z,,IDK
+129,100217,nike kids,[Shoes],AVpe4_WiLJeJML43xnO9,Roshe Run Print (big Kid),45.99,USD,2016-05-22T00:00:00Z,,IDK
+130,100220,kenneth cole reaction kids,"[Sandals, Short, Shoes, Comedy]",AVpe4_f6ilAPnD_xQLyt,Out-chase (little Kid/big Kid),31.94,USD,2015-10-20T00:00:00Z,,IDK
+131,100222,nine west,"[Shoes, Boots]",AVpe4_hcLJeJML43xnTc,Tiberia,99.99,USD,2016-05-05T00:00:00Z,"[10.5, 5.5, 8.5, 10, 7, 6, 5, 9.5, 6.5, 7.5, 9, 8, 11, 12]",IDK
+132,100225,camper,"[Shoes, Boots]",AVpe4a3qLJeJML43xZB-,Peu Pista Gore-tex�� - 36605,119.99,USD,2016-05-05T00:00:00Z,,IDK
+133,100226,brooks kids,[Shoes],AVpe4aKtilAPnD_xP9SN,Pureflow 3 (little Kid/big Kid),27.99,USD,2016-05-22T00:00:00Z,,IDK
+134,100229,asics®,[Women's Shoes],AVpe4b1IilAPnD_xP96M,Gel-court Control™,109.95,USD,2015-08-12T00:00:00Z,"[5B, 6B, 7B, 8B, 9B, 10B, 11B, 12B]",W
+135,100230,kenneth cole reaction kids,"[Sandals, Shoes]",AVpe4b9_LJeJML43xZaG,Run My (little Kid/big Kid),32.76,USD,2016-05-05T00:00:00Z,,IDK
+136,100233,ugg,[Shoes],AVpe4bWhLJeJML43xZMl,Tobin,39.99,USD,2016-04-10T00:00:00Z,"[10.5, 8.5, 9.5, 15, 13, 14, 11, 12, 10, 7, 7.5, 9, 11.5, 8]",IDK
+137,100236,new balance classics,[Shoes],AVpe4btdilAPnD_xP93w,574 - Core Plus,59.99,USD,2016-05-22T00:00:00Z,"[10.5, 10, 8.5, 9.5, 7.5, 11.5, 9, 15, 8, 13, 14, 11, 12]",IDK
+138,100237,stacy adams,"[Oxfords, Shoes]",AVpe4bvRLJeJML43xZUx,Graham,44.99,USD,2016-04-01T00:00:00Z,"[10.5, 8.5, 9.5, 15, 13, 14, 11, 12, 10, 7, 7.5, 11.5, 9, 8]",IDK
+139,100239,buscemi,"[Men, Shoes, Sneakers]",AVpe4c5vLJeJML43xZwo,50mm Low-top Sneakers,750.0,USD,2016-05-16T04:23:10Z,"[7, 8, 9, 10, 11, 12, 13]",M
+140,10024,adidas x stella mccartney,"[Women, Shoes, Sneakers]",AVpfHeY4ilAPnD_xVTCS,Adizero Adios Sneakers,99.0,USD,2016-08-01T00:00:00Z,"[5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5]",W
+141,100241,timberland pro,"[Shoes, Men, Boots]",AVpe4cI2LJeJML43xZev,Men's Excave Wellington Soft Toe Work Boot,89.85,USD,2016-05-13T00:00:00Z,,M
+142,100243,polo ralph lauren kids,[Shoes],AVpe4caD1cnluZ0-Y7CM,Hanford Fa13 (big Kid),41.15,USD,2016-01-12T00:00:00Z,,IDK
+143,100245,aerosoles,"[Heels, Shoes]",AVpe4dC91cnluZ0-Y7R7,Benefit,50.98,USD,2015-10-06T00:00:00Z,"[10.5, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+144,100247,keen,"[Kids, Boys' Shoes, Shoes, Sneakers Athletic]",AVpe4dgJ1cnluZ0-Y7dM,"'coronado' High Top (toddler, Little Kid Big Kid)",54.95,USD,2015-11-05T00:00:00Z,"[10 M, 13 M, 4 M, 7 M, 12 M, 11 M, 5 M, 6 M]",M
+145,100249,rockin footwear,"[Athletic, Men, Water Shoes, Shoes]",AVpe4drfLJeJML43xaD_,Mens Aqua Foot Water Shoes,15.68,USD,2016-05-15T00:00:00Z,,M
+146,100252,agl,"[Women, Shoes, Flats, Ballet]",AVpe4e5nilAPnD_xP_Jv,Leather Ballet Flat (women),325.0,USD,2016-07-26T00:00:00Z,,W
+147,100253,fendi,"[Women, Designer Collections, Designer Shoes, Sneakers]",AVpe4eLc1cnluZ0-Y7vu,'bugs' Slip-on Sneaker (women),700.0,USD,2015-10-23T00:00:00Z,,W
+148,100258,prada,[shoes],AVpe4euf1cnluZ0-Y7-1,Perforated Leather Point-toe Flats,690.0,USD,2015-05-15T18:08:36.903Z,[35 5],IDK
+149,100259,ecco,[shoes],AVpe4fHsLJeJML43xarO,Ecco Flash Gladiator Sandals,104.99,USD,2015-05-19T18:21:34.752Z,,IDK
+150,10026,ecco,[shoes men],AVpfHezdilAPnD_xVTKq,Ecco Sea Walker Oxfords,170.0,USD,2015-05-30T23:12:09.595Z,,IDK
+151,100260,avia,[Shoes],AVpe4fNpLJeJML43xatN,Avi-execute,29.99,USD,2016-05-06T00:00:00Z,"[10.5, 8.5, 10, 7, 9.5, 7.5, 9, 11.5, 8, 13, 11, 12]",IDK
+152,100261,croft & barrow,"[Shoes, Medium, Regular, Black, Wide, Loafers, Brown, Comfort, Mens, Casual, Multi/none, Faux Leather]",AVpe4fSpilAPnD_xP_Ti,Men's Casual Loafers,34.99,USD,2015-07-05T05:00:00Z,"[7 MED, 7.5 MED, 8 MED, 8.5 MED, 9 MED, 9.5 MED, 10 MED, 10.5 MED, 11 MED, 12 MED, 13 MED]",IDK
+153,100263,nike,[men shoes],AVpe4fbGilAPnD_xP_W9,Nike Mens Free 5.0 Sneakers,100.0,USD,2015-05-30T23:23:02.188Z,,IDK
+154,100264,arche,"[Sandals, Shoes]",AVpe4ff61cnluZ0-Y8Rs,Exus,207.99,USD,2016-04-02T00:00:00Z,,IDK
+155,100268,ecco,[shoes men],AVpe4gFULJeJML43xbDT,Ecco Men's Windsor Dress Oxfords,250.0,USD,2015-05-30T23:19:00.446Z,,IDK
+156,100270,vans,[Men's Shoes],AVpe4h-e1cnluZ0-Y9TX,Bishop Sneaker,51.99,USD,2015-07-14T05:00:00Z,"[6.5M, 7M, 7.5M, 8M, 8.5M, 9M, 9.5M, 10M, 10.5M, 11M, 11.5M, 12M, 13M]",M
+157,100271,grazie,[shoes women extended sizes],AVpe4h8-LJeJML43xb0r,Grazie Abilene Jeweled Sandals,64.99,USD,2015-06-01T07:10:52.458Z,,W
+158,100272,dc kids,[Shoes],AVpe4hJu1cnluZ0-Y89E,Rebound Ul (toddler),29.84,USD,2016-02-01T00:00:00Z,,IDK
+159,100276,roxy,"[Sandals, Shoes]",AVpe4hobilAPnD_xQAQo,Corsica,24.99,USD,2016-03-31T00:00:00Z,"[9, 8]",IDK
+160,100277,ugg,"[Shoes, Boots]",AVpe4hqoilAPnD_xQARf,Classic Mini Deco,89.99,USD,2016-05-22T00:00:00Z,"[10, 17, 18, 15, 9, 16, 8, 13, 14, 11, 12]",IDK
+161,100278,unknown,[shoes],AVpe4hs5ilAPnD_xQASA,Bright Royal Blue Pumps With Rhinestones and 5.75 Inch Stiletto Heels,144.95,USD,2015-04-30T03:22:35.167Z,,IDK
+162,100279,geox,"[Heels, Shoes]",AVpe4i-VilAPnD_xQAxt,D Carey 3,94.4,USD,2015-10-14T00:00:00Z,,IDK
+163,10028,wanted shoe,[shoes],AVpfHf7cilAPnD_xVTji,Wanted Dunlap Tall Boots,89.0,USD,2015-08-13T00:00:00Z,,IDK
+164,100280,k-swiss,[Shoes],AVpe4i45ilAPnD_xQAvG,Court Pro���,34.99,USD,2015-10-28T00:00:00Z,"[10.5, 8.5, 10, 7, 9.5, 7.5, 9, 11.5, 8, 13, 11, 12]",IDK
+165,100282,jambu kids,[Shoes],AVpe4iMdLJeJML43xb6b,Marlin (toddler/little Kid/big Kid),29.99,USD,2016-04-02T00:00:00Z,,IDK
+166,100283,stuart weitzman,"[Shoes, Boots]",AVpe4iiDLJeJML43xcDj,Jefecharo,347.99,USD,2015-10-28T00:00:00Z,"[10.5, W, 10, 9.5, M, 9]",IDK
+167,100287,asics,[Shoes],AVpe4jEALJeJML43xcPb,Gel-nimbus�� 16,82.99,USD,2015-10-28T00:00:00Z,"[10.5, 9.5, 13, 14, 11, 12, 10, 6, 12.5, 9, 11.5]",IDK
+168,100288,dc,[Shoes],AVpe4jOiLJeJML43xcTM,Nyjah Vulc Tx,34.46,USD,2016-05-07T00:00:00Z,"[11.5, 13, 11, 12]",IDK
+169,100293,sperry top-sider,"[Loafers, Shoes]",AVpe4k2hLJeJML43xc7M,Leeward Penny,84.99,USD,2016-01-11T00:00:00Z,"[10.5, 8.5, 10, 9.5, 9, 11.5, 11, 12]",IDK
+170,100295,nine west,"[Shoes, Heels]",AVpe4kLe1cnluZ0-Y-HF,Karey,44.99,USD,2015-10-28T00:00:00Z,,IDK
+171,100296,madden girl,"[Shoes, Boots]",AVpe4kXgilAPnD_xQBTD,Sleet,53.12,USD,2016-05-22T00:00:00Z,"[8.5, 10, 7, 6, 6.5, 7.5, 9, 8]",IDK
+172,100297,calvin klein,"[Loafers, Shoes]",AVpe4ks41cnluZ0-Y-VR,Miguel Perf,59.99,USD,2016-02-05T00:00:00Z,"[10.5, 10, 8.5, 7, 9.5, 7.5, 11.5, 9, 8, 13, 11, 12]",IDK
+173,100298,toms,"[Kids, Shoes, Girls' Shoes, Flats]",AVpe4lBILJeJML43xc_R,"'classic - Crochet' Slip-on (toddler, Little Kid Big Kid)",21.97,USD,2015-11-05T00:00:00Z,[4.5 M],W
+174,100299,teva,"[Shoes, Boots]",AVpe4lLc1cnluZ0-Y-hL,Delavina Low - Leather/canvas,84.99,USD,2015-10-21T00:00:00Z,"[8.5, 7, 6.5, 7.5, 9, 8]",IDK
+175,1003,easy street,"[Heels, Shoes]",AVpe4T4qilAPnD_xP6yC,Addison,28.99,USD,2015-10-14T00:00:00Z,[6.5],IDK
+176,10030,rockport,"[Oxfords, Shoes]",AVpfHfLo1cnluZ0-eRFG,City Smart Cap Toe Oxford,107.99,USD,2016-06-19T00:00:00Z,"[10.5, 8.5, 9.5, 15, 16, 13, 14, 11, 12, 10, 7, 6.5, 7.5, 11.5, 9, 8]",IDK
+177,100301,havaianas,"[Sandals, Shoes]",AVpe4lR5ilAPnD_xQBq0,Slim Logo Stripes Flip Flops,21.56,USD,2016-05-07T00:00:00Z,,IDK
+178,100302,nike,[shoes],AVpe4lUzilAPnD_xQBr9,Dart 10 Wide Grade School (gs) Youth Metallic Silver/white-black (6.5y),50.99,USD,2015-04-20T16:05:06.696Z,,IDK
+179,100303,franco sarto,[Shoes],AVpe4lXLilAPnD_xQBs6,Franco Sarto Maleni Casual Over-the-knee Boots,179.0,USD,2015-08-20T00:00:00Z,,IDK
+180,100304,rachel zoe,"[Flat, Sandals, Women, Shoes]",AVpe4la9ilAPnD_xQBum,'cecille' Leather Ankle Strap Sandal (women),63.65,USD,2015-11-05T00:00:00Z,"[10, 6, 5, 11]",W
+181,100307,giuseppe zanotti,"[Shoes, Heels]",AVpe4lhMilAPnD_xQBxR,E56013,292.99,USD,2015-10-14T00:00:00Z,,IDK
+182,100309,bed stu,"[Shoes, Boots]",AVpe4lq1LJeJML43xdQl,Oath,79.99,USD,2016-05-22T00:00:00Z,"[10, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+183,10031,tony lama,[Shoes],AVpfHfR9LJeJML432vcg,Rr3303,117.2,USD,2015-08-13T00:00:00Z,"[10.5, 10, 9, 11.5, 8, 13]",IDK
+184,100311,bass,"[Heels, Shoes]",AVpe4lzfLJeJML43xdUD,Broadway,24.15,USD,2016-02-06T00:00:00Z,"[10, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8]",IDK
+185,100312,paw patrol,"[shoes, girls' shoes, toddler girls' shoes]",AVpe4m0QilAPnD_xQCVa,Paw Patrol Toddler Girl's Slippers - Pink,9.99,USD,2015-12-15T00:00:00Z,"[S, L, M, XL]",W
+186,100313,j. rene,"[Party Evening, Women, Shoes, Peep Toe]",AVpe4mGKilAPnD_xQCBI,'jaden' Pump,104.95,USD,2015-11-08T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8, 13, 11, 12]",W
+187,100314,soda,"[Women's Casual Shoes, Shoes, Women's Boots, Women's Shoes]",AVpe4mXyilAPnD_xQCI9,Soda Zuluu-s Women's Flat Mid Calf Knee High Round Toe Slouch Comfort Casual Boot,19.5,USD,2016-03-16T00:00:00Z,"[8.5, 10, 7, 6, 6.5, 7.5, 9, 8]",W
+188,100315,rag & bone,[Shoes],AVpe4mgHilAPnD_xQCMR,Newbury Nubuck Ankle Boot,495.0,USD,2015-07-18T05:00:00Z,,IDK
+189,100316,sebago,"[Shoes, Boots]",AVpe4mpT1cnluZ0-Y_H_,Metro Zip Boot,116.61,USD,2016-05-05T00:00:00Z,"[10.5, 10, 9.5, 7.5, 11.5, 9, 8, 11, 12]",IDK
+190,100318,no brand,"[shoes, women's shoes]",AVpe4n7j1cnluZ0-Y_pd,Women's Chastity Bootie Slippers,22.99,USD,2015-12-15T00:00:00Z,"[S, L, M, XL]",W
+191,100319,new balance,[Running Shoes],AVpe4nFTLJeJML43xd2q,Kv990v3,59.95,USD,2015-07-18T05:00:00Z,"[12W, 12.5M, 1.5M, 11.5M, 10.5M, 12.5W, 2W, 1.5W, 3M, 2.5M, 1M, 2.5W, 10.5W, 11.5W, 12M, 3W, 11W, 13W, 1W, 13.5W, 2M, 11M, 13M, 13.5M]",IDK
+192,100320,geox,"[Girls' Shoes, Kids, Shoes, Sneakers Athletic]",AVpe4nHX1cnluZ0-Y_VU,"'emy 6' Sneaker (toddler, Little Kid Big Kid)",65.0,USD,2015-11-09T00:00:00Z,,W
+193,100324,elie tahari kids,"[Loafers, Shoes]",AVpe4nZNLJeJML43xd-8,Heaven Slip (little Kid/big Kid),31.99,USD,2016-05-22T00:00:00Z,,IDK
+194,100326,nina,"[Heels, Shoes]",AVpe4nh-ilAPnD_xQCnL,Emmie,39.99,USD,2016-05-06T00:00:00Z,"[10, 5.5, 7, 6, 5, 6.5, 7.5, 8]",IDK
+195,100328,justonestyle,"[shoes, Athletic, Water Shoes, Women]",AVpe4o7yLJeJML43xenA,New Band Beach Aqua Water Sports Athletic Gray Womens Shoes Velcro Sandals,15.99,USD,2015-03-13T15:57:04.150Z,,W
+196,10033,converse,[shoes],AVpfHfYO1cnluZ0-eRJV,Converse Unisex Converse Ct As Hi Basketball Shoes,34.0,USD,2015-04-19T09:27:57.967Z,,IDK
+197,100331,venettini kids,"[Shoes, Flats]",AVpe4ow2LJeJML43xeio,55-francis (little Kid/big Kid),86.75,USD,2016-06-19T00:00:00Z,,IDK
+198,100332,mabis,[shoes],AVpe4p1FilAPnD_xQDkG,Mabis Healthcare Long Handle Shoe Horn - Silver,9.09,USD,2015-04-23T20:43:26.049Z,,IDK
+199,100335,ecco,"[Women, Shoes, Comfort, Pumps]",AVpe4pMPLJeJML43xet-,'touch 50' Buckle Pump (women),99.9,USD,2015-11-06T00:00:00Z,,W
+200,100338,dc,[Shoes],AVpe4pfY1cnluZ0-ZATR,Rd Grand,42.99,USD,2016-02-07T00:00:00Z,"[10, 7.5, 9, 11.5, 11, 12]",IDK
+201,100339,clarks kids,[Shoes],AVpe4phJilAPnD_xQDbp,Juggle Act (toddler),32.99,USD,2016-03-30T00:00:00Z,,IDK
+202,10034,rachel shoes,"[shoes, girls' shoes, toddler girls' shoes]",AVpfHfi21cnluZ0-eRNG,Toddler Girls' Rachel Shoes Fashion Boots,39.99,USD,2015-11-08T00:00:00Z,"[10, 7, 6, 9, 8, 11, 12]",W
+203,100342,adidas by stella mccartney,[Shoes],AVpe4q7B1cnluZ0-ZA3i,Asimina Mid Cut,160.0,USD,2016-04-02T00:00:00Z,"[8.5, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8]",IDK
+204,100346,stuart weitzman,"[Girls' Shoes, Kids, Boots Booties, Shoes]",AVpe4qtvLJeJML43xfWN,"'50/50' Boot (walker, Toddler, Little Kid Big Kid) (online Only)",57.95,USD,2015-11-07T00:00:00Z,"[8 M, 10 M, 13 M, 4 M, 2 M, 7 M, 12 M, 11 M, 5 M, 1 M, 6 M, 9 M]",W
+205,10035,geox kids,[Shoes],AVpfHfu9LJeJML432vmv,Jr Light Eclipse 20 (toddler/little Kid),32.99,USD,2016-05-06T00:00:00Z,,IDK
+206,100350,nine west,"[Shoes, Flats]",AVpe4r63LJeJML43xfws,Andhearts,29.99,USD,2016-05-06T00:00:00Z,"[10.5, 10, 8.5, 5.5, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8, 11, 12]",IDK
+207,100351,loeffler randall,"[Sandals, Shoes]",AVpe4rGNilAPnD_xQECM,Etta,210.0,USD,2016-05-06T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+208,100359,stuart weitzman,"[Shoes, Boots]",AVpe4sJJ1cnluZ0-ZBTX,Mazing,199.99,USD,2015-10-14T00:00:00Z,"[10.5, 7, 8]",IDK
+209,10036,dr. martens,"[Shoes, Boots]",AVpfHfveilAPnD_xVTfc,Pascal 8-eye Boot,120.99,USD,2016-06-19T00:00:00Z,,IDK
+210,100363,giuseppe zanotti,"[Sneakers, Men, Shoes]",AVpe4swLilAPnD_xQEoz,Double-zip Sneakers,665.0,USD,2016-07-10T00:00:00Z,"[10.5, 10, 8.5, 7, 9.5, 9, 11.5, 8, 13, 14, 11, 12]",M
+211,100366,dream pairs,[shoes],AVpe4tX21cnluZ0-ZBx5,Dream Pairs Girls Light Weight Go Easy Walking Athletic Running Sneakers Shoes,17.99,USD,2015-05-16T09:54:37.063Z,,IDK
+212,100367,ecco,"[Men, Shoes, Boots]",AVpe4tYsLJeJML43xgUw,Ecco Men's Grenoble Birch Suede Chukka Boots,180.0,USD,2016-03-03T00:00:00Z,,M
+213,100369,fly london,"[Women, shoes]",AVpe4u6Z1cnluZ0-ZCW6,'yema' Open Toe Bootie,209.95,USD,2015-07-14T05:00:00Z,,W
+214,10037,reebok,[Shoes],AVpfHg1YLJeJML432v_J,Dmx Max Stride Rs Wide,49.99,USD,2016-02-07T00:00:00Z,"[7.5, 8]",IDK
+215,100370,ecco,[Men's Shoes],AVpe4u8gilAPnD_xQFdv,Eisner Tie,149.95,USD,2015-07-14T05:00:00Z,,M
+216,100371,merona,[shoes],AVpe4uC3LJeJML43xgk7,Women's Elaina Woven Thong Sandals,19.99,USD,2015-04-21T17:36:45.004Z,[5.5],IDK
+217,100374,franco sarto,"[Shoes, Flats]",AVpe4uqqLJeJML43xgzd,Twilight,59.99,USD,2016-05-07T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8, 11]",IDK
+218,100375,mars��ll,"[Women, Shoes, Boots, Ankle Boots]",AVpe4ut6ilAPnD_xQFXw,Paint-splattered Ankle Boots,725.0,USD,2016-05-15T12:15:59Z,"[5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11]",W
+219,100378,charades costumes,"[Halloween, Halloween Accessories, Halloween Shoes]",AVpe4vSH1cnluZ0-ZCf3,Black Satin Jester Shoes,12.99,USD,2016-10-04T00:00:00Z,,IDK
+220,100379,skechers,"[Academy, Footwear, Men's Shoes, Men's Training Shoes]",AVpe4vypilAPnD_xQFxj,Skechers Men's Trait Training Shoes,34.98,USD,2015-11-20T00:00:00Z,,M
+221,100382,ugg australia,"[Women, Water Resistant, Rain Winter Boots, Shoes, Boots]",AVpe4x1U1cnluZ0-ZDeg,'sumner' Boot (women) (wide Calf),199.95,USD,2015-11-08T00:00:00Z,"[10, 7, 6, 5, 9, 8, 11]",W
+222,100387,lacoste,[Shoes],AVpe4x_P1cnluZ0-ZDiw,Ojetti Mag,49.99,USD,2015-08-20T00:00:00Z,"[10.5, 10, 11.5, 13, 11]",IDK
+223,100389,lauren by ralph lauren,"[Sandals, Shoes]",AVpe4xr_1cnluZ0-ZDau,Hazel,77.13,USD,2015-10-14T00:00:00Z,[10],IDK
+224,100391,k-swiss,[Shoes],AVpe4yAtLJeJML43xiGM,Si-18 Rannell 2���,44.99,USD,2016-04-27T00:00:00Z,"[10.5, 8.5, 10, 7, 9.5, 7.5, 9, 11.5, 8, 13, 11, 12]",IDK
+225,100392,lauren by ralph lauren,"[Sandals, Shoes]",AVpe4yI5LJeJML43xiJS,Rita,48.76,USD,2015-10-21T00:00:00Z,"[7, 6.5, 8]",IDK
+226,100395,texas steer,"[Men's Boots, Shoes, Men's Shoes]",AVpe4ym81cnluZ0-ZDwb,Texas Steer Men's Judd Tan Soft Toe Work Boot,49.99,USD,2016-03-30T00:00:00Z,"[10.5, 8.5, 10, 7, 9.5, 6.5, 7.5, 9, 8, 13, 11, 12]",M
+227,1004,sjp by sarah jessica parker,"[Heels, Shoes]",AVpe4TFGilAPnD_xP6dt,Naomi,201.99,USD,2016-05-07T00:00:00Z,"[38.5, 36, 39, 38]",IDK
+228,100401,asics,[Shoes],AVpe4z4ILJeJML43xixl,Blazingfast���,44.99,USD,2016-04-10T00:00:00Z,"[10.5, 7, 9.5, 13, 14, 12]",IDK
+229,100403,sole senseability,[Shoes],AVpe4z6vilAPnD_xQHVQ,Sole (sense)ability Women's Ballet Flats,25.99,USD,2015-09-14T00:00:00Z,[7],IDK
+230,100404,nike,"[Girls' Shoes, Kids, Shoes, Sneakers Athletic]",AVpe4zFJ1cnluZ0-ZD72,'free 5.0' Sneaker (big Kid),54.0,USD,2015-11-08T00:00:00Z,"[4 M, 5 M, 6 M, 4.5 M, 5.5 M, 3.5 M]",W
+231,100405,sorel,"[Shoes, Flats]",AVpe4zFP1cnluZ0-ZD78,Yaquina Moc���,35.99,USD,2015-10-21T00:00:00Z,"[10.5, 10, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8]",IDK
+232,100408,kate spade new york,"[Party Evening, Women, Pumps, Shoes]",AVpe4zehilAPnD_xQHKR,'angelique' Mary Jane Pump (women),350.0,USD,2015-10-15T00:00:00Z,"[10.5, 10, 8.5, 5.5, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8, 11]",W
+233,100410,tundra boots kids,"[Shoes, Boots]",AVpe4zjBilAPnD_xQHMk,Lucky 5 (toddler),59.95,USD,2016-05-05T00:00:00Z,,IDK
+234,100411,kennel & schmenger,[Shoes],AVpe4zyY1cnluZ0-ZENP,Scoop Slip-on Sneaker,131.99,USD,2016-05-07T00:00:00Z,,IDK
+235,100413,annie,"[Heels, Shoes]",AVpe5-_w1cnluZ0-Zgkm,Kix,44.99,USD,2016-04-02T00:00:00Z,"[8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 12]",IDK
+236,100414,j renee,[shoes],AVpe5-oRilAPnD_xQjfi,J. Renee Ditte Pumps,89.0,USD,2015-05-31T18:18:22.691Z,,IDK
+237,100415,dc kids,[Shoes],AVpe5-pG1cnluZ0-Zgdl,Spartan High Se (little Kid),32.99,USD,2016-01-11T00:00:00Z,,IDK
+238,100419,volatile,[Shoes],AVpe50ozLJeJML43x7Z0,Dip,25.99,USD,2016-05-05T00:00:00Z,"[10, 8.5, 7, 6, 6.5, 7.5, 9, 8]",IDK
+239,100420,badgley mischka,"[women, Shoes, Pumps, Peep Toe]",AVpe50wVLJeJML43x7ch,'petal' Pump,157.05,USD,2015-05-19T18:01:24.379Z,"[5, 8.5, 10, 7, 9.5, 6.5, 7.5, 8, 11]",W
+240,100427,patrizia,"[Shoes, Boots]",AVpe52gOLJeJML43x8F0,Chateau,24.99,USD,2016-05-05T00:00:00Z,,IDK
+241,100428,taos footwear,"[Shoes, Boots]",AVpe52sj1cnluZ0-Zdjl,Artisan,141.99,USD,2016-05-05T00:00:00Z,"[42, 41, 40, 36, 39, 37, 38]",IDK
+242,10043,keds,[Shoes],AVpfHgWZ1cnluZ0-eReC,Double Up Seasonal Solids,29.99,USD,2015-10-14T00:00:00Z,"[8.5, 5.5, 7, 9.5, 5, 6.5, 7.5, 9]",IDK
+243,100431,puma,[Finish Line Athletic Shoes],AVpe53n11cnluZ0-Zd10,Puma Boys' Cabana Racer Superman Running Sneakers From Finish Line,44.99,USD,2016-03-01T00:00:00Z,,IDK
+244,100436,tommy bahama,[Shoes],AVpe562QLJeJML43x9ou,Beach Drifter,27.99,USD,2015-10-28T00:00:00Z,"[10.5, 8.5, 9, 8, 12]",IDK
+245,100437,crocs,"[Sandals, Shoes]",AVpe56E41cnluZ0-Zevj,A-leigh Cork Wrap Wedge,19.5,USD,2016-04-29T00:00:00Z,[11],IDK
+246,100439,jumping jacks,"[Kids, Shoes, Girls' Shoes, Boots Booties]",AVpe56ZJ1cnluZ0-Ze3X,"'miranda' Boot (toddler, Little Kid Big Kid)",44.95,USD,2015-11-05T00:00:00Z,,W
+247,100441,original penguin,"[Sandals, Shoes]",AVpe56lDLJeJML43x9h7,Sripe Thong,14.99,USD,2015-10-28T00:00:00Z,"[10, 7, 9, 8, 13, 11, 12]",IDK
+248,100442,nike,"[Shoes, Men, Athletic]",AVpe57501cnluZ0-ZfcB,Hypervenom Running Trainers 747139 Sneakers,109.99,USD,2016-01-16T00:00:00Z,,M
+249,100444,reebok kids,[Shoes],AVpe57HVilAPnD_xQiK1,Zigtech Big N Fast Ex (big Kid),79.99,USD,2016-02-13T00:00:00Z,,IDK
+250,100445,woolrich,"[Shoes, Boots]",AVpe57OhLJeJML43x9xI,Rockies,200.0,USD,2016-06-20T00:00:00Z,"[10.5, 10, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+251,100447,dance class,"[Athletic, Women, Shoes]",AVpe57f-1cnluZ0-ZfSY,Dance Class Women's Gb101 Spandex Gore Jazz Shoe,24.99,USD,2016-05-11T00:00:00Z,,W
+252,100448,nike,[Shoes],AVpe57oYilAPnD_xQiXO,Tiempo Mystic V Fg,68.0,USD,2016-06-19T00:00:00Z,"[10.5, 8.5, 10, 7, 6, 9.5, 6.5, 7.5, 12.5, 9, 11.5, 8, 13, 11, 12]",IDK
+253,100449,lucky brand,[shoes],AVpe583s1cnluZ0-Zfyt,Lucky Brand Deldonna Flat Sandals,49.0,USD,2015-05-11T18:03:38.469Z,,IDK
+254,100450,frye,[Girls' Shoes],AVpe584SLJeJML43x-ZT,Greene Low Lace Tod/pre,42.98,USD,2015-07-19T05:00:00Z,,W
+255,100453,adidas running,[Shoes],AVpe58IdLJeJML43x-Hb,Slingshot Trail,44.99,USD,2016-06-14T00:00:00Z,"[10.5, 10, 8.5, 7, 9.5, 6.5, 7.5, 12.5, 11.5, 9, 8, 13, 12]",IDK
+256,100457,nike,"[Academy, Men's Training Shoes, Footwear, Men's Shoes]",AVpe58YFilAPnD_xQioq,Nike Men's Air Max Effort Tr Amp Training Shoes,109.99,USD,2015-11-08T00:00:00Z,,M
+257,100458,j renee,[shoes],AVpe58jyLJeJML43x-Rd,J. Rene Cally Ankle Boots,77.99,USD,2015-05-27T18:14:17.700Z,,IDK
+258,10046,marc by marc jacobs,"[Women, Contemporary, Shoes, Sneakers]",AVpfHgmZLJeJML432v5b,'broome' Slip-on Sneaker (women),166.16,USD,2015-11-05T00:00:00Z,,W
+259,100460,cienta,[Girls' Shoes],AVpe58utLJeJML43x-Vh,Mary Jane Sparkle,36.95,USD,2015-07-18T05:00:00Z,,W
+260,100461,rocket dog,[Women's Shoes],AVpe58w4ilAPnD_xQix9,Canna Espadrille Flat,39.95,USD,2015-07-15T05:00:00Z,"[5M, 5.5M, 6M, 6.5M, 7M, 7.5M, 8M, 8.5M, 9M, 9.5M, 10M, 11M, 12M, 13M, 14M, 15M]",W
+261,100463,alegria,"[Shoes, Boots]",AVpe59Cd1cnluZ0-Zf2z,Kylie,59.99,USD,2016-05-05T00:00:00Z,,IDK
+262,100465,dr. martens work,"[Shoes, Men's Shoes, Men's Boots, Men's Casual Shoes]",AVpe59NELJeJML43x-hI,Dr. Martens Work Dr. Martens 939 8 Eye Lace Up Casual Boot Shoe - Mens,125.0,USD,2016-03-15T00:00:00Z,,M
+263,100466,dockers,"[Sandals, Shoes]",AVpe59RsilAPnD_xQi-V,Covena,39.99,USD,2016-06-19T00:00:00Z,"[10, 7, 9, 8, 13, 11, 12]",IDK
+264,100467,gabriela hearst,"[Collections, Women, The White Steps, Shoes, Platforms]",AVpe59T2ilAPnD_xQi_O,Holloway Mule Booties,795.0,USD,2016-07-09T00:00:00Z,"[7, 6, 6.5, 7.5, 9, 8]",W
+265,100469,calvin klein,"[Loafers, Shoes]",AVpe59euLJeJML43x-nh,Michael,49.99,USD,2016-02-05T00:00:00Z,"[10.5, 10, 8.5, 7, 9.5, 7.5, 11.5, 9, 8, 13, 11, 12]",IDK
+266,100470,keen kids,"[Sandals, Drama, Short, Shoes]",AVpe59fk1cnluZ0-ZgCN,Newport H2 (toddler),32.99,USD,2015-10-20T00:00:00Z,,IDK
+267,100472,geox kids,[Shoes],AVpe59pBLJeJML43x-q3,Jr Android Boy 1 (little Kid/big Kid),39.99,USD,2015-08-25T00:00:00Z,,IDK
+268,100473,ugg,"[Shoes, Boots]",AVpe59pQLJeJML43x-q-,Myrna,112.99,USD,2016-05-05T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8, 11, 12]",IDK
+269,100476,naturino,"[Shoes, Flats]",AVpe5ABVLJeJML43xnhA,Nat. 8083 (toddler/little Kid),30.99,USD,2016-04-29T00:00:00Z,,IDK
+270,100479,onitsuka tiger by asics,[Shoes],AVpe5APD1cnluZ0-ZJCQ,Ultimate 81��,40.99,USD,2015-08-24T00:00:00Z,,IDK
+271,100480,keen kids,"[Sandals, Shoes]",AVpe5AUnLJeJML43xnoB,Riley (toddler),22.99,USD,2016-03-22T00:00:00Z,,IDK
+272,100483,j. shoes,"[Shoes, Boots]",AVpe5AmWLJeJML43xnvW,Barbican,92.99,USD,2016-05-05T00:00:00Z,"[10.5, 8.5, 9.5, 11.5, 9, 11]",IDK
+273,100484,kenneth cole reaction kids,"[Sandals, Shoes]",AVpe5ArcLJeJML43xnw0,Always Loud (little Kid/big Kid),30.44,USD,2016-02-05T00:00:00Z,,IDK
+274,100485,cole haan,"[Shoes, Heels]",AVpe5AreilAPnD_xQMQg,Cole Haan Bethany Pump 85,200.99,USD,2016-06-27T00:00:00Z,,IDK
+275,100487,lauren by ralph lauren,"[Sandals, Shoes]",AVpe5Az81cnluZ0-ZJQe,Cheryl,40.99,USD,2016-01-11T00:00:00Z,"[10, 5.5, 8.5, 7, 6, 5, 9.5, 7.5, 9, 8, 11]",IDK
+276,100488,bongo,"[Women's Dress Shoes, Shoes, Women's Shoes]",AVpe5AzXilAPnD_xQMTc,Bongo Women's Tiffani Blue Mary Jane Pump,24.99,USD,2016-03-17T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",W
+277,100489,u.s. polo assn.,[Shoes],AVpe5B0y1cnluZ0-ZJoS,U.s. Polo Assn. Women's Heather,29.24,USD,2015-09-15T00:00:00Z,,IDK
+278,10049,cole haan,"[Heels, Shoes]",AVpfHh4z1cnluZ0-eR_u,Amavia High Sandal,91.2,USD,2016-05-05T00:00:00Z,"[10.5, 10, 8.5, 5.5, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8, 11]",IDK
+279,100491,nike,[Shoes],AVpe5BQwLJeJML43xn_x,Air Mavin Low Nbk,60.0,USD,2016-03-18T00:00:00Z,"[10.5, 8.5, 9.5, 15, 13, 14, 11, 12, 10, 7, 6, 6.5, 7.5, 12.5, 11.5, 9, 8]",IDK
+280,100492,ralph lauren,"[Little Kid 10.5 - 3, Shoes, Children]",AVpe5BdE1cnluZ0-ZJgX,Scholar Sneaker,40.0,USD,2016-02-21T00:00:00Z,"[10.5, 2.5, 3, 2, 1, 1.5, 12.5, 11.5, 13, 13.5, 11, 12]",IDK
+281,100493,nike,"[Athletic, Skateboarding, Men, Shoes]",AVpe5BpY1cnluZ0-ZJkr,Nike Mens Zoom Stefan Janoski L Sneakers,75.0,USD,2015-04-21T09:16:09.207Z,,M
+282,100497,josef seibel,[Shoes],AVpe5CISLJeJML43xoSB,Emma 09,40.5,USD,2016-04-01T00:00:00Z,,IDK
+283,100499,new balance,[Shoes],AVpe5Cw3ilAPnD_xQM_M,W850v1,44.99,USD,2015-10-28T00:00:00Z,"[10.5, 5.5, 8.5, 9.5, 11, 12, 10, 7, 6, 5, 6.5, 7.5, 9, 8]",IDK
+284,100501,sam edelman,"[Shoes, Flats]",AVpe5D3_LJeJML43xo8O,Rae,110.0,USD,2016-06-19T00:00:00Z,"[10.5, 8.5, 5.5, 9.5, 4.5, 11, 12, 10, 7, 6, 5, 6.5, 4, 7.5, 9, 8]",IDK
+285,100502,new balance,[Shoes],AVpe5D55ilAPnD_xQNba,Nb501,44.99,USD,2016-05-22T00:00:00Z,"[10.5, 8.5, 9.5, 15, 13, 14, 11, 12, 10, 7, 7.5, 11.5, 9, 8]",IDK
+286,100506,sebago,"[Oxfords, Shoes]",AVpe5Dsl1cnluZ0-ZKS9,Norwich Oxford,49.99,USD,2016-04-05T00:00:00Z,"[10.5, 8.5, 9.5, M, 13, 14, 11, 12, W, 10, 7, 7.5, 11.5, 9, 8]",IDK
+287,100511,rieker,"[Shoes, Boots]",AVpe5ETpilAPnD_xQNlc,Z9531 Faith 31,84.99,USD,2016-05-21T00:00:00Z,,IDK
+288,100512,le chameau,"[Shoes, Boots]",AVpe5EY9ilAPnD_xQNnu,Paris Ld,107.99,USD,2016-05-05T00:00:00Z,,IDK
+289,100515,wolverine,"[Shoes, Boots]",AVpe5F0_ilAPnD_xQOMG,Mansard Comp Toe Mid-cut Hiker,101.01,USD,2016-04-05T00:00:00Z,"[7, 9.5, 7.5, 11.5, 9, 8, 13]",IDK
+290,100516,bcbgeneration,"[Heels, Shoes]",AVpe5F2F1cnluZ0-ZLKg,Sochi,54.99,USD,2016-01-11T00:00:00Z,"[5.5, 8.5, 10, 7, 9.5, 7.5, 9, 8]",IDK
+291,100519,johnston & murphy,"[Sandals, Shoes]",AVpe5FNZLJeJML43xpc8,Tricia Double Strap Slide,59.99,USD,2016-03-30T00:00:00Z,"[10, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8]",IDK
+292,100523,lacoste,"[Men, Shoes, Sneakers Athletic, Sneakers]",AVpe5FyQ1cnluZ0-ZLI_,'bayliss' Sneaker (men),89.95,USD,2015-11-08T00:00:00Z,"[7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11.5, 12, 13]",M
+293,100525,matisse,"[Booties, Women, Ankle, Shoes]",AVpe5G_qLJeJML43xqJd,'galveston' Western Bootie (women),101.96,USD,2015-11-08T00:00:00Z,"[7.5, 8]",W
+294,100529,romika,"[Sandals, Shoes]",AVpe5HGJ1cnluZ0-ZLnV,Mokassetta 244,52.99,USD,2016-04-09T00:00:00Z,,IDK
+295,100530,aerosoles,"[Shoes, Boots]",AVpe5HLlLJeJML43xqOV,Entorage,58.09,USD,2015-10-14T00:00:00Z,"[7, 9.5, 5, 9, 8, 11]",IDK
+296,100533,crocs kids,"[Shoes, Flats]",AVpe5HdNilAPnD_xQO0N,Keeley Flat Bow Charm Hi Glitter (toddler/little Kid),24.81,USD,2016-05-05T00:00:00Z,,IDK
+297,100534,rieker,"[Sandals, Shoes]",AVpe5HfVLJeJML43xqVz,D1625 Doris 25,56.99,USD,2016-04-09T00:00:00Z,,IDK
+298,100535,dr. martens kid\'s collection,"[Shoes, Boots]",AVpe5HkxLJeJML43xqX3,Bunny B (toddler),39.99,USD,2016-05-06T00:00:00Z,,IDK
+299,100537,magid glove safety,"[Men's Boots, Shoes, Men's Shoes]",AVpe5ICEilAPnD_xQPCi,Magid Glove Safety Magid Sc11s Econowear Disposable Tyvek Elastic Shoe Cover Small White (bag of 25 Pairs),79.37,USD,2016-03-30T00:00:00Z,,M
+300,10054,cole haan,[shoes],AVpfHhmzLJeJML432wQC,Cole Haan Air Bria Flat Sandals,49.99,USD,2015-05-31T18:05:50.705Z,,IDK
+301,100540,frye,"[Loafers, Shoes]",AVpe5IpYilAPnD_xQPRo,Janet Tie,74.99,USD,2016-05-22T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+302,100542,bc footwear,"[Boots Under 100, New Arrivals, Shoes, Boots]",AVpe5Ir-LJeJML43xqy-,'cousin' Tall Boot (women),83.96,USD,2015-11-08T00:00:00Z,"[8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8]",IDK
+303,100543,frye,[Shoes],AVpe5ItnilAPnD_xQPTN,Gavin Slip-on,69.99,USD,2016-05-22T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+304,100545,sperry kids,"[kids, Boys' Shoes, Dress, Shoes]",AVpe5Iu_LJeJML43xq0f,"'bluefish' Boat Shoe (toddler, Little Kid Big Kid)",59.95,USD,2015-11-08T00:00:00Z,"[5 M, 1.5 M, 2.5 M, 13 M, 7 M, 12 M, 13.5 M, 11.5 M, 1 M, 5.5 M, 12.5 M, 3 M, 4 M, 2 M, 6 M, 4.5 M, 3.5 M]",M
+305,100548,frye,"[Shoes, Boots]",AVpe5JOlilAPnD_xQPfK,Felicity Lace Up,187.0,USD,2016-05-22T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+306,10055,new balance,[Shoes],AVpfHhpxilAPnD_xVUIy,Wc1005,62.99,USD,2016-05-22T00:00:00Z,"[10.5, 5.5, 8.5, 9.5, 11, 12, 10, 7, 6, 5, 6.5, 7.5, 9, 8]",IDK
+307,100551,skechers,"[Loafers, Shoes]",AVpe5J_5LJeJML43xrPg,Expected - Robino,49.99,USD,2016-05-07T00:00:00Z,"[10.5, 10, 11]",IDK
+308,100552,puma,[Shoes],AVpe5J_kilAPnD_xQPuu,Basket Matte & Shine,49.99,USD,2016-05-22T00:00:00Z,"[10.5, 10, 8.5, 7, 9.5, 7.5, 9, 8, 11]",IDK
+309,100553,walking cradles,"[Loafers, Shoes]",AVpe5Jg-ilAPnD_xQPlq,Marble,44.99,USD,2016-05-22T00:00:00Z,"[5.5, 8.5, 9.5, 13, 11, 12, 10, 7, 6, 6.5, 7.5, 9, 8]",IDK
+310,100554,fidji,"[Shoes, Women, Boots]",AVpe5Ji5LJeJML43xrGk,Fidji Women's L863 Boot,66.01,USD,2015-09-19T00:00:00Z,,W
+311,100555,stride rite,"[Shoes, Flats]",AVpe5JmVilAPnD_xQPnN,Esme (toddler/little Kid),21.99,USD,2016-01-11T00:00:00Z,,IDK
+312,100556,brooks,"[Women, Fashion Sneakers, Shoes]",AVpe5Jmt1cnluZ0-ZMh-,Brooks Women's Adrenaline Gts 15 Shoes White/dazzling Blue/sharp Green,84.99,USD,2016-01-03T00:00:00Z,,W
+313,100557,starbay,"[Shoes, Girls, Athletic, Water Shoes]",AVpe5Jo91cnluZ0-ZMi5,Starbay Children's Slip-on Athletic Water Shoes / Aqua Socks,9.95,USD,2016-05-14T00:00:00Z,,W
+314,100558,asics,"[shoes women extended sizes, shoes]",AVpe5JtLilAPnD_xQPow,Asics Women's Gel-fit Nova Training Shoes,90.0,USD,2015-06-01T07:17:34.209Z,,W
+315,100559,dan post kids,"[Shoes, Boots]",AVpe5JtWilAPnD_xQPo3,Lil\' Blue (big Kid),55.99,USD,2016-05-05T00:00:00Z,,IDK
+316,10056,versace,[shoes],AVpfHhrFLJeJML432wRW,Versace Ve 3105 Eyeglasses,142.99,USD,2015-02-24T21:24:53.805Z,,IDK
+317,100568,lacoste,[Girls' Shoes],AVpe5KY61cnluZ0-ZMzQ,Kids' Marice Stripe Slip-on Sneaker Toddler,37.99,USD,2015-08-13T00:00:00Z,"[7.5M, 8.5M, 9M, 10M, 8M, 9.5M, 10.5M]",W
+318,100569,converse,[Shoes],AVpe5KYjLJeJML43xrY4,Converse Chuck Taylor All Star Toe Cap Ox,34.99,USD,2016-06-26T00:00:00Z,,IDK
+319,10057,lifestride,"[Shoes, Boots]",AVpfHhrxilAPnD_xVUJw,Maximize,40.0,USD,2016-05-20T00:00:00Z,"[5.5, 8.5, 10, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8, 11]",IDK
+320,100571,reebok,"[Footwear, Men's Footwear, Men's Athletic Shoes, Road Running]",AVpe5KigilAPnD_xQP7q,Reebok Men's Zprint Running Shoe,79.99,USD,2016-03-15T00:00:00Z,,M
+321,100572,simpson racing equipment,[Driving Shoes],AVpe5Ksm1cnluZ0-ZM7H,Simpson Racing Equipment 28100bk High Top Shoe Size 10 Black,98.95,USD,2016-12-04T19:14:47Z,,IDK
+322,100577,new balance,"[Academy, Men's Training Shoes, Footwear, Men's Shoes]",AVpe5LR7LJeJML43xrvJ,New Balance Men's 630 Training Shoes,44.98,USD,2015-11-07T00:00:00Z,,M
+323,100580,rsvp,"[Sandals, Shoes]",AVpe5M351cnluZ0-ZNxt,Bryn,21.39,USD,2016-05-05T00:00:00Z,"[10, 9]",IDK
+324,100583,guess,"[Heels, Shoes]",AVpe5MYKilAPnD_xQQol,Adalie,38.99,USD,2015-10-28T00:00:00Z,"[5.5, 8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8]",IDK
+325,100585,john varvatos,"[Shoes, Boots]",AVpe5MlYLJeJML43xsPg,Strummer Twisted Lace Boot,234.99,USD,2016-04-02T00:00:00Z,"[10.5, 7, 9.5, 7.5, 11.5, 13, 12]",IDK
+326,100586,converse,[shoes],AVpe5MsDilAPnD_xQQxZ,Converse Infants/toddlers Chuck Taylor Ox,39.95,USD,2015-04-19T08:25:33.822Z,,IDK
+327,10059,vaneli,"[Heels, Sci-Fi, Shoes, Drama]",AVpfHiUI1cnluZ0-eSHz,Marilyn,50.99,USD,2015-10-21T00:00:00Z,"[5.5, 8.5, 9.5, 10, 7, 6, 5, 6.5, 7.5, 9, 8]",IDK
+328,100590,jack wolfskin,[Shoes],AVpe5NJwLJeJML43xsdv,Laconia Low,31.98,USD,2016-04-02T00:00:00Z,"[8.5, 9.5, 11, 10, 6, 7.5, 9, 8]",IDK
+329,100591,eileen fisher,"[DOrsay, Shoes, Flats]",AVpe5NNmLJeJML43xsfl,'allot' Flat,195.0,USD,2015-11-05T00:00:00Z,"[5.5, 8.5, 10, 7, 6, 5, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+330,100592,ecco sport,"[Sandals, Shoes]",AVpe5NSE1cnluZ0-ZN8g,Cruise Strap Sandal,58.5,USD,2016-05-06T00:00:00Z,,IDK
+331,100596,stride rite,"[Shoes, Flats]",AVpe5NhE1cnluZ0-ZOCE,Haylie (toddler/little Kid),27.99,USD,2016-05-07T00:00:00Z,,IDK
+332,100597,tod's,"[Men, Shoes, Drivers]",AVpe5NxbilAPnD_xQRMs,Suede Tie Drivers,445.0,USD,2016-05-30T00:00:00Z,"[6, 7, 8, 9, 10, 11, 12, 13, 6.5, 7.5, 8.5, 9.5, 10.5, 11.5]",M
+333,100598,geox kids,[Shoes],AVpe5O521cnluZ0-ZOj5,Jr Sofia 22 (little Kid),56.6,USD,2015-09-08T00:00:00Z,,IDK
+334,10060,frye,"[Shoes, Boots]",AVpfHiYAilAPnD_xVUXW,Campus 14l,179.99,USD,2016-05-22T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+335,100600,michael michael kors,[shoes],AVpe5OEMilAPnD_xQRUF,'flex' Pointy Toe Pump,74.21,USD,2015-06-10T05:00:00Z,[10],IDK
+336,100601,mootsies tootsies,"[Sandals, Shoes]",AVpe5OTlilAPnD_xQRaA,Mozavia3,30.99,USD,2016-05-07T00:00:00Z,[10],IDK
+337,100604,messico,"[Shoes, Boots]",AVpe5Ol3ilAPnD_xQRhW,Garra Welt,62.99,USD,2016-05-05T00:00:00Z,"[10.5, 10, 11.5, 9, 13, 12]",IDK
+338,100606,born,[Women's Shoes],AVpe5OyoLJeJML43xtF5,Sorja,70.97,USD,2015-08-13T00:00:00Z,[9M],W
+339,100607,adidas outdoor,[Shoes],AVpe5OzA1cnluZ0-ZOhD,Terrex Fast R W,74.25,USD,2016-03-21T00:00:00Z,"[10.5, 7.5, 6]",IDK
+340,10061,under armour,"[Men's Shoes, Running Shoes]",AVpfHisNilAPnD_xVUcz,Under Armour Men's Micro G Attack Running Shoes,84.99,USD,2016-01-27T00:00:00Z,,M
+341,100610,saucony,"[Kids, Boys' Shoes, Shoes, Sneakers Athletic]",AVpe5PauLJeJML43xtWG,"'kotaro' Sneaker (toddler, Little Kid Big Kid)",34.47,USD,2015-11-08T00:00:00Z,"[5 W, 10.5 M]",M
+342,100612,tod's,[shoes],AVpe5PnRilAPnD_xQR6H,Safety-pin Fringed Leather Drivers,565.0,USD,2015-05-15T18:10:17.548Z,[36 6],IDK
+343,100613,naya,"[Shoes, Boots]",AVpe5PtsilAPnD_xQR8g,Valerie,79.99,USD,2016-01-11T00:00:00Z,"[6, 6.5, 11]",IDK
+344,100614,narciso rodriguez,"[Heels, Women, Sandals, Shoes]",AVpe5PvZ1cnluZ0-ZO42,Alba Wedge Sandals,319.0,USD,2016-06-20T00:00:00Z,"[8.5, 10, 7, 6, 9.5, 7.5, 9, 8]",W
+345,100618,pleaser,"[Shoes, Women's Shoes]",AVpe5QAL1cnluZ0-ZO_X,Pleaser Women's Gorgeous-20 Shoes Pleaser Day Night,34.95,USD,2016-03-21T00:00:00Z,"[10, 7, 6, 5, 9, 8, 11]",W
+346,100619,vidorreta,"[Sandals, Shoes]",AVpe5QARLJeJML43xtkJ,Georgee,42.25,USD,2016-03-29T00:00:00Z,,IDK
+347,10062,vans,"[Men, Shoes, Sneakers]",AVpfHj0Y1cnluZ0-eSlE,Og Slip-on 59 Lx Sneakers,49.0,USD,2016-08-22T00:00:00Z,"[7, 8, 9, 10, 11, 12, 13, 8.5, 9.5, 10.5, 11.5]",M
+348,100620,converse kids,[Shoes],AVpe5QBM1cnluZ0-ZO_e,Chuck Taylor�� All Star�� Ox (little Kid),26.99,USD,2016-02-07T00:00:00Z,,IDK
+349,100623,new balance,[Shoes],AVpe5QQU1cnluZ0-ZPFl,Sd400v2,69.99,USD,2016-05-05T00:00:00Z,"[10.5, 8.5, 10, 7, 9.5, 7.5, 12.5, 9, 11.5, 8, 11, 12]",IDK
+350,100625,vis a vis,"[Women, Shoes, Flats, Shop by Department, Pointed Toe]",AVpe5QblLJeJML43xtuJ,Vis--vis 'cadee' Pointy Toe Flat (women),65.9,USD,2015-11-07T00:00:00Z,"[10, 8.5, 7, 6, 6.5, 7.5, 9, 8]",W
+351,100626,skechers,[Walking Shoes],AVpe5QjDilAPnD_xQSRK,Elite Caliber,64.95,USD,2015-07-18T05:00:00Z,"[5.5M, 6.5M, 7.5M, 7M, 8.5M, 6M, 11M, 10M, 9M, 8M, 9.5M, 5M]",IDK
+352,100629,sebago,"[Sebago, Boat Shoes, Men, Shoes]",AVpe5Qr8ilAPnD_xQSUj,'grinder' Boat Shoe,62.98,USD,2015-11-08T00:00:00Z,[8],M
+353,10063,chinese laundry,"[Heels, Shoes]",AVpfHj44LJeJML432w9E,Isabel,32.99,USD,2016-02-09T00:00:00Z,"[8.5, 10, 7.5, 9]",IDK
+354,100633,spenco,[shoes],AVpe5R8J1cnluZ0-ZPsL,Spenco Siesta Slip-on Shoes - Mens,19.99,USD,2015-01-15T22:17:34.322Z,,IDK
+355,100634,massimo matteo,"[Oxfords, Shoes]",AVpe5RDeLJeJML43xt9e,5-eye Lace Up,79.99,USD,2016-05-05T00:00:00Z,"[10.5, 8.5, 10, 7, 9.5, 7.5, 9, 11.5, 8, 13, 11, 12]",IDK
+356,100636,rieker,"[Heels, Shoes]",AVpe5RX_LJeJML43xuC9,67357 Aileen 57,36.0,USD,2016-02-05T00:00:00Z,,IDK
+357,100637,fitzwell,"[Sandals, Shoes]",AVpe5RYVLJeJML43xuDJ,Cola,23.7,USD,2016-04-01T00:00:00Z,"[5.5, 8.5, 9.5, M, 4.5, 13, 11, 12, W, 10, 7, 6, 5, 4, 6.5, 7.5, 9, 8]",IDK
+358,100638,aldo,"[Men, Shoes, Sneakers Athletic, Sneakers]",AVpe5Rbh1cnluZ0-ZPfh,'miriria' Sneaker (men),44.98,USD,2015-11-07T00:00:00Z,,M
+359,100639,adidas y-3 by yohji yamamoto,[Shoes],AVpe5Rbo1cnluZ0-ZPfn,Honja High,135.99,USD,2016-03-21T00:00:00Z,,IDK
+360,100642,magnanni,"[Loafers, Shoes]",AVpe5RgX1cnluZ0-ZPiE,Turia,275.99,USD,2016-04-01T00:00:00Z,"[10.5, 10, 8.5, 7, 9.5, 7.5, 11.5, 9, 8, 13, 14, 11, 12]",IDK
+361,100644,jessica simpson,"[Heels, Shoes]",AVpe5RkeilAPnD_xQSnY,Bette,89.0,USD,2016-04-02T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8]",IDK
+362,100645,candie's,[Shoes],AVpe5RoFilAPnD_xQSpR,Women's Strappy Buckle Sandals,29.99,USD,2015-07-06T05:00:00Z,"[5 MED, 6 MED, 6.5 MED, 7 MED, 7.5 MED, 8 MED, 8.5 MED, 9 MED, 9.5 MED]",IDK
+363,100647,sam edelman,"[Sandals, Shoes]",AVpe5S3SilAPnD_xQTGa,Katarina,47.99,USD,2016-05-05T00:00:00Z,"[10.5, 10, 8.5, 5.5, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8, 11]",IDK
+364,100648,no brand,[shoes],AVpe5S61LJeJML43xupQ,Women's Alana Winter Sport Boot,17.48,USD,2015-04-21T17:37:40.565Z,[6],IDK
+365,10065,jd fisk,"[Fantasy, Animation, Shoes, Adventure, Boots, Horror]",AVpfHjUb1cnluZ0-eSa8,Cobra,134.9,USD,2015-10-21T00:00:00Z,[9.5],IDK
+366,100651,nike,"[Academy, Footwear, Women's Walking Shoes, Women's Shoes]",AVpe5SpZilAPnD_xQTBA,Nike Women's View Iii Walking Shoes,34.98,USD,2015-11-07T00:00:00Z,,W
+367,100656,converse,[Shoes],AVpe5TPs1cnluZ0-ZQMC,All Star Pigment Dyed Canvas,39.99,USD,2016-03-30T00:00:00Z,,IDK
+368,100658,gb,[shoes],AVpe5TWnilAPnD_xQTTN,Gb Well-known T-strap Wedge Sandals,69.99,USD,2015-05-31T18:14:56.989Z,,IDK
+369,100659,penny loves kenny,"[Heels, Shoes]",AVpe5TWs1cnluZ0-ZQOw,Event,42.98,USD,2015-10-14T00:00:00Z,"[5.5, 6, 7.5]",IDK
+370,10066,onitsuka tiger by asics,[Shoes],AVpfHjUx1cnluZ0-eSbG,Gel-lyte��� Iii,72.64,USD,2016-05-06T00:00:00Z,,IDK
+371,100660,giuseppe zanotti,"[Women, Shoes, Heels, Sandals]",AVpe5TZVLJeJML43xu1k,Cruel Sandals,1595.0,USD,2016-06-03T00:00:00Z,"[6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11]",W
+372,100670,christian louboutin,"[Heels, Pump, Women, Shoes]",AVpe5Ufn1cnluZ0-ZQrK,Beloved Pumps,1045.0,USD,2016-06-04T00:00:00Z,"[10.5, 10, 8.5, 5.5, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8, 11]",W
+373,100671,nike,"[Academy, Back To School Shoes, Canvas Shoes]",AVpe5Uqm1cnluZ0-ZQvL,Nike Men's Portmore Ultralight Skate Shoes,59.99,USD,2016-07-13T00:00:00Z,,IDK
+374,100672,alegria,"[Loafers, Shoes, Short]",AVpe5UsD1cnluZ0-ZQv7,Aaron,32.49,USD,2015-10-20T00:00:00Z,,IDK
+375,100673,geox,[Shoes],AVpe5V5G1cnluZ0-ZRPM,U Mattias B Abx 2,136.36,USD,2015-10-14T00:00:00Z,,IDK
+376,100674,ralph lauren,"[Kids, Boys' Shoes]",AVpe5V5JilAPnD_xQUSK,"'sander' Boat Shoe (baby, Walker, Toddler, Little Kid & Big Kid)",44.95,USD,2016-03-29T00:00:00Z,,M
+377,100677,cl by laundry,"[Shoes, Boots]",AVpe5V8RLJeJML43xv1M,Z Shannon,24.99,USD,2016-05-07T00:00:00Z,"[8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+378,100678,dr. martens kid\'s collection,"[Shoes, Boots]",AVpe5VQQilAPnD_xQUCA,Corlaney Quilted Boot (little Kid/big Kid),66.99,USD,2016-05-05T00:00:00Z,,IDK
+379,100680,magnanni,[men shoes],AVpe5VUqLJeJML43xvk5,Magnanni Men's Dante Dress Oxfords,299.0,USD,2015-04-26T22:22:15.603Z,,IDK
+380,100683,adidas outdoor,[Shoes],AVpe5VaNilAPnD_xQUF4,Terrex Fast X Gtx®,165.0,USD,2016-04-02T00:00:00Z,"[10.5, 10, 7, 6, 6.5, 7.5, 11.5, 9, 11, 12]",IDK
+381,100685,ralph lauren,"[Baby Walker Shoes, Baby (size 0-4), Kids, Shoes]",AVpe5VxeLJeJML43xvwU,Layette 'jermaine' Crib Shoe (baby),40.0,USD,2015-11-07T00:00:00Z,"[3 M, 4 M, 2 M, 1 M]",IDK
+382,100688,moon boot,"[Men, Shoes, Outdoor, Snow Boots]",AVpe5W3WilAPnD_xQUq9,Mens Tecnica Moon Boot Nylon Waterproof Mid Calf Snow Winter Rain Boot,89.99,USD,2016-05-14T00:00:00Z,,M
+383,100689,church's,"[Women, Shoes, Flats, Lace-Ups]",AVpe5W4bLJeJML43xwNb,Burwood Wingtip Oxfords,570.0,USD,2016-04-29T10:23:06Z,"[5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11]",W
+384,10069,dolce vita,"[Sandals, Shoes]",AVpfHju91cnluZ0-eSjW,Nolin,76.5,USD,2016-05-06T00:00:00Z,"[8.5, 10, 7, 6, 9.5, 7.5, 9, 8]",IDK
+385,100690,kenneth cole reaction,"[Sandals, Shoes]",AVpe5W7pLJeJML43xwOZ,Away Lay,19.99,USD,2015-10-28T00:00:00Z,"[10, 5.5, 8.5, 7, 6, 5, 6.5, 7.5, 9, 8]",IDK
+386,100693,lucky brand,"[Sandals, Shoes]",AVpe5WbVLJeJML43xwBu,Boop,35.99,USD,2015-10-21T00:00:00Z,"[8.5, 6]",IDK
+387,100694,b.o.c. kids,[Shoes],AVpe5WstilAPnD_xQUmy,Wynter (toddler/little Kid),32.3,USD,2015-08-20T00:00:00Z,,IDK
+388,100695,the row,"[Women, Shoes, Flats, Loafers]",AVpe5X-n1cnluZ0-ZSC2,Velvet Alys Venetian Loafers,975.0,USD,2016-05-15T12:16:02Z,"[5.5, 6.5, 7.5, 8.5, 9.5, 10.5, 6, 7, 8, 9, 10, 11]",W
+389,100698,cordani,"[Sandals, Shoes]",AVpe5X6u1cnluZ0-ZSBt,Westminster,56.25,USD,2016-05-22T00:00:00Z,,IDK
+390,1007,jessica simpson,"[Shoes, Boots]",AVpe4TQzLJeJML43xWDg,Calwell,49.99,USD,2016-05-20T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+391,10070,michael kors,"[Sandals, Shoes]",AVpfHjzSLJeJML432w7R,Halden,138.25,USD,2016-05-05T00:00:00Z,,IDK
+392,100700,maison margiela,"[Sneakers, Men, Shoes]",AVpe5XBTLJeJML43xwQ_,Future Ankle-strap Sneakers,895.0,USD,2016-05-30T00:00:00Z,"[10, 7, 6, 9, 8, 13, 14, 11, 12]",M
+393,100703,david tate,"[Women, Shoes, Pumps, Comfort]",AVpe5XGeLJeJML43xwSm,'vegas' Slingback (women),104.95,USD,2015-11-08T00:00:00Z,"[10.5, 5.5, 8.5, 9.5, 4.5, 13, 11, 12, 10, 7, 6, 5, 6.5, 4, 7.5, 9, 8]",W
+394,100704,merrell,"[Men, Shoes, Sneakers Athletic, Hiking]",AVpe5XLw1cnluZ0-ZRwX,'chameleon Shift Ventilator' Waterproof Hiking Shoe (men),140.0,USD,2015-11-08T00:00:00Z,"[10.5, 10, 8.5, 7, 9.5, 9, 8]",M
+395,100706,manebi,"[Women, Shoes, Espadrilles]",AVpe5XZ21cnluZ0-ZR1d,Amazonia Espadrilles,79.0,USD,2016-08-21T00:00:00Z,"[6, 7, 8, 9, 10, 11]",W
+396,100707,charles by charles david,"[Shoes, Boots]",AVpe5X_-ilAPnD_xQVF6,Kathy,175.96,USD,2016-05-05T00:00:00Z,"[8.5, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8]",IDK
+397,100711,camper,[Shoes],AVpe5Xuj1cnluZ0-ZR9b,Vela Vulcanizado - 18882,73.51,USD,2016-01-11T00:00:00Z,,IDK
+398,100714,donald j-pliner,[shoes],AVpe5XzN1cnluZ0-ZR_I,Donald J Pliner Monti Snake T-strap Dress Sandals,218.0,USD,2015-05-19T18:46:07.904Z,,IDK
+399,100716,toms,"[Women, Shoes, Low-Top, Shop by Department, Sneakers Athletic]",AVpe5YBCLJeJML43xwpm,'classic' Print Wool Slip-on,58.95,USD,2015-11-05T00:00:00Z,"[5.5, 8.5, 10, 7, 6, 5, 9.5, 6.5, 7.5, 9, 8, 11, 12]",W
+400,100718,globe,[Shoes],AVpe5YPdLJeJML43xwu-,The Sabbath,48.7,USD,2016-04-05T00:00:00Z,"[7, 11.5, 13, 14, 12]",IDK
+401,100720,vaneli,"[Shoes, Boots]",AVpe5YXI1cnluZ0-ZSNC,Granger,129.99,USD,2016-05-06T00:00:00Z,"[5.5, 8.5, 9.5, 4.5, 11, 12, 10, 7, 6, 5, 6.5, 4, 7.5, 9, 8]",IDK
+402,100721,naot footwear,"[Sandals, Shoes]",AVpe5YZe1cnluZ0-ZSN2,Dialogue,74.25,USD,2015-10-14T00:00:00Z,,IDK
+403,100722,sbicca,"[Sandals, Shoes]",AVpe5YZk1cnluZ0-ZSN5,Tortola,32.99,USD,2016-05-05T00:00:00Z,"[9, 8]",IDK
+404,100725,nike,"[Academy, Footwear, Girls' Shoes, Girls' Running Shoes]",AVpe5Yje1cnluZ0-ZSRl,Nike Girls' Dual Fusion Run 3 Flash Running Shoes,27.98,USD,2015-11-07T00:00:00Z,,W
+405,100727,teva,[Girls' Shoes],AVpe5YmWilAPnD_xQVVA,Zirra Sandal Toddler/pre/grade School,40.99,USD,2015-07-14T05:00:00Z,"[1M, 2M, 3M, 4M, 5M, 6M]",W
+406,100728,florsheim,"[Kids, Boys' Shoes, Shoes, Boots]",AVpe5Yo4LJeJML43xw5H,"Chelsea Boot (toddler, Little Kid Big Kid)",59.95,USD,2015-11-08T00:00:00Z,"[1.5 M, 2.5 M, 10 M, 13 M, 7 M, 10.5 M, 12 M, 11 M, 13.5 M, 5 M, 11.5 M, 1 M, 5.5 M, 3 M, 12.5 M, 4 M, 2 M, 6.5 M, 6 M, 4.5 M, 3.5 M]",M
+407,100729,original penguin,[Shoes],AVpe5YsL1cnluZ0-ZST8,Emperor Lace,34.99,USD,2016-05-22T00:00:00Z,"[10.5, 10, 8.5, 7, 9.5, 7.5, 11.5, 9, 8, 13, 11, 12]",IDK
+408,10073,givenchy,"[Women, Shoes, Flats, Lace-Ups]",AVpfHk2KilAPnD_xVVHB,Studded Derbys,869.0,USD,2016-06-09T00:00:00Z,"[5.5, 6.5, 7.5, 8.5, 9.5, 10.5, 6, 7, 8, 9, 10, 11]",W
+409,100730,jessica simpson,[shoes],AVpe5YwsilAPnD_xQVX_,Jessica Simpson Carah Platform Dress Sandals,89.0,USD,2015-05-19T18:38:33.087Z,,IDK
+410,100738,gucci,"[Women, Designer Collections, Designer Shoes, Sandals]",AVpe5ZJpLJeJML43xxDm,'marine' Sandal (women),660.0,USD,2016-03-30T00:00:00Z,,W
+411,100741,valentino,"[Women, Shoes, Flats, Ballet Flats]",AVpe5ZZCilAPnD_xQVls,Rockstud Caged Flats,599.0,USD,2016-06-13T00:00:00Z,"[10.5, 8.5, 5.5, 9.5, 11, 12, 10, 7, 6, 5, 6.5, 7.5, 11.5, 9, 8]",W
+412,100742,steven by steve madden,[Women's Shoes],AVpe5Za5ilAPnD_xQVml,Lanii,36.99,USD,2015-07-14T05:00:00Z,"[4M, 4.5M, 5M, 5.5M, 6M, 6.5M, 7M, 7.5M, 8M, 8.5M, 9M, 9.5M, 10M, 11M, 12M, 13M]",W
+413,100745,converse,"[Shoes, Finish Line Athletic Shoes]",AVpe5Zz11cnluZ0-ZSse,Converse Women's Chuck Taylor All Star Missoni Ox Casual Sneakers From Finish Line,94.99,USD,2016-03-03T00:00:00Z,,IDK
+414,100746,dc shoes,[Boys' Shoes],AVpe5_-z1cnluZ0-Zg61,Pure Velcro Faux Lace Sneaker Toddler,36.99,USD,2015-07-14T05:00:00Z,,M
+415,100748,bandolino,[shoes],AVpe5_0t1cnluZ0-Zg3y,Bandolino Steam Dress Pumps,25.49,USD,2015-06-10T05:00:00Z,,IDK
+416,10075,avia,[Shoes],AVpfHkVn1cnluZ0-eSu-,Avi-tangent A1483w,29.99,USD,2015-10-21T00:00:00Z,"[10.5, 8.5, 9.5, 11, 10, 7, 6, 6.5, 7.5, 9, 8]",IDK
+417,100752,dansko,"[Heels, Shoes]",AVpe5_HkilAPnD_xQjpS,Ruby,94.99,USD,2016-04-01T00:00:00Z,,IDK
+418,100753,cobian,"[Sandals, Shoes]",AVpe5_Iu1cnluZ0-Zgnt,Fiesta Skinny Bounce,23.56,USD,2016-04-10T00:00:00Z,"[10, 7, 6, 9, 8]",IDK
+419,100754,tod's,[shoes],AVpe5_KJLJeJML43x_O5,Patent Leather Ballet Flats,425.0,USD,2015-05-16T18:00:10.595Z,[35/5],IDK
+420,100757,charles by charles david,"[Women, Shoes, Pumps, Pointed Toe]",AVpe5_cL1cnluZ0-Zgty,'drew' Kitten Heel Pump (women),59.96,USD,2016-07-26T00:00:00Z,,W
+421,100758,vince,[shoes],AVpe5_dcLJeJML43x_UZ,Preston Woven Leather Slip-on Sneakers,295.0,USD,2015-05-12T22:17:58.542Z,[5.0],IDK
+422,10076,mars��ll,"[Men, Shoes, Boots]",AVpfHkWQLJeJML432xFk,Oiled Suede Chelsea Boots,629.0,USD,2016-06-09T00:00:00Z,"[10, 7, 9, 8, 11, 12]",M
+423,100760,matisse,"[Sandals, Shoes]",AVpe5_leLJeJML43x_X6,Eternity,27.75,USD,2016-04-29T00:00:00Z,"[10, 8.5, 7, 9.5, 9, 8]",IDK
+424,100762,life stride,[shoes],AVpe5_rNilAPnD_xQj1t,Life Stride Flavia Dress Wedges With Buckle,22.49,USD,2015-07-01T05:00:00Z,,IDK
+425,100765,sperry top-sider,"[Heels, Shoes]",AVpe5aScilAPnD_xQV6-,Hadley,59.99,USD,2016-04-01T00:00:00Z,"[10, 7, 9, 8]",IDK
+426,100766,bogs kids,"[Shoes, Boots]",AVpe5a_UilAPnD_xQWMA,Rain Boot Zebra (toddler/little Kid/big Kid),27.99,USD,2016-05-07T00:00:00Z,,IDK
+427,100767,franco sarto,"[Sandals, Shoes]",AVpe5ahFLJeJML43xxiz,Breezy,49.99,USD,2015-10-14T00:00:00Z,[10],IDK
+428,100768,bostonian,"[Oxfords, Shoes]",AVpe5ajhLJeJML43xxjs,Vesey Free,78.09,USD,2016-05-06T00:00:00Z,"[10.5, 10, 8.5, 7, 9.5, 7.5, 9, 11.5, 8, 11, 12]",IDK
+429,100769,volatile,[Girls' Shoes],AVpe5ao9LJeJML43xxl-,Kids' Glide Wedge Sandal Pre/grade School,18.99,USD,2015-07-18T05:00:00Z,"[3M, 2M, 1M, 11M, 10M, 13M, 4M, 12M]",W
+430,10077,stuart weitzman,"[Shoes, Boots]",AVpfHl2vLJeJML432xlh,Gran,282.99,USD,2016-05-05T00:00:00Z,"[10.5, 8.5, 7, 6, 5, 4, 6.5, 7.5, 9, 8, 11]",IDK
+431,100770,steve madden,"[Oxfords, Shoes]",AVpe5aylLJeJML43xxp0,Havin,79.99,USD,2016-05-05T00:00:00Z,"[10, 7, 9.5, 7.5, 11.5, 11]",IDK
+432,100771,crocs,"[Sandals, Shoes]",AVpe5b88LJeJML43xyGS,Louisiana State University Modi Flip,14.99,USD,2015-10-21T00:00:00Z,,IDK
+433,100772,frye,[shoes],AVpe5bDFilAPnD_xQWNx,Frye Dorado Riding Boots,548.0,USD,2015-05-31T18:04:00.629Z,,IDK
+434,100773,naturalizer,[shoes],AVpe5bSWilAPnD_xQWT2,Naturalizer Denyse Peep-toe Pumps,29.99,USD,2015-08-24T00:00:00Z,,IDK
+435,100776,aquatalia,"[Sandals, Shoes]",AVpe5be31cnluZ0-ZTUI,Ravish,157.99,USD,2016-04-02T00:00:00Z,"[5.5, 6, 9.5, 7.5, 8, 11]",IDK
+436,10078,khombu,"[Shoes, Boots]",AVpfHl4A1cnluZ0-eTQO,Alta,39.99,USD,2015-10-28T00:00:00Z,"[7, 6, 11]",IDK
+437,100780,modit,"[Shoes, Girls' Shoes]",AVpe5by-ilAPnD_xQWgZ,Modit White T Strap Beaded Buckle Small Heel Dress Shoe Toddler Girl 5-9,13.74,USD,2016-03-17T00:00:00Z,,W
+438,100785,isaac mizrahi new york,"[Heels, Shoes]",AVpe5dcUilAPnD_xQXHc,Darcy,42.99,USD,2015-10-29T00:00:00Z,"[5.5, 8.5, 7, 6, 5, 9.5, 6.5, 7.5, 9, 8]",IDK
+439,100787,ecco,"[Shoes, Boots]",AVpe5dh_1cnluZ0-ZUFr,Sculptured 75 Tall Boot,134.99,USD,2016-05-06T00:00:00Z,,IDK
+440,100788,la canadienne,"[Shoes, Boots]",AVpe5dpS1cnluZ0-ZUIm,Dawson,465.0,USD,2016-06-19T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8, 11]",IDK
+441,100789,aldo,"[Shoes, Boots]",AVpe5drY1cnluZ0-ZUJY,Prearia,87.99,USD,2016-05-22T00:00:00Z,,IDK
+442,100793,tommy hilfiger,[Girls' Shoes],AVpe5eG3ilAPnD_xQXXx,Kids' Sandy Lock Charm Sandal Toddler/pre/grade School,28.98,USD,2015-08-13T00:00:00Z,"[3M, 2M, 1M, 11M, 10M, 9M, 13M, 8M, 4M, 5M, 12M]",W
+443,100794,merrell,"[Heels, Shoes]",AVpe5eHxLJeJML43xy6P,Veranda Emme,84.99,USD,2016-04-01T00:00:00Z,"[10.5, 10, 8.5, 5.5, 7, 6, 9.5, 5, 6.5, 7.5, 9, 8, 11]",IDK
+444,100795,bare traps,"[Sport, Biography, Sandals, Drama, Shoes]",AVpe5eLH1cnluZ0-ZUVV,Belicia,19.99,USD,2015-10-21T00:00:00Z,"[8.5, 6, 6.5, 7.5, 8]",IDK
+445,100797,skechers,[Shoes],AVpe5ePlilAPnD_xQXbV,Flex Appeal - Sweet Spot,45.99,USD,2016-01-11T00:00:00Z,[8.5],IDK
+446,100798,walking cradles,[Shoes],AVpe5eVf1cnluZ0-ZUZU,Cullen,69.99,USD,2016-05-22T00:00:00Z,"[10.5, 5.5, 8.5, 9.5, 4.5, 11, 10, 7, 6, 5, 4, 6.5, 7.5, 9, 8]",IDK
+447,100799,polo ralph lauren kids,"[Shoes, Boots]",AVpe5eVyLJeJML43xzAF,Conquest Hi (big Kid),45.99,USD,2016-05-05T00:00:00Z,,IDK
+448,10080,ugg australia,"[Women, Rain Winter Boots, Shoes, Waterproof, Boots]",AVpfHlFK1cnluZ0-eS91,'denhali' Hiker Boot (women),174.95,USD,2015-11-01T00:00:00Z,"[5.5, 8.5, 10, 7, 6, 5, 9.5, 6.5, 7.5, 9, 8, 11, 12]",W
+449,100802,adidas kids,[Shoes],AVpe5el91cnluZ0-ZUft,Barricade Team 4 Xj (little Kid/big Kid),31.99,USD,2016-05-05T00:00:00Z,,IDK
+450,100803,new balance,[Shoes],AVpe5emi1cnluZ0-ZUf9,Mxc700v3,44.99,USD,2016-03-30T00:00:00Z,"[10.5, 10, 7, 9.5, 9, 11.5, 8, 11, 12]",IDK
+451,100804,dr. martens,[Shoes],AVpe5epa1cnluZ0-ZUhY,Alexei Plastic Tc Lace To Toe,50.0,USD,2016-02-07T00:00:00Z,,IDK
+452,100805,trotters,"[Women, Shoes, Pumps, Comfort]",AVpe5f-PilAPnD_xQYEn,Pump,114.95,USD,2015-11-08T00:00:00Z,"[10.5, 5.5, 8.5, 10, 7, 6, 5, 9.5, 6.5, 7.5, 9, 8, 11, 12]",W
+453,100807,donald j pliner,"[Heels, Shoes]",AVpe5f64ilAPnD_xQYDq,Cari,99.99,USD,2016-01-11T00:00:00Z,"[5.5, 8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+454,100810,taos footwear,"[Loafers, Shoes]",AVpe5feE1cnluZ0-ZU0n,Shuffle,74.99,USD,2016-04-05T00:00:00Z,"[8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+455,100815,patagonia,[Shoes],AVpe5gJAilAPnD_xQYIP,C-street Lace,49.99,USD,2015-10-18T00:00:00Z,"[10.5, 11.5, 13, 11]",IDK
+456,100819,superfit,[Shoes],AVpe5gbA1cnluZ0-ZVKi,Tibo (toddler),39.99,USD,2015-10-21T00:00:00Z,,IDK
+457,10082,burberry,"[Accessories, Men, Prescription Eyewear Frames, Shoes]",AVpfHlI61cnluZ0-eS_Z,Burberry Be2162 Eyeglasses-3002 Dark Havana-53mm,133.0,USD,2016-03-11T00:00:00Z,,M
+458,100821,loshin's,"[Athletic, Women, Shoes]",AVpe5gznLJeJML43xz3w,Women's Split Sole Leather Jazz Shoe,8.0,USD,2016-05-11T00:00:00Z,,W
+459,100822,coach,[shoes],AVpe5h9IilAPnD_xQYyN,Coach Francesca Sneaker,59.99,USD,2015-05-19T18:57:15.528Z,,IDK
+460,100826,superfit,"[Shoes, Boots]",AVpe5hhb1cnluZ0-ZVjG,Grima (little Kid/big Kid),39.99,USD,2016-04-18T00:00:00Z,,IDK
+461,10083,steve madden,"[Heels, Shoes]",AVpfHlM0ilAPnD_xVVOR,Benchh,26.99,USD,2015-10-21T00:00:00Z,"[10, 8.5, 7.5]",IDK
+462,100833,loeffler randall,"[New Arrivals, Women, Shoes, Contemporary, Flats]",AVpe5imW1cnluZ0-ZV8F,'ambra' Pointy Toe Ghillie Flat (women),295.0,USD,2015-11-08T00:00:00Z,"[10.5, 5.5, 8.5, 10, 7, 6, 5, 9.5, 6.5, 7.5, 9, 8, 11]",W
+463,100834,skechers,"[Shoes, Boots]",AVpe5inRLJeJML43x0iL,Infantry - Stylish Soldier,65.99,USD,2015-10-20T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8]",IDK
+464,100837,skechers,"[Academy, Women's Shoes, Women's Active Shoes]",AVpe5j4w1cnluZ0-ZWbb,Skechers Women's Go Flex Lace-up Shoes,69.99,USD,2016-07-14T00:00:00Z,,W
+465,100840,new balance,[Shoes],AVpe5jEXilAPnD_xQZME,New Balance T410v4,52.99,USD,2016-06-22T00:00:00Z,,IDK
+466,100841,clarks,"[Shoes, Boots]",AVpe5jHKilAPnD_xQZNE,Bushacre Rand,50.0,USD,2016-05-22T00:00:00Z,"[10.5, 8.5, 10, 7, 9.5, 7.5, 11.5, 9, 8, 13, 11, 12]",IDK
+467,100842,dolce by mojo moxy,"[Sandals, Shoes]",AVpe5jSv1cnluZ0-ZWMz,Siesta,25.75,USD,2016-03-29T00:00:00Z,"[10, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8]",IDK
+468,100845,sesto meucci,"[Shoes, Boots]",AVpe5jfJilAPnD_xQZWM,Funny,168.96,USD,2016-04-05T00:00:00Z,"[9.5, 7.5, 8]",IDK
+469,100847,crocs kids,[Shoes],AVpe5jmvLJeJML43x06L,Blitzen Ii Clog (toddler/little Kid),16.99,USD,2016-05-07T00:00:00Z,,IDK
+470,100848,columbia,[Shoes],AVpe5jng1cnluZ0-ZWUn,Vulc N Vent��� Half Dome,39.99,USD,2016-04-29T00:00:00Z,"[10.5, 10, 8.5, 7, 9.5, 7.5, 11.5, 9, 8, 13, 14, 11, 12]",IDK
+471,10085,rachel kids,"[Sandals, Shoes]",AVpfHlQcLJeJML432xYM,Miramar (toddler/little Kid),14.99,USD,2016-01-11T00:00:00Z,,IDK
+472,100851,e! live from the red carpet,"[Heels, Shoes]",AVpe5jrzilAPnD_xQZa2,Sara,60.05,USD,2016-05-22T00:00:00Z,"[5.5, 9]",IDK
+473,100854,fergalicious,"[Sandals, Shoes]",AVpe5k4lLJeJML43x1aq,Sunday,21.99,USD,2016-05-06T00:00:00Z,"[5.5, 8.5, 10, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+474,100855,crocs,[Shoes],AVpe5k5b1cnluZ0-ZW1G,Crocband Ii.5 Clog,27.99,USD,2016-05-08T00:00:00Z,,IDK
+475,100857,nike kids,[Shoes],AVpe5kBd1cnluZ0-ZWe9,Flex Experience 4 (little Kid),44.0,USD,2016-06-19T00:00:00Z,,IDK
+476,10086,steve madden kids,"[Sandals, Shoes]",AVpfHlR91cnluZ0-eTCu,Jtaahnee (toddler/little Kid/big Kid),35.99,USD,2016-06-19T00:00:00Z,,IDK
+477,100867,mizuno,[Shoes],AVpe5lWwilAPnD_xQaEX,Wave Hayate,62.99,USD,2015-10-21T00:00:00Z,[6],IDK
+478,100869,rocky,"[Shoes, Men's Shoes, Men's Boots]",AVpe5lb31cnluZ0-ZXCs,Rocky Work Boots Mens 6 Elements Dirt Waterproof St Brown Rkyk074,154.99,USD,2016-03-22T00:00:00Z,"[8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 13]",M
+479,10087,bass,"[Shoes, Boots]",AVpfHlT9ilAPnD_xVVQr,Bridgit,19.99,USD,2016-02-03T00:00:00Z,"[10, 8.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+480,100870,superfit,"[Sandals, Shoes]",AVpe5lswilAPnD_xQaMQ,Tia (toddler/little Kid/big Kid),15.99,USD,2016-01-31T00:00:00Z,,IDK
+481,100871,clarks,[Men's Shoes],AVpe5lzWilAPnD_xQaPE,Nepler Rise,121.99,USD,2015-07-14T05:00:00Z,"[7M, 7.5M, 8M, 8.5M, 9M, 9.5M, 10M, 10.5M, 11M, 11.5M, 12M, 13M]",M
+482,100872,reebok,[Shoes],AVpe5m-JilAPnD_xQasy,All Terrain Super 2.0 Tri,79.99,USD,2016-04-10T00:00:00Z,"[10.5, 10, 8.5, 7, 9.5, 7.5, 11.5, 9, 8]",IDK
+483,100873,clarks,[Shoes],AVpe5mPD1cnluZ0-ZXVC,Randle Walk,62.47,USD,2016-05-05T00:00:00Z,"[10.5, 10, 8.5, 9.5, 11.5, 9, 8, 13, 11, 12]",IDK
+484,100875,gabriela hearst,"[Women, Shoes, Heels, Sandals]",AVpe5mgs1cnluZ0-ZXc4,Holloway Mule Booties,795.0,USD,2016-05-15T12:16:00Z,"[6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11]",W
+485,100876,frye,"[Shoes, Boots]",AVpe5mqVilAPnD_xQalH,Celia Shearling Short,179.99,USD,2016-05-22T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 9.5, 6.5, 7.5, 9, 8, 11]",IDK
+486,100877,jordan,"[Shoes, Men, Athletic, Team Sports, Basketball]",AVpe5mrO1cnluZ0-ZXg5,Jordan Nike Men's Cp3 Viii Basketball Shoes-black/white/infrared,134.97,USD,2015-10-30T00:00:00Z,,M
+487,100879,ralph lauren,"[Women, Shoes, Boots]",AVpe5ms7LJeJML43x2HO,Henrietta Leather Bootie,299.99,USD,2016-02-21T00:00:00Z,"[40.5, 38, 37.5, 41, 39.5, 35, 38.5, 36.5, 36, 40, 39, 37, 35.5]",W
+488,100885,puma kids,[Shoes],AVpe5nLg1cnluZ0-ZXs4,Whirlwind V (toddler/little Kid/big Kid),35.99,USD,2016-04-02T00:00:00Z,,IDK
+489,100888,robert clergerie,"[Women, Shoes, Platforms]",AVpe5nRD1cnluZ0-ZXuy,Frazziak Double-band Platform Sandals,299.0,USD,2016-06-09T00:00:00Z,"[6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11]",W
+490,100889,olukai,"[Shoes, Boots]",AVpe5nRLilAPnD_xQazf,Mauna Iki,175.0,USD,2016-05-05T00:00:00Z,"[10.5, 10, 8.5, 9.5, 11.5, 9, 8, 13, 14, 11, 12]",IDK
+491,10089,keystone,"[Men's Boots, Shoes, Men's Shoes]",AVpfHlaU1cnluZ0-eTFq,"Keystone Sc-nwi-ns-xl Polypropylene Non-skid Shoe Cover, X-large, Blue With White Tread (case of 150 Pairs)",58.64,USD,2016-03-30T00:00:00Z,,M
+492,100890,dolce vita kids,"[Sandals, Shoes]",AVpe5nSr1cnluZ0-ZXvK,Shiley (little Kid/big Kid),19.5,USD,2016-05-06T00:00:00Z,,IDK
+493,100892,giuseppe zanotti,"[Sandals, Shoes]",AVpe5nULLJeJML43x2Wl,Rs5063,128.0,USD,2016-04-29T00:00:00Z,,IDK
+494,100896,aerin,"[Shoes, Boots]",AVpe5o1L1cnluZ0-ZYRQ,Lacy,132.68,USD,2016-02-08T00:00:00Z,[7],IDK
+495,100899,top moda,"[Women's Casual Shoes, Shoes, Women's Boots, Women's Shoes]",AVpe5o6tilAPnD_xQbYR,Top Moda Mark-75 Women's Low Heel Zipper Round Toe Mid-calf Knee High Boot Shoes,27.95,USD,2016-03-31T00:00:00Z,"[10, 8.5, 5.5, 7, 6, 5, 6.5, 7.5, 9, 8]",W
+496,1009,puma,"[Academy, Boys' Shoes, Boys' Cleats, Boys' Soccer Cleats]",AVpe4T_0ilAPnD_xP60n,Puma Kids' Evopower 1.3 Tricks Fg Jr Soccer Cleats,79.99,USD,2016-07-13T00:00:00Z,,M
+497,10090,primigi,[Girls' Shoes],AVpfHle01cnluZ0-eTHL,Choate Loafer Preschool,84.95,USD,2015-07-18T05:00:00Z,,W
+498,100902,steve madden,"[Heels, Shoes]",AVpe5oNGLJeJML43x2qp,Valine,44.99,USD,2016-01-11T00:00:00Z,"[5.5, 10, 7]",IDK
+499,100903,kenneth cole-reaction,[shoes men],AVpe5oOrilAPnD_xQbJw,Kenneth Cole Reaction Men's Low Rider Casual Sneakers,69.99,USD,2015-04-26T22:11:42.852Z,,IDK
